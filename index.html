@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Arcade facilitator 24 - Leaderboard</title>
+    <link rel="icon" href="logo.png" type="image/x-icon">
+
+    <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+    <h4 style="background-color: rgb(0, 3, 38); color: #ffc400; margin: auto; text-align: center; padding: 1rem;">Arcade
+        Facilitator 24 - Leaderboard</h4>
+    <nav class="w-full  shadow-md relative ">
+        <div class="navbar">
+            <div class="nav-logo">
+                <div class="img w-16 h-1w-16 rounded-full ">
+                    <img alt="me" loading="lazy" width="45" height="25" decoding="async" data-nimg="1"
+                        style="color:transparent" style="padding: 2px; margin: 2px;" srcset="" src="logo.png">
+                </div>
+                <div class="text flex flex-col justify-start items-start">
+                    <p class="text-base " style="padding-inline: 5px; font-size: 1rem;">Google Developer Student Club
+                    </p>
+                    <p class="text-xs" style="font-size: 0.6rem; "> <!-- -->Dr.Babasaheb Ambedkar Technological
+                        University</p>
+                </div>
+            </div>
+            <div class="nav-logo">
+                <div class="img">
+                    <a href="https://rsvp.withgoogle.com/events/arcade-facilitator/" target="_blank"><img alt="me"
+                            loading="lazy" width="45" height="35" decoding="async" data-nimg="1"
+                            style="color:transparent" style="padding: 2px; margin: 2px;" srcset="" src="arcade.png"></a>
+                </div>
+                <div class="img">
+                    <a href="https://www.linkedin.com/in/google-developer-students-club-dbatu-359325300/"
+                        target="_blank"><img alt="me" loading="lazy" width="35" height="35" decoding="async"
+                            data-nimg="1" style="color:transparent" style="padding: 2px; margin: 2px;" srcset=""
+                            src="link.png"></a>
+                </div>
+                <div class="img">
+                    <a href="https://www.instagram.com/gdsc_dbatu/" target="_blank"><img alt="me" loading="lazy"
+                            width="35" height="35" decoding="async" data-nimg="1" style="color:transparent"
+                            style="padding: 2px; margin: 2px;" srcset="" src="insta.png"></a>
+                </div>
+            </div>
+        </div>
+    </nav>
+    <div class="container">
+        <div class="note"
+            style="text-align: center; margin-bottom: 4vh; color: rgba(5, 0, 56, 0.7); font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif; font-style: italic; ">
+        <p style="font-weight: bold;"> 🏆Cloud Superstars Assemble!</p>
+            <p> Our top skill badge earners are a force to be reckoned with. Join the ranks of the elite. ⚡</p>
+        </div>
+        <div class="search-container">
+            <input type="text" id="search-input" placeholder="Search...">
+            <button onclick="searchTable()">Search</button>
+        </div>
+        <div class="box">
+
+            <table id="data-table">
+                <thead>
+                    <tr id="table-header">
+                        <th>Sr. No.</th>
+                        <!-- Table headers will be populated by JavaScript -->
+                    </tr>
+                </thead>
+                <tbody id="table-body">
+                    <!-- Table body will be populated by JavaScript -->
+                </tbody>
+            </table>
+        </div>
+    </div>
+    <div class="cp"
+        style="background-color: rgb(0, 3, 38); color: #ffffff; margin: auto; text-align: center; padding: 1rem; bottom: 0;">
+        © 2024
+        Copyright:DBATU-GDSC</div>
+
+
+    <div id="tooltip" class="tooltip hidden"></div>
+    <script src="script.js"></script>
+
+</body>
+
+</html>

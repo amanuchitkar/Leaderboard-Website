@@ -1,0 +1,201 @@
+/* styles.css */
+* {
+    border: 0;
+    margin: 0;
+    padding: 0;
+    box-sizing: 0;
+}
+
+body::-webkit-scrollbar {
+    width: 3px;
+    /* Thinner width of the scrollbar */
+}
+
+body::-webkit-scrollbar-track {
+    background: transparent;
+    /* Transparent background for the track */
+}
+
+body::-webkit-scrollbar-thumb {
+    background-color: rgba(255, 213, 0, 0.7);
+    /* Semi-transparent yellow for the thumb */
+    border-radius: 10px;
+    /* Rounded corners for the thumb */
+}
+
+body {
+    overflow: auto;
+    font-family: Arial, sans-serif;
+    font-size: small;
+    margin: 0;
+    padding: 0;
+    scrollbar-width: thin;
+    /* Set the scrollbar width to thin */
+    scrollbar-color: rgba(255, 213, 0, 0.7) transparent;
+    /* Semi-transparent yellow for the thumb */
+}
+
+.navbar {
+    background-color: #ffffff;
+    padding: 10px;
+    display: flex;
+    text-align: center;
+    border-bottom: 1px solid #dddddd;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    margin-bottom: 4vh;
+    justify-content: space-around;
+    align-items: center;
+    font-size: medium;
+    font-family: Arial, Helvetica, sans-serif;
+    height: 6rem;
+}
+
+.nav-logo {
+    display: flex;
+    padding: 5px;
+    
+}
+
+.container {
+    margin-bottom: 1.5rem;
+}
+
+.box {
+    width: 90vw;
+    max-height: 65vh;
+    scroll-behavior: smooth;
+    overflow-x: auto;
+    margin: auto;
+    border-radius: 10px;
+    padding: 2px;
+    scrollbar-width: thin;
+    /* Set the scrollbar width to thin for Firefox */
+    scrollbar-color: rgba(255, 213, 0, 0.7) transparent;
+    /* Semi-transparent yellow for the thumb */
+    font-size: x-small;
+}
+
+.box::-webkit-scrollbar {
+    width: 3px;
+    /* Thinner width of the scrollbar for .box */
+}
+
+.box::-webkit-scrollbar-track {
+    background: transparent;
+    /* Transparent background for the track */
+}
+
+.box::-webkit-scrollbar-thumb {
+    background-color: rgba(255, 213, 0, 0.7);
+    /* Semi-transparent yellow for the thumb */
+    border-radius: 10px;
+    /* Rounded corners for the thumb */
+}
+
+.search-container {
+    text-align: center;
+    margin-bottom: 20px;
+    border-radius: 30px;
+}
+
+input[type="text"] {
+    border-radius: 30px;
+    padding: 10px;
+    width: 40vw;
+    box-shadow: 4px 4px 11px 2px rgba(0, 0, 0, 0.1);
+    border: 1px solid #dddddd;
+    margin-right: 10px;
+}
+
+button {
+    padding: 10px 20px;
+    border: none;
+    border-radius: 4px;
+    background-color: #ffe642;
+    color: rgb(0, 0, 0);
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+#data-table {
+    overflow-y: scroll;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+th,
+td {
+    border: 1px solid #dddddd;
+    padding: 8px;
+    text-align: left;
+    border-radius: 5px;
+}
+
+th {
+    background-color: #ffc400;
+}
+
+tr:nth-child(even) td {
+    background-color: #fff0b8;
+}
+
+tr:nth-child(odd) td {
+    background-color: #fffff6;
+}
+
+td {
+    max-width: 100px; ;
+    /* Adjust the max-width as needed */
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    position: relative;
+    text-align: center;
+}
+
+td:active::after {
+    content: attr(data-fulltext);
+    position: absolute;
+    background-color: #fff;
+    padding: 5px;
+    border: 1px solid #ddd;
+    white-space: normal;
+    z-index: 1;
+    max-width: 300px;
+    /* Adjust the max-width for hover display */
+    border-radius: 20px;
+}
+
+#hover-container {
+    position: absolute;
+    background-color: rgb(255, 238, 168);
+    border: 1px solid #dddddd;
+    padding: 10px;
+    box-shadow: 0 0 10px rgba(64, 64, 64, 0.1);
+    display: none;
+}
+
+.hidden {
+    display: none;
+}
+
+.tooltip {
+    position: absolute;
+    background-color: #fefcd6;
+    border-radius: 15px;
+    border: 1px solid #dddddd00;
+    padding: 10px;
+    box-shadow: 0 0 10px rgb(0, 0, 0);
+    display: none;
+    z-index: 1000;
+    font-size: x-small;
+}
+
+.img {
+    padding: 2px;
+    border-radius: 3px;
+    margin-inline: 5px;
+}
