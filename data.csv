@@ -1,290 +1,289 @@
-User Name,Access Code Redemption Status,No.of Skill Badges Completed,Names of Completed Skill Badges,No. of Arcade Games Completed,No. of Trivia Games Completed
-Atharva Abhaykumar Datar,Yes,42,"Develop GenAI Apps with Gemini and Streamlit [Skill Badge] | Prompt Design in Vertex AI [Skill Badge] | Manage Kubernetes in Google Cloud [Skill Badge] | Use Functions, Formulas, and Charts in Google Sheets [Skill Badge] | Mitigate Threats and Vulnerabilities with Security Command Center [Skill Badge] | The Basics of Google Cloud Compute [Skill Badge] | Networking Fundamentals on Google Cloud [Skill Badge] | Monitoring in Google Cloud [Skill Badge] | Develop Serverless Applications on Cloud Run [Skill Badge] | Get Started with Pub/Sub [Skill Badge] | Get Started with Eventarc [Skill Badge] | Get Started with Dataplex [Skill Badge] | Get Started with Cloud Storage [Skill Badge] | Implement DevOps Workflows in Google Cloud [Skill Badge] | Cloud Speech API: 3 Ways [Skill Badge] | Cloud Functions: 3 Ways [Skill Badge] | Get Started with Google Workspace Tools [Skill Badge] | App Engine: 3 Ways [Skill Badge] | Deploy Kubernetes Applications on Google Cloud [Skill Badge] | Get Started with API Gateway [Skill Badge] | Perform Predictive Data Analysis in BigQuery [Skill Badge] | Optimize Costs for Google Kubernetes Engine [Skill Badge] | Build a Secure Google Cloud Network [Skill Badge] | Manage Data Models in Looker [Skill Badge] | Develop Serverless Apps with Firebase [Skill Badge] | Implement Load Balancing on Compute Engine [Skill Badge] | Get Started with Looker [Skill Badge] | Classify Images with TensorFlow on Google Cloud [Skill Badge] | Implement Cloud Security Fundamentals on Google Cloud [Skill Badge] | Cloud Architecture: Design, Implement, and Manage [Skill Badge] | Set Up an App Dev Environment on Google Cloud [Skill Badge] | Build Infrastructure with Terraform on Google Cloud [Skill Badge] | App Building with AppSheet [Skill Badge] | Analyze Speech and Language with Google APIs [Skill Badge] | Analyze Images with the Cloud Vision API [Skill Badge] | Prepare Data for ML APIs on Google Cloud [Skill Badge] | Use Machine Learning APIs on Google Cloud [Skill Badge] | Engineer Data for Predictive Modeling with BigQuery ML [Skill Badge] | Create ML Models with BigQuery ML [Skill Badge] | Develop your Google Cloud Network [Skill Badge] | Build a Data Warehouse with BigQuery [Skill Badge] | Derive Insights from BigQuery Data [Skill Badge]",0,0
-Dhanashri Mahendra Mahade,Yes,42,"Prompt Design in Vertex AI [Skill Badge] | Manage Kubernetes in Google Cloud [Skill Badge] | Using the Google Cloud Speech API [Skill Badge] | Use APIs to Work with Cloud Storage [Skill Badge] | The Basics of Google Cloud Compute [Skill Badge] | Tag and Discover BigLake Data [Skill Badge] | Streaming Analytics into BigQuery [Skill Badge] | Secure BigLake Data [Skill Badge] | Protect Sensitive Data with Data Loss Prevention [Skill Badge] | Networking Fundamentals on Google Cloud [Skill Badge] | Monitoring in Google Cloud [Skill Badge] | Get Started with Pub/Sub [Skill Badge] | Get Started with Eventarc [Skill Badge] | Get Started with Dataplex [Skill Badge] | Get Started with Cloud Storage [Skill Badge] | Create a Streaming Data Lake on Cloud Storage [Skill Badge] | Create a Secure Data Lake on Cloud Storage [Skill Badge] | Configure Service Accounts and IAM Roles for Google Cloud [Skill Badge] | Cloud Speech API: 3 Ways [Skill Badge] | Cloud Functions: 3 Ways [Skill Badge] | Get Started with Google Workspace Tools [Skill Badge] | App Engine: 3 Ways [Skill Badge] | Deploy Kubernetes Applications on Google Cloud [Skill Badge] | Get Started with API Gateway [Skill Badge] | Store, Process, and Manage Data on Google Cloud - Command Line [Skill Badge] | Store, Process, and Manage Data on Google Cloud - Console [Skill Badge] | Perform Predictive Data Analysis in BigQuery [Skill Badge] | Build a Secure Google Cloud Network [Skill Badge] | Monitor and Manage Google Cloud Resources [Skill Badge] | Create and Manage Bigtable Instances [Skill Badge] | Implement Load Balancing on Compute Engine [Skill Badge] | Create and Manage Cloud Spanner Instances [Skill Badge] | Build LookML Objects in Looker [Skill Badge] | Build a Website on Google Cloud [Skill Badge] | Set Up an App Dev Environment on Google Cloud [Skill Badge] | Build Infrastructure with Terraform on Google Cloud [Skill Badge] | Analyze Images with the Cloud Vision API [Skill Badge] | Prepare Data for ML APIs on Google Cloud [Skill Badge] | Engineer Data for Predictive Modeling with BigQuery ML [Skill Badge] | Develop your Google Cloud Network [Skill Badge] | Build a Data Warehouse with BigQuery [Skill Badge] | Derive Insights from BigQuery Data [Skill Badge]",0,0
-Hasan Abdu Rahman,Yes,42,"Manage Kubernetes in Google Cloud [Skill Badge] | Use Functions, Formulas, and Charts in Google Sheets [Skill Badge] | Use APIs to Work with Cloud Storage [Skill Badge] | The Basics of Google Cloud Compute [Skill Badge] | Tag and Discover BigLake Data [Skill Badge] | Streaming Analytics into BigQuery [Skill Badge] | Secure BigLake Data [Skill Badge] | Protect Sensitive Data with Data Loss Prevention [Skill Badge] | Networking Fundamentals on Google Cloud [Skill Badge] | Monitoring in Google Cloud [Skill Badge] | Integrate BigQuery Data and Google Workspace using Apps Script [Skill Badge] | Get Started with Pub/Sub [Skill Badge] | Get Started with Eventarc [Skill Badge] | Get Started with Dataplex [Skill Badge] | Get Started with Cloud Storage [Skill Badge] | Implement DevOps Workflows in Google Cloud [Skill Badge] | Create a Streaming Data Lake on Cloud Storage [Skill Badge] | Cloud Speech API: 3 Ways [Skill Badge] | Cloud Functions: 3 Ways [Skill Badge] | Get Started with Google Workspace Tools [Skill Badge] | App Engine: 3 Ways [Skill Badge] | Analyze Sentiment with Natural Language API [Skill Badge] | Deploy Kubernetes Applications on Google Cloud [Skill Badge] | Get Started with API Gateway [Skill Badge] | Store, Process, and Manage Data on Google Cloud - Command Line [Skill Badge] | Store, Process, and Manage Data on Google Cloud - Console [Skill Badge] | Build a Secure Google Cloud Network [Skill Badge] | Monitor and Manage Google Cloud Resources [Skill Badge] | Implement Load Balancing on Compute Engine [Skill Badge] | Get Started with Looker [Skill Badge] | Classify Images with TensorFlow on Google Cloud [Skill Badge] | Build LookML Objects in Looker [Skill Badge] | Build a Website on Google Cloud [Skill Badge] | Set Up an App Dev Environment on Google Cloud [Skill Badge] | App Building with AppSheet [Skill Badge] | Analyze Images with the Cloud Vision API [Skill Badge] | Prepare Data for ML APIs on Google Cloud [Skill Badge] | Use Machine Learning APIs on Google Cloud [Skill Badge] | Engineer Data for Predictive Modeling with BigQuery ML [Skill Badge] | Create ML Models with BigQuery ML [Skill Badge] | Develop your Google Cloud Network [Skill Badge] | Derive Insights from BigQuery Data [Skill Badge]",0,0
-Muhammad Syukron Jazila,Yes,42,"Prompt Design in Vertex AI [Skill Badge] | Manage Kubernetes in Google Cloud [Skill Badge] | Use Functions, Formulas, and Charts in Google Sheets [Skill Badge] | Using the Google Cloud Speech API [Skill Badge] | Use APIs to Work with Cloud Storage [Skill Badge] | The Basics of Google Cloud Compute [Skill Badge] | Networking Fundamentals on Google Cloud [Skill Badge] | Monitoring in Google Cloud [Skill Badge] | Integrate BigQuery Data and Google Workspace using Apps Script [Skill Badge] | Get Started with Pub/Sub [Skill Badge] | Get Started with Eventarc [Skill Badge] | Get Started with Dataplex [Skill Badge] | Get Started with Cloud Storage [Skill Badge] | Implement DevOps Workflows in Google Cloud [Skill Badge] | Create a Streaming Data Lake on Cloud Storage [Skill Badge] | Configure Service Accounts and IAM Roles for Google Cloud [Skill Badge] | Cloud Speech API: 3 Ways [Skill Badge] | Cloud Functions: 3 Ways [Skill Badge] | Build Google Cloud Infrastructure for Azure Professionals [Skill Badge] | Get Started with Google Workspace Tools [Skill Badge] | Automate Data Capture at Scale with Document AI [Skill Badge] | App Engine: 3 Ways [Skill Badge] | Analyze Sentiment with Natural Language API [Skill Badge] | Deploy Kubernetes Applications on Google Cloud [Skill Badge] | Get Started with API Gateway [Skill Badge] | Store, Process, and Manage Data on Google Cloud - Command Line [Skill Badge] | Store, Process, and Manage Data on Google Cloud - Console [Skill Badge] | Build a Secure Google Cloud Network [Skill Badge] | Manage Data Models in Looker [Skill Badge] | Implement Load Balancing on Compute Engine [Skill Badge] | Get Started with Looker [Skill Badge] | Classify Images with TensorFlow on Google Cloud [Skill Badge] | Set Up an App Dev Environment on Google Cloud [Skill Badge] | Build Infrastructure with Terraform on Google Cloud [Skill Badge] | App Building with AppSheet [Skill Badge] | Analyze Speech and Language with Google APIs [Skill Badge] | Analyze Images with the Cloud Vision API [Skill Badge] | Prepare Data for ML APIs on Google Cloud [Skill Badge] | Create ML Models with BigQuery ML [Skill Badge] | Develop your Google Cloud Network [Skill Badge] | Derive Insights from BigQuery Data [Skill Badge] | Build Real World AI Applications with Gemini and Imagen [Skill Badge]",0,0
-Sanket Hanjari Rathod,Yes,42,"Manage Kubernetes in Google Cloud [Skill Badge] | Use Functions, Formulas, and Charts in Google Sheets [Skill Badge] | Using the Google Cloud Speech API [Skill Badge] | Use APIs to Work with Cloud Storage [Skill Badge] | The Basics of Google Cloud Compute [Skill Badge] | Tag and Discover BigLake Data [Skill Badge] | Streaming Analytics into BigQuery [Skill Badge] | Secure BigLake Data [Skill Badge] | Networking Fundamentals on Google Cloud [Skill Badge] | Monitoring in Google Cloud [Skill Badge] | Get Started with Pub/Sub [Skill Badge] | Get Started with Cloud Storage [Skill Badge] | Implement DevOps Workflows in Google Cloud [Skill Badge] | Create a Secure Data Lake on Cloud Storage [Skill Badge] | Configure Service Accounts and IAM Roles for Google Cloud [Skill Badge] | Cloud Speech API: 3 Ways [Skill Badge] | Cloud Functions: 3 Ways [Skill Badge] | App Engine: 3 Ways [Skill Badge] | Analyze Sentiment with Natural Language API [Skill Badge] | Deploy Kubernetes Applications on Google Cloud [Skill Badge] | Get Started with API Gateway [Skill Badge] | Store, Process, and Manage Data on Google Cloud - Command Line [Skill Badge] | Store, Process, and Manage Data on Google Cloud - Console [Skill Badge] | Share Data Using Google Data Cloud [Skill Badge] | Monitor and Manage Google Cloud Resources [Skill Badge] | Develop Serverless Apps with Firebase [Skill Badge] | Implement Load Balancing on Compute Engine [Skill Badge] | Get Started with Looker [Skill Badge] | Classify Images with TensorFlow on Google Cloud [Skill Badge] | Set Up a Google Cloud Network [Skill Badge] | Set Up an App Dev Environment on Google Cloud [Skill Badge] | Build Infrastructure with Terraform on Google Cloud [Skill Badge] | App Building with AppSheet [Skill Badge] | Analyze Speech and Language with Google APIs [Skill Badge] | Analyze Images with the Cloud Vision API [Skill Badge] | Analyze BigQuery Data in Connected Sheets [Skill Badge] | Prepare Data for ML APIs on Google Cloud [Skill Badge] | Use Machine Learning APIs on Google Cloud [Skill Badge] | Prepare Data for Looker Dashboards and Reports [Skill Badge] | Develop your Google Cloud Network [Skill Badge] | Build a Data Warehouse with BigQuery [Skill Badge] | Derive Insights from BigQuery Data [Skill Badge]",0,0
-Suzzene Salim Darekhan,Yes,42,"Prompt Design in Vertex AI [Skill Badge] | Manage Kubernetes in Google Cloud [Skill Badge] | The Basics of Google Cloud Compute [Skill Badge] | Tag and Discover BigLake Data [Skill Badge] | Streaming Analytics into BigQuery [Skill Badge] | Networking Fundamentals on Google Cloud [Skill Badge] | Monitoring in Google Cloud [Skill Badge] | Develop Serverless Applications on Cloud Run [Skill Badge] | Get Started with Pub/Sub [Skill Badge] | Get Started with Eventarc [Skill Badge] | Get Started with Dataplex [Skill Badge] | Get Started with Cloud Storage [Skill Badge] | Implement DevOps Workflows in Google Cloud [Skill Badge] | Create a Streaming Data Lake on Cloud Storage [Skill Badge] | Create a Secure Data Lake on Cloud Storage [Skill Badge] | Cloud Speech API: 3 Ways [Skill Badge] | Cloud Functions: 3 Ways [Skill Badge] | Get Started with Google Workspace Tools [Skill Badge] | App Engine: 3 Ways [Skill Badge] | Deploy Kubernetes Applications on Google Cloud [Skill Badge] | Get Started with API Gateway [Skill Badge] | Store, Process, and Manage Data on Google Cloud - Command Line [Skill Badge] | Build a Secure Google Cloud Network [Skill Badge] | Monitor and Manage Google Cloud Resources [Skill Badge] | Manage Data Models in Looker [Skill Badge] | Implement Load Balancing on Compute Engine [Skill Badge] | Get Started with Looker [Skill Badge] | Classify Images with TensorFlow on Google Cloud [Skill Badge] | Implement Cloud Security Fundamentals on Google Cloud [Skill Badge] | Cloud Architecture: Design, Implement, and Manage [Skill Badge] | Build LookML Objects in Looker [Skill Badge] | Set Up an App Dev Environment on Google Cloud [Skill Badge] | Build Infrastructure with Terraform on Google Cloud [Skill Badge] | Analyze Speech and Language with Google APIs [Skill Badge] | Analyze Images with the Cloud Vision API [Skill Badge] | Prepare Data for ML APIs on Google Cloud [Skill Badge] | Use Machine Learning APIs on Google Cloud [Skill Badge] | Engineer Data for Predictive Modeling with BigQuery ML [Skill Badge] | Create ML Models with BigQuery ML [Skill Badge] | Develop your Google Cloud Network [Skill Badge] | Build a Data Warehouse with BigQuery [Skill Badge] | Derive Insights from BigQuery Data [Skill Badge]",0,0
-Muhammad Thamyis Nur Abdadi,Yes,41,"Develop GenAI Apps with Gemini and Streamlit [Skill Badge] | Prompt Design in Vertex AI [Skill Badge] | Manage Kubernetes in Google Cloud [Skill Badge] | Use Functions, Formulas, and Charts in Google Sheets [Skill Badge] | Mitigate Threats and Vulnerabilities with Security Command Center [Skill Badge] | The Basics of Google Cloud Compute [Skill Badge] | Protect Sensitive Data with Data Loss Prevention [Skill Badge] | Networking Fundamentals on Google Cloud [Skill Badge] | Monitoring in Google Cloud [Skill Badge] | Develop Serverless Applications on Cloud Run [Skill Badge] | Get Started with Pub/Sub [Skill Badge] | Get Started with Eventarc [Skill Badge] | Get Started with Dataplex [Skill Badge] | Get Started with Cloud Storage [Skill Badge] | Implement DevOps Workflows in Google Cloud [Skill Badge] | Cloud Speech API: 3 Ways [Skill Badge] | Cloud Functions: 3 Ways [Skill Badge] | Get Started with Google Workspace Tools [Skill Badge] | App Engine: 3 Ways [Skill Badge] | Deploy Kubernetes Applications on Google Cloud [Skill Badge] | Get Started with API Gateway [Skill Badge] | Perform Predictive Data Analysis in BigQuery [Skill Badge] | Optimize Costs for Google Kubernetes Engine [Skill Badge] | Build a Secure Google Cloud Network [Skill Badge] | Manage Data Models in Looker [Skill Badge] | Create and Manage Bigtable Instances [Skill Badge] | Get Started with Looker [Skill Badge] | Classify Images with TensorFlow on Google Cloud [Skill Badge] | Implement Cloud Security Fundamentals on Google Cloud [Skill Badge] | Cloud Architecture: Design, Implement, and Manage [Skill Badge] | Build LookML Objects in Looker [Skill Badge] | Build Infrastructure with Terraform on Google Cloud [Skill Badge] | Analyze Speech and Language with Google APIs [Skill Badge] | Analyze Images with the Cloud Vision API [Skill Badge] | Prepare Data for ML APIs on Google Cloud [Skill Badge] | Use Machine Learning APIs on Google Cloud [Skill Badge] | Engineer Data for Predictive Modeling with BigQuery ML [Skill Badge] | Create ML Models with BigQuery ML [Skill Badge] | Develop your Google Cloud Network [Skill Badge] | Build a Data Warehouse with BigQuery [Skill Badge] | Derive Insights from BigQuery Data [Skill Badge]",0,0
-Ram Manoj Gawande,Yes,38,"Manage Kubernetes in Google Cloud [Skill Badge] | Use Functions, Formulas, and Charts in Google Sheets [Skill Badge] | The Basics of Google Cloud Compute [Skill Badge] | Monitor and Log with Google Cloud Observability [Skill Badge] | Networking Fundamentals on Google Cloud [Skill Badge] | Monitoring in Google Cloud [Skill Badge] | Develop Serverless Applications on Cloud Run [Skill Badge] | Get Started with Pub/Sub [Skill Badge] | Get Started with Eventarc [Skill Badge] | Get Started with Dataplex [Skill Badge] | Get Started with Cloud Storage [Skill Badge] | Implement DevOps Workflows in Google Cloud [Skill Badge] | Cloud Speech API: 3 Ways [Skill Badge] | Cloud Functions: 3 Ways [Skill Badge] | Get Started with Google Workspace Tools [Skill Badge] | App Engine: 3 Ways [Skill Badge] | Deploy Kubernetes Applications on Google Cloud [Skill Badge] | Get Started with API Gateway [Skill Badge] | Perform Predictive Data Analysis in BigQuery [Skill Badge] | Optimize Costs for Google Kubernetes Engine [Skill Badge] | Build a Secure Google Cloud Network [Skill Badge] | Manage Data Models in Looker [Skill Badge] | Implement Load Balancing on Compute Engine [Skill Badge] | Get Started with Looker [Skill Badge] | Implement Cloud Security Fundamentals on Google Cloud [Skill Badge] | Cloud Architecture: Design, Implement, and Manage [Skill Badge] | Build LookML Objects in Looker [Skill Badge] | Set Up an App Dev Environment on Google Cloud [Skill Badge] | Build Infrastructure with Terraform on Google Cloud [Skill Badge] | Analyze Speech and Language with Google APIs [Skill Badge] | Analyze Images with the Cloud Vision API [Skill Badge] | Prepare Data for ML APIs on Google Cloud [Skill Badge] | Use Machine Learning APIs on Google Cloud [Skill Badge] | Engineer Data for Predictive Modeling with BigQuery ML [Skill Badge] | Create ML Models with BigQuery ML [Skill Badge] | Develop your Google Cloud Network [Skill Badge] | Build a Data Warehouse with BigQuery [Skill Badge] | Derive Insights from BigQuery Data [Skill Badge]",0,0
-Kushal Dhore,Yes,37,"Develop GenAI Apps with Gemini and Streamlit [Skill Badge] | Prompt Design in Vertex AI [Skill Badge] | Manage Kubernetes in Google Cloud [Skill Badge] | The Basics of Google Cloud Compute [Skill Badge] | Networking Fundamentals on Google Cloud [Skill Badge] | Monitoring in Google Cloud [Skill Badge] | Develop Serverless Applications on Cloud Run [Skill Badge] | Get Started with Pub/Sub [Skill Badge] | Get Started with Eventarc [Skill Badge] | Get Started with Dataplex [Skill Badge] | Get Started with Cloud Storage [Skill Badge] | Implement DevOps Workflows in Google Cloud [Skill Badge] | Cloud Speech API: 3 Ways [Skill Badge] | Cloud Functions: 3 Ways [Skill Badge] | Get Started with Google Workspace Tools [Skill Badge] | App Engine: 3 Ways [Skill Badge] | Deploy Kubernetes Applications on Google Cloud [Skill Badge] | Get Started with API Gateway [Skill Badge] | Perform Predictive Data Analysis in BigQuery [Skill Badge] | Build a Secure Google Cloud Network [Skill Badge] | Manage Data Models in Looker [Skill Badge] | Implement Load Balancing on Compute Engine [Skill Badge] | Get Started with Looker [Skill Badge] | Classify Images with TensorFlow on Google Cloud [Skill Badge] | Implement Cloud Security Fundamentals on Google Cloud [Skill Badge] | Cloud Architecture: Design, Implement, and Manage [Skill Badge] | Set Up an App Dev Environment on Google Cloud [Skill Badge] | Build Infrastructure with Terraform on Google Cloud [Skill Badge] | Analyze Speech and Language with Google APIs [Skill Badge] | Analyze Images with the Cloud Vision API [Skill Badge] | Prepare Data for ML APIs on Google Cloud [Skill Badge] | Use Machine Learning APIs on Google Cloud [Skill Badge] | Engineer Data for Predictive Modeling with BigQuery ML [Skill Badge] | Create ML Models with BigQuery ML [Skill Badge] | Develop your Google Cloud Network [Skill Badge] | Build a Data Warehouse with BigQuery [Skill Badge] | Derive Insights from BigQuery Data [Skill Badge]",0,0
-Praveen Kumar Kushwaha,Yes,37,"Develop GenAI Apps with Gemini and Streamlit [Skill Badge] | Prompt Design in Vertex AI [Skill Badge] | Manage Kubernetes in Google Cloud [Skill Badge] | Mitigate Threats and Vulnerabilities with Security Command Center [Skill Badge] | The Basics of Google Cloud Compute [Skill Badge] | Networking Fundamentals on Google Cloud [Skill Badge] | Monitoring in Google Cloud [Skill Badge] | Develop Serverless Applications on Cloud Run [Skill Badge] | Get Started with Pub/Sub [Skill Badge] | Get Started with Eventarc [Skill Badge] | Get Started with Dataplex [Skill Badge] | Get Started with Cloud Storage [Skill Badge] | Implement DevOps Workflows in Google Cloud [Skill Badge] | Cloud Speech API: 3 Ways [Skill Badge] | Cloud Functions: 3 Ways [Skill Badge] | Implement CI/CD Pipelines on Google Cloud [Skill Badge] | App Engine: 3 Ways [Skill Badge] | Get Started with API Gateway [Skill Badge] | Perform Predictive Data Analysis in BigQuery [Skill Badge] | Optimize Costs for Google Kubernetes Engine [Skill Badge] | Build a Secure Google Cloud Network [Skill Badge] | Develop Serverless Apps with Firebase [Skill Badge] | Implement Load Balancing on Compute Engine [Skill Badge] | Classify Images with TensorFlow on Google Cloud [Skill Badge] | Implement Cloud Security Fundamentals on Google Cloud [Skill Badge] | Cloud Architecture: Design, Implement, and Manage [Skill Badge] | Set Up an App Dev Environment on Google Cloud [Skill Badge] | Build Infrastructure with Terraform on Google Cloud [Skill Badge] | Analyze Speech and Language with Google APIs [Skill Badge] | Analyze Images with the Cloud Vision API [Skill Badge] | Prepare Data for ML APIs on Google Cloud [Skill Badge] | Use Machine Learning APIs on Google Cloud [Skill Badge] | Engineer Data for Predictive Modeling with BigQuery ML [Skill Badge] | Create ML Models with BigQuery ML [Skill Badge] | Develop your Google Cloud Network [Skill Badge] | Build a Data Warehouse with BigQuery [Skill Badge] | Derive Insights from BigQuery Data [Skill Badge]",0,0
-Junior Kevin Arios,Yes,35,"Prompt Design in Vertex AI [Skill Badge] | Manage Kubernetes in Google Cloud [Skill Badge] | Use Functions, Formulas, and Charts in Google Sheets [Skill Badge] | The Basics of Google Cloud Compute [Skill Badge] | Networking Fundamentals on Google Cloud [Skill Badge] | Monitoring in Google Cloud [Skill Badge] | Develop Serverless Applications on Cloud Run [Skill Badge] | Get Started with Pub/Sub [Skill Badge] | Get Started with Eventarc [Skill Badge] | Get Started with Dataplex [Skill Badge] | Get Started with Cloud Storage [Skill Badge] | Implement DevOps Workflows in Google Cloud [Skill Badge] | Cloud Speech API: 3 Ways [Skill Badge] | Cloud Functions: 3 Ways [Skill Badge] | Get Started with Google Workspace Tools [Skill Badge] | App Engine: 3 Ways [Skill Badge] | Deploy Kubernetes Applications on Google Cloud [Skill Badge] | Get Started with API Gateway [Skill Badge] | Build a Secure Google Cloud Network [Skill Badge] | Manage Data Models in Looker [Skill Badge] | Implement Load Balancing on Compute Engine [Skill Badge] | Get Started with Looker [Skill Badge] | Classify Images with TensorFlow on Google Cloud [Skill Badge] | Implement Cloud Security Fundamentals on Google Cloud [Skill Badge] | Build LookML Objects in Looker [Skill Badge] | Set Up an App Dev Environment on Google Cloud [Skill Badge] | Build Infrastructure with Terraform on Google Cloud [Skill Badge] | Analyze Speech and Language with Google APIs [Skill Badge] | Analyze Images with the Cloud Vision API [Skill Badge] | Prepare Data for ML APIs on Google Cloud [Skill Badge] | Use Machine Learning APIs on Google Cloud [Skill Badge] | Create ML Models with BigQuery ML [Skill Badge] | Develop your Google Cloud Network [Skill Badge] | Build a Data Warehouse with BigQuery [Skill Badge] | Derive Insights from BigQuery Data [Skill Badge]",0,0
-Muhammad Fachrul Reihan Fauzian,Yes,35,"Develop GenAI Apps with Gemini and Streamlit [Skill Badge] | Prompt Design in Vertex AI [Skill Badge] | Manage Kubernetes in Google Cloud [Skill Badge] | Using the Google Cloud Speech API [Skill Badge] | The Basics of Google Cloud Compute [Skill Badge] | Networking Fundamentals on Google Cloud [Skill Badge] | Monitoring in Google Cloud [Skill Badge] | Get Started with Pub/Sub [Skill Badge] | Get Started with Eventarc [Skill Badge] | Get Started with Dataplex [Skill Badge] | Get Started with Cloud Storage [Skill Badge] | Implement DevOps Workflows in Google Cloud [Skill Badge] | Cloud Speech API: 3 Ways [Skill Badge] | Cloud Functions: 3 Ways [Skill Badge] | Get Started with Google Workspace Tools [Skill Badge] | App Engine: 3 Ways [Skill Badge] | Deploy Kubernetes Applications on Google Cloud [Skill Badge] | Get Started with API Gateway [Skill Badge] | Build a Secure Google Cloud Network [Skill Badge] | Manage Data Models in Looker [Skill Badge] | Implement Load Balancing on Compute Engine [Skill Badge] | Get Started with Looker [Skill Badge] | Classify Images with TensorFlow on Google Cloud [Skill Badge] | Implement Cloud Security Fundamentals on Google Cloud [Skill Badge] | Cloud Architecture: Design, Implement, and Manage [Skill Badge] | Set Up an App Dev Environment on Google Cloud [Skill Badge] | Build Infrastructure with Terraform on Google Cloud [Skill Badge] | Analyze Speech and Language with Google APIs [Skill Badge] | Analyze Images with the Cloud Vision API [Skill Badge] | Prepare Data for ML APIs on Google Cloud [Skill Badge] | Use Machine Learning APIs on Google Cloud [Skill Badge] | Create ML Models with BigQuery ML [Skill Badge] | Develop your Google Cloud Network [Skill Badge] | Build a Data Warehouse with BigQuery [Skill Badge] | Derive Insights from BigQuery Data [Skill Badge]",0,0
-Shruti Ramesh Pore,Yes,34,"Using the Google Cloud Speech API [Skill Badge] | Use APIs to Work with Cloud Storage [Skill Badge] | The Basics of Google Cloud Compute [Skill Badge] | Tag and Discover BigLake Data [Skill Badge] | Streaming Analytics into BigQuery [Skill Badge] | Secure BigLake Data [Skill Badge] | Networking Fundamentals on Google Cloud [Skill Badge] | Monitoring in Google Cloud [Skill Badge] | Integrate BigQuery Data and Google Workspace using Apps Script [Skill Badge] | Get Started with Pub/Sub [Skill Badge] | Get Started with Eventarc [Skill Badge] | Get Started with Dataplex [Skill Badge] | Get Started with Cloud Storage [Skill Badge] | Implement DevOps Workflows in Google Cloud [Skill Badge] | Cloud Speech API: 3 Ways [Skill Badge] | Cloud Functions: 3 Ways [Skill Badge] | Get Started with Google Workspace Tools [Skill Badge] | Automate Data Capture at Scale with Document AI [Skill Badge] | App Engine: 3 Ways [Skill Badge] | Deploy Kubernetes Applications on Google Cloud [Skill Badge] | Get Started with API Gateway [Skill Badge] | Store, Process, and Manage Data on Google Cloud - Command Line [Skill Badge] | Store, Process, and Manage Data on Google Cloud - Console [Skill Badge] | Build a Secure Google Cloud Network [Skill Badge] | Monitor and Manage Google Cloud Resources [Skill Badge] | Implement Load Balancing on Compute Engine [Skill Badge] | Get Started with Looker [Skill Badge] | Build a Website on Google Cloud [Skill Badge] | Set Up an App Dev Environment on Google Cloud [Skill Badge] | Analyze Speech and Language with Google APIs [Skill Badge] | Analyze Images with the Cloud Vision API [Skill Badge] | Prepare Data for ML APIs on Google Cloud [Skill Badge] | Prepare Data for Looker Dashboards and Reports [Skill Badge] | Develop your Google Cloud Network [Skill Badge]",0,0
-Om Jagdish Doshi,Yes,33,"Prompt Design in Vertex AI [Skill Badge] | Manage Kubernetes in Google Cloud [Skill Badge] | The Basics of Google Cloud Compute [Skill Badge] | Networking Fundamentals on Google Cloud [Skill Badge] | Monitoring in Google Cloud [Skill Badge] | Develop Serverless Applications on Cloud Run [Skill Badge] | Get Started with Pub/Sub [Skill Badge] | Get Started with Eventarc [Skill Badge] | Get Started with Dataplex [Skill Badge] | Get Started with Cloud Storage [Skill Badge] | Implement DevOps Workflows in Google Cloud [Skill Badge] | Cloud Speech API: 3 Ways [Skill Badge] | Cloud Functions: 3 Ways [Skill Badge] | App Engine: 3 Ways [Skill Badge] | Deploy Kubernetes Applications on Google Cloud [Skill Badge] | Get Started with API Gateway [Skill Badge] | Perform Predictive Data Analysis in BigQuery [Skill Badge] | Build a Secure Google Cloud Network [Skill Badge] | Manage Data Models in Looker [Skill Badge] | Implement Load Balancing on Compute Engine [Skill Badge] | Get Started with Looker [Skill Badge] | Classify Images with TensorFlow on Google Cloud [Skill Badge] | Implement Cloud Security Fundamentals on Google Cloud [Skill Badge] | Cloud Architecture: Design, Implement, and Manage [Skill Badge] | Set Up an App Dev Environment on Google Cloud [Skill Badge] | Build Infrastructure with Terraform on Google Cloud [Skill Badge] | Analyze Speech and Language with Google APIs [Skill Badge] | Analyze Images with the Cloud Vision API [Skill Badge] | Use Machine Learning APIs on Google Cloud [Skill Badge] | Create ML Models with BigQuery ML [Skill Badge] | Develop your Google Cloud Network [Skill Badge] | Build a Data Warehouse with BigQuery [Skill Badge] | Derive Insights from BigQuery Data [Skill Badge]",0,0
-Sunny Gupta,Yes,33,"Prompt Design in Vertex AI [Skill Badge] | Manage Kubernetes in Google Cloud [Skill Badge] | Use APIs to Work with Cloud Storage [Skill Badge] | The Basics of Google Cloud Compute [Skill Badge] | Tag and Discover BigLake Data [Skill Badge] | Streaming Analytics into BigQuery [Skill Badge] | Secure BigLake Data [Skill Badge] | Monitoring in Google Cloud [Skill Badge] | Get Started with Pub/Sub [Skill Badge] | Get Started with Eventarc [Skill Badge] | Get Started with Dataplex [Skill Badge] | Get Started with Cloud Storage [Skill Badge] | Implement DevOps Workflows in Google Cloud [Skill Badge] | Create a Secure Data Lake on Cloud Storage [Skill Badge] | Cloud Speech API: 3 Ways [Skill Badge] | Cloud Functions: 3 Ways [Skill Badge] | App Engine: 3 Ways [Skill Badge] | Deploy Kubernetes Applications on Google Cloud [Skill Badge] | Get Started with API Gateway [Skill Badge] | Store, Process, and Manage Data on Google Cloud - Command Line [Skill Badge] | Store, Process, and Manage Data on Google Cloud - Console [Skill Badge] | Build a Secure Google Cloud Network [Skill Badge] | Monitor and Manage Google Cloud Resources [Skill Badge] | Implement Load Balancing on Compute Engine [Skill Badge] | Get Started with Looker [Skill Badge] | Implement Cloud Security Fundamentals on Google Cloud [Skill Badge] | Set Up an App Dev Environment on Google Cloud [Skill Badge] | Build Infrastructure with Terraform on Google Cloud [Skill Badge] | Analyze Speech and Language with Google APIs [Skill Badge] | Analyze Images with the Cloud Vision API [Skill Badge] | Develop your Google Cloud Network [Skill Badge] | Derive Insights from BigQuery Data [Skill Badge] | Build Real World AI Applications with Gemini and Imagen [Skill Badge]",0,0
-Prathmesh Prabhakar Bhoir,Yes,32,"The Basics of Google Cloud Compute [Skill Badge] | Tag and Discover BigLake Data [Skill Badge] | Streaming Analytics into BigQuery [Skill Badge] | Secure BigLake Data [Skill Badge] | Monitor and Log with Google Cloud Observability [Skill Badge] | Networking Fundamentals on Google Cloud [Skill Badge] | Monitoring in Google Cloud [Skill Badge] | Get Started with Pub/Sub [Skill Badge] | Get Started with Eventarc [Skill Badge] | Get Started with Dataplex [Skill Badge] | Get Started with Cloud Storage [Skill Badge] | Implement DevOps Workflows in Google Cloud [Skill Badge] | Create a Secure Data Lake on Cloud Storage [Skill Badge] | Cloud Functions: 3 Ways [Skill Badge] | App Engine: 3 Ways [Skill Badge] | Deploy Kubernetes Applications on Google Cloud [Skill Badge] | Get Started with API Gateway [Skill Badge] | Store, Process, and Manage Data on Google Cloud - Command Line [Skill Badge] | Store, Process, and Manage Data on Google Cloud - Console [Skill Badge] | Monitor and Manage Google Cloud Resources [Skill Badge] | Implement Load Balancing on Compute Engine [Skill Badge] | Get Started with Looker [Skill Badge] | Set Up an App Dev Environment on Google Cloud [Skill Badge] | App Building with AppSheet [Skill Badge] | Analyze Speech and Language with Google APIs [Skill Badge] | Analyze Images with the Cloud Vision API [Skill Badge] | Analyze BigQuery Data in Connected Sheets [Skill Badge] | Use Machine Learning APIs on Google Cloud [Skill Badge] | Prepare Data for Looker Dashboards and Reports [Skill Badge] | Build a Data Warehouse with BigQuery [Skill Badge] | Derive Insights from BigQuery Data [Skill Badge] | Build Real World AI Applications with Gemini and Imagen [Skill Badge]",0,0
-Rishabh Anilkumar Sharma,Yes,32,"Prompt Design in Vertex AI [Skill Badge] | Use APIs to Work with Cloud Storage [Skill Badge] | The Basics of Google Cloud Compute [Skill Badge] | Tag and Discover BigLake Data [Skill Badge] | Streaming Analytics into BigQuery [Skill Badge] | Secure BigLake Data [Skill Badge] | Protect Sensitive Data with Data Loss Prevention [Skill Badge] | Networking Fundamentals on Google Cloud [Skill Badge] | Integrate BigQuery Data and Google Workspace using Apps Script [Skill Badge] | Get Started with Pub/Sub [Skill Badge] | Get Started with Eventarc [Skill Badge] | Get Started with Dataplex [Skill Badge] | Get Started with Cloud Storage [Skill Badge] | Implement DevOps Workflows in Google Cloud [Skill Badge] | Create a Streaming Data Lake on Cloud Storage [Skill Badge] | Cloud Speech API: 3 Ways [Skill Badge] | Cloud Functions: 3 Ways [Skill Badge] | App Engine: 3 Ways [Skill Badge] | Analyze Sentiment with Natural Language API [Skill Badge] | Get Started with API Gateway [Skill Badge] | Store, Process, and Manage Data on Google Cloud - Command Line [Skill Badge] | Store, Process, and Manage Data on Google Cloud - Console [Skill Badge] | Build a Secure Google Cloud Network [Skill Badge] | Monitor and Manage Google Cloud Resources [Skill Badge] | Get Started with Looker [Skill Badge] | Set Up an App Dev Environment on Google Cloud [Skill Badge] | Analyze Images with the Cloud Vision API [Skill Badge] | Prepare Data for ML APIs on Google Cloud [Skill Badge] | Use Machine Learning APIs on Google Cloud [Skill Badge] | Create ML Models with BigQuery ML [Skill Badge] | Develop your Google Cloud Network [Skill Badge] | Derive Insights from BigQuery Data [Skill Badge]",0,0
-Shantanu Balu Metkari,Yes,31,"Develop GenAI Apps with Gemini and Streamlit [Skill Badge] | Prompt Design in Vertex AI [Skill Badge] | The Basics of Google Cloud Compute [Skill Badge] | Tag and Discover BigLake Data [Skill Badge] | Secure BigLake Data [Skill Badge] | Networking Fundamentals on Google Cloud [Skill Badge] | Get Started with Pub/Sub [Skill Badge] | Get Started with Eventarc [Skill Badge] | Get Started with Dataplex [Skill Badge] | Get Started with Cloud Storage [Skill Badge] | Implement DevOps Workflows in Google Cloud [Skill Badge] | Cloud Speech API: 3 Ways [Skill Badge] | Cloud Functions: 3 Ways [Skill Badge] | App Engine: 3 Ways [Skill Badge] | Deploy Kubernetes Applications on Google Cloud [Skill Badge] | Get Started with API Gateway [Skill Badge] | Store, Process, and Manage Data on Google Cloud - Command Line [Skill Badge] | Store, Process, and Manage Data on Google Cloud - Console [Skill Badge] | Perform Predictive Data Analysis in BigQuery [Skill Badge] | Build a Secure Google Cloud Network [Skill Badge] | Monitor and Manage Google Cloud Resources [Skill Badge] | Implement Load Balancing on Compute Engine [Skill Badge] | Get Started with Looker [Skill Badge] | Implement Cloud Security Fundamentals on Google Cloud [Skill Badge] | Build Infrastructure with Terraform on Google Cloud [Skill Badge] | Analyze Speech and Language with Google APIs [Skill Badge] | Analyze Images with the Cloud Vision API [Skill Badge] | Engineer Data for Predictive Modeling with BigQuery ML [Skill Badge] | Create ML Models with BigQuery ML [Skill Badge] | Develop your Google Cloud Network [Skill Badge] | Build a Data Warehouse with BigQuery [Skill Badge]",0,0
-Asit Atmaram More,Yes,30,"The Basics of Google Cloud Compute [Skill Badge] | Streaming Analytics into BigQuery [Skill Badge] | Secure BigLake Data [Skill Badge] | Networking Fundamentals on Google Cloud [Skill Badge] | Monitoring in Google Cloud [Skill Badge] | Get Started with Pub/Sub [Skill Badge] | Get Started with Dataplex [Skill Badge] | Get Started with Cloud Storage [Skill Badge] | Create a Streaming Data Lake on Cloud Storage [Skill Badge] | Cloud Functions: 3 Ways [Skill Badge] | Build Google Cloud Infrastructure for AWS Professionals [Skill Badge] | App Engine: 3 Ways [Skill Badge] | Analyze Sentiment with Natural Language API [Skill Badge] | Deploy Kubernetes Applications on Google Cloud [Skill Badge] | Get Started with API Gateway [Skill Badge] | Store, Process, and Manage Data on Google Cloud - Command Line [Skill Badge] | Store, Process, and Manage Data on Google Cloud - Console [Skill Badge] | Monitor and Manage Google Cloud Resources [Skill Badge] | Develop Serverless Apps with Firebase [Skill Badge] | Implement Load Balancing on Compute Engine [Skill Badge] | Get Started with Looker [Skill Badge] | Create and Manage Cloud Spanner Instances [Skill Badge] | Set Up an App Dev Environment on Google Cloud [Skill Badge] | Build Infrastructure with Terraform on Google Cloud [Skill Badge] | Analyze Images with the Cloud Vision API [Skill Badge] | Engineer Data for Predictive Modeling with BigQuery ML [Skill Badge] | Develop your Google Cloud Network [Skill Badge] | Build a Data Warehouse with BigQuery [Skill Badge] | Derive Insights from BigQuery Data [Skill Badge] | Build Real World AI Applications with Gemini and Imagen [Skill Badge]",0,0
-Palak Abhay Madewar,Yes,28,"Use APIs to Work with Cloud Storage [Skill Badge] | The Basics of Google Cloud Compute [Skill Badge] | Tag and Discover BigLake Data [Skill Badge] | Streaming Analytics into BigQuery [Skill Badge] | Protect Sensitive Data with Data Loss Prevention [Skill Badge] | Networking Fundamentals on Google Cloud [Skill Badge] | Get Started with Pub/Sub [Skill Badge] | Get Started with Eventarc [Skill Badge] | Get Started with Dataplex [Skill Badge] | Get Started with Cloud Storage [Skill Badge] | Create a Streaming Data Lake on Cloud Storage [Skill Badge] | Cloud Speech API: 3 Ways [Skill Badge] | Cloud Functions: 3 Ways [Skill Badge] | App Engine: 3 Ways [Skill Badge] | Analyze Sentiment with Natural Language API [Skill Badge] | Get Started with API Gateway [Skill Badge] | Store, Process, and Manage Data on Google Cloud - Command Line [Skill Badge] | Store, Process, and Manage Data on Google Cloud - Console [Skill Badge] | Monitor and Manage Google Cloud Resources [Skill Badge] | Implement Load Balancing on Compute Engine [Skill Badge] | Get Started with Looker [Skill Badge] | Set Up an App Dev Environment on Google Cloud [Skill Badge] | Analyze Speech and Language with Google APIs [Skill Badge] | Analyze Images with the Cloud Vision API [Skill Badge] | Analyze BigQuery Data in Connected Sheets [Skill Badge] | Use Machine Learning APIs on Google Cloud [Skill Badge] | Build a Data Warehouse with BigQuery [Skill Badge] | Derive Insights from BigQuery Data [Skill Badge]",0,0
-Ujwal Kewaldas Katre,Yes,28,Prompt Design in Vertex AI [Skill Badge] | Manage Kubernetes in Google Cloud [Skill Badge] | The Basics of Google Cloud Compute [Skill Badge] | Networking Fundamentals on Google Cloud [Skill Badge] | Develop Serverless Applications on Cloud Run [Skill Badge] | Get Started with Pub/Sub [Skill Badge] | Get Started with Eventarc [Skill Badge] | Get Started with Cloud Storage [Skill Badge] | Implement DevOps Workflows in Google Cloud [Skill Badge] | Cloud Speech API: 3 Ways [Skill Badge] | Cloud Functions: 3 Ways [Skill Badge] | App Engine: 3 Ways [Skill Badge] | Deploy Kubernetes Applications on Google Cloud [Skill Badge] | Get Started with API Gateway [Skill Badge] | Perform Predictive Data Analysis in BigQuery [Skill Badge] | Optimize Costs for Google Kubernetes Engine [Skill Badge] | Manage Data Models in Looker [Skill Badge] | Implement Load Balancing on Compute Engine [Skill Badge] | Get Started with Looker [Skill Badge] | Set Up an App Dev Environment on Google Cloud [Skill Badge] | Build Infrastructure with Terraform on Google Cloud [Skill Badge] | Analyze Speech and Language with Google APIs [Skill Badge] | Analyze Images with the Cloud Vision API [Skill Badge] | Use Machine Learning APIs on Google Cloud [Skill Badge] | Engineer Data for Predictive Modeling with BigQuery ML [Skill Badge] | Create ML Models with BigQuery ML [Skill Badge] | Develop your Google Cloud Network [Skill Badge] | Build a Data Warehouse with BigQuery [Skill Badge],0,0
-Sumit Sanjay Badgujar,Yes,27,"Manage Kubernetes in Google Cloud [Skill Badge] | Using the Google Cloud Speech API [Skill Badge] | The Basics of Google Cloud Compute [Skill Badge] | Streaming Analytics into BigQuery [Skill Badge] | Monitoring in Google Cloud [Skill Badge] | Get Started with Pub/Sub [Skill Badge] | Get Started with Eventarc [Skill Badge] | Get Started with Dataplex [Skill Badge] | Get Started with Cloud Storage [Skill Badge] | Implement DevOps Workflows in Google Cloud [Skill Badge] | Cloud Functions: 3 Ways [Skill Badge] | Build a Data Mesh with Dataplex [Skill Badge] | Deploy Kubernetes Applications on Google Cloud [Skill Badge] | Get Started with API Gateway [Skill Badge] | Store, Process, and Manage Data on Google Cloud - Command Line [Skill Badge] | Store, Process, and Manage Data on Google Cloud - Console [Skill Badge] | Monitor and Manage Google Cloud Resources [Skill Badge] | Implement Load Balancing on Compute Engine [Skill Badge] | Get Started with Looker [Skill Badge] | Classify Images with TensorFlow on Google Cloud [Skill Badge] | Set Up a Google Cloud Network [Skill Badge] | Build a Website on Google Cloud [Skill Badge] | Set Up an App Dev Environment on Google Cloud [Skill Badge] | Analyze Speech and Language with Google APIs [Skill Badge] | Prepare Data for ML APIs on Google Cloud [Skill Badge] | Prepare Data for Looker Dashboards and Reports [Skill Badge] | Derive Insights from BigQuery Data [Skill Badge]",0,0
-Patil Sandesh Sanjay,Yes,26,Prompt Design in Vertex AI [Skill Badge] | Manage Kubernetes in Google Cloud [Skill Badge] | The Basics of Google Cloud Compute [Skill Badge] | Networking Fundamentals on Google Cloud [Skill Badge] | Monitoring in Google Cloud [Skill Badge] | Get Started with Pub/Sub [Skill Badge] | Get Started with Eventarc [Skill Badge] | Get Started with Dataplex [Skill Badge] | Get Started with Cloud Storage [Skill Badge] | Cloud Speech API: 3 Ways [Skill Badge] | Cloud Functions: 3 Ways [Skill Badge] | Get Started with Google Workspace Tools [Skill Badge] | App Engine: 3 Ways [Skill Badge] | Get Started with API Gateway [Skill Badge] | Build a Secure Google Cloud Network [Skill Badge] | Manage Data Models in Looker [Skill Badge] | Implement Load Balancing on Compute Engine [Skill Badge] | Get Started with Looker [Skill Badge] | Set Up an App Dev Environment on Google Cloud [Skill Badge] | Build Infrastructure with Terraform on Google Cloud [Skill Badge] | Analyze Speech and Language with Google APIs [Skill Badge] | Analyze Images with the Cloud Vision API [Skill Badge] | Prepare Data for ML APIs on Google Cloud [Skill Badge] | Create ML Models with BigQuery ML [Skill Badge] | Develop your Google Cloud Network [Skill Badge] | Derive Insights from BigQuery Data [Skill Badge],0,0
-Aysyah Noor Shobah,Yes,25,"Use APIs to Work with Cloud Storage [Skill Badge] | The Basics of Google Cloud Compute [Skill Badge] | Tag and Discover BigLake Data [Skill Badge] | Streaming Analytics into BigQuery [Skill Badge] | Protect Sensitive Data with Data Loss Prevention [Skill Badge] | Networking Fundamentals on Google Cloud [Skill Badge] | Get Started with Pub/Sub [Skill Badge] | Get Started with Eventarc [Skill Badge] | Get Started with Dataplex [Skill Badge] | Get Started with Cloud Storage [Skill Badge] | Implement DevOps Workflows in Google Cloud [Skill Badge] | Create a Streaming Data Lake on Cloud Storage [Skill Badge] | Cloud Functions: 3 Ways [Skill Badge] | App Engine: 3 Ways [Skill Badge] | Deploy Kubernetes Applications on Google Cloud [Skill Badge] | Get Started with API Gateway [Skill Badge] | Store, Process, and Manage Data on Google Cloud - Command Line [Skill Badge] | Store, Process, and Manage Data on Google Cloud - Console [Skill Badge] | Monitor and Manage Google Cloud Resources [Skill Badge] | Build LookML Objects in Looker [Skill Badge] | Build a Website on Google Cloud [Skill Badge] | Set Up an App Dev Environment on Google Cloud [Skill Badge] | App Building with AppSheet [Skill Badge] | Analyze Images with the Cloud Vision API [Skill Badge] | Develop your Google Cloud Network [Skill Badge]",0,0
-Sanskruti Sanjay Waghmare,Yes,25,"Prompt Design in Vertex AI [Skill Badge] | The Basics of Google Cloud Compute [Skill Badge] | Streaming Analytics into BigQuery [Skill Badge] | Protect Sensitive Data with Data Loss Prevention [Skill Badge] | Networking Fundamentals on Google Cloud [Skill Badge] | Monitoring in Google Cloud [Skill Badge] | Get Started with Pub/Sub [Skill Badge] | Get Started with Eventarc [Skill Badge] | Get Started with Dataplex [Skill Badge] | Get Started with Cloud Storage [Skill Badge] | Cloud Speech API: 3 Ways [Skill Badge] | Cloud Functions: 3 Ways [Skill Badge] | Get Started with Google Workspace Tools [Skill Badge] | Analyze Sentiment with Natural Language API [Skill Badge] | Get Started with API Gateway [Skill Badge] | Store, Process, and Manage Data on Google Cloud - Console [Skill Badge] | Monitor and Manage Google Cloud Resources [Skill Badge] | Implement Load Balancing on Compute Engine [Skill Badge] | Get Started with Looker [Skill Badge] | Build Infrastructure with Terraform on Google Cloud [Skill Badge] | Analyze Images with the Cloud Vision API [Skill Badge] | Use Machine Learning APIs on Google Cloud [Skill Badge] | Develop your Google Cloud Network [Skill Badge] | Build a Data Warehouse with BigQuery [Skill Badge] | Derive Insights from BigQuery Data [Skill Badge]",0,0
-Priya Santosh Tare,Yes,24,Prompt Design in Vertex AI [Skill Badge] | Manage Kubernetes in Google Cloud [Skill Badge] | The Basics of Google Cloud Compute [Skill Badge] | Networking Fundamentals on Google Cloud [Skill Badge] | Monitoring in Google Cloud [Skill Badge] | Get Started with Pub/Sub [Skill Badge] | Get Started with Eventarc [Skill Badge] | Get Started with Dataplex [Skill Badge] | Get Started with Cloud Storage [Skill Badge] | Implement DevOps Workflows in Google Cloud [Skill Badge] | Cloud Speech API: 3 Ways [Skill Badge] | Cloud Functions: 3 Ways [Skill Badge] | Get Started with Google Workspace Tools [Skill Badge] | App Engine: 3 Ways [Skill Badge] | Deploy Kubernetes Applications on Google Cloud [Skill Badge] | Get Started with API Gateway [Skill Badge] | Implement Load Balancing on Compute Engine [Skill Badge] | Get Started with Looker [Skill Badge] | Build Infrastructure with Terraform on Google Cloud [Skill Badge] | Analyze Speech and Language with Google APIs [Skill Badge] | Analyze Images with the Cloud Vision API [Skill Badge] | Prepare Data for ML APIs on Google Cloud [Skill Badge] | Create ML Models with BigQuery ML [Skill Badge] | Develop your Google Cloud Network [Skill Badge],0,0
-Rakhi Babasaheb Dhole,Yes,24,Manage Kubernetes in Google Cloud [Skill Badge] | The Basics of Google Cloud Compute [Skill Badge] | Networking Fundamentals on Google Cloud [Skill Badge] | Monitoring in Google Cloud [Skill Badge] | Get Started with Pub/Sub [Skill Badge] | Get Started with Eventarc [Skill Badge] | Get Started with Dataplex [Skill Badge] | Get Started with Cloud Storage [Skill Badge] | Implement DevOps Workflows in Google Cloud [Skill Badge] | Cloud Speech API: 3 Ways [Skill Badge] | Cloud Functions: 3 Ways [Skill Badge] | App Engine: 3 Ways [Skill Badge] | Deploy Kubernetes Applications on Google Cloud [Skill Badge] | Get Started with API Gateway [Skill Badge] | Perform Predictive Data Analysis in BigQuery [Skill Badge] | Build a Secure Google Cloud Network [Skill Badge] | Implement Load Balancing on Compute Engine [Skill Badge] | Implement Cloud Security Fundamentals on Google Cloud [Skill Badge] | Set Up an App Dev Environment on Google Cloud [Skill Badge] | Build Infrastructure with Terraform on Google Cloud [Skill Badge] | Analyze Speech and Language with Google APIs [Skill Badge] | Analyze Images with the Cloud Vision API [Skill Badge] | Create ML Models with BigQuery ML [Skill Badge] | Develop your Google Cloud Network [Skill Badge],0,0
-Shreya Prashant Surve,Yes,24,"The Basics of Google Cloud Compute [Skill Badge] | Tag and Discover BigLake Data [Skill Badge] | Streaming Analytics into BigQuery [Skill Badge] | Networking Fundamentals on Google Cloud [Skill Badge] | Monitoring in Google Cloud [Skill Badge] | Get Started with Pub/Sub [Skill Badge] | Get Started with Eventarc [Skill Badge] | Get Started with Dataplex [Skill Badge] | Get Started with Cloud Storage [Skill Badge] | Create a Secure Data Lake on Cloud Storage [Skill Badge] | Cloud Speech API: 3 Ways [Skill Badge] | Cloud Functions: 3 Ways [Skill Badge] | App Engine: 3 Ways [Skill Badge] | Deploy Kubernetes Applications on Google Cloud [Skill Badge] | Get Started with API Gateway [Skill Badge] | Store, Process, and Manage Data on Google Cloud - Command Line [Skill Badge] | Store, Process, and Manage Data on Google Cloud - Console [Skill Badge] | Monitor and Manage Google Cloud Resources [Skill Badge] | Get Started with Looker [Skill Badge] | Set Up an App Dev Environment on Google Cloud [Skill Badge] | Analyze Speech and Language with Google APIs [Skill Badge] | Analyze Images with the Cloud Vision API [Skill Badge] | Analyze BigQuery Data in Connected Sheets [Skill Badge] | Develop your Google Cloud Network [Skill Badge]",0,0
-Aniket Prakash Wandhekar,Yes,23,Prompt Design in Vertex AI [Skill Badge] | Using the Google Cloud Speech API [Skill Badge] | Use APIs to Work with Cloud Storage [Skill Badge] | The Basics of Google Cloud Compute [Skill Badge] | Streaming Analytics into BigQuery [Skill Badge] | Networking Fundamentals on Google Cloud [Skill Badge] | Monitoring in Google Cloud [Skill Badge] | Get Started with Pub/Sub [Skill Badge] | Get Started with Eventarc [Skill Badge] | Get Started with Dataplex [Skill Badge] | Get Started with Cloud Storage [Skill Badge] | Cloud Speech API: 3 Ways [Skill Badge] | Cloud Functions: 3 Ways [Skill Badge] | Get Started with Google Workspace Tools [Skill Badge] | App Engine: 3 Ways [Skill Badge] | Get Started with API Gateway [Skill Badge] | Implement Load Balancing on Compute Engine [Skill Badge] | Get Started with Looker [Skill Badge] | Analyze Images with the Cloud Vision API [Skill Badge] | Prepare Data for ML APIs on Google Cloud [Skill Badge] | Develop your Google Cloud Network [Skill Badge] | Derive Insights from BigQuery Data [Skill Badge] | Build Real World AI Applications with Gemini and Imagen [Skill Badge],0,0
-Shardula Sujan Thakur,Yes,23,Manage Kubernetes in Google Cloud [Skill Badge] | The Basics of Google Cloud Compute [Skill Badge] | Networking Fundamentals on Google Cloud [Skill Badge] | Monitoring in Google Cloud [Skill Badge] | Get Started with Pub/Sub [Skill Badge] | Get Started with Eventarc [Skill Badge] | Get Started with Dataplex [Skill Badge] | Get Started with Cloud Storage [Skill Badge] | Cloud Functions: 3 Ways [Skill Badge] | Get Started with Google Workspace Tools [Skill Badge] | App Engine: 3 Ways [Skill Badge] | Get Started with API Gateway [Skill Badge] | Build a Secure Google Cloud Network [Skill Badge] | Manage Data Models in Looker [Skill Badge] | Implement Load Balancing on Compute Engine [Skill Badge] | Get Started with Looker [Skill Badge] | Set Up an App Dev Environment on Google Cloud [Skill Badge] | Build Infrastructure with Terraform on Google Cloud [Skill Badge] | Analyze Images with the Cloud Vision API [Skill Badge] | Prepare Data for ML APIs on Google Cloud [Skill Badge] | Create ML Models with BigQuery ML [Skill Badge] | Develop your Google Cloud Network [Skill Badge] | Derive Insights from BigQuery Data [Skill Badge],0,0
-Ashish Subhash Magar,Yes,22,Use APIs to Work with Cloud Storage [Skill Badge] | The Basics of Google Cloud Compute [Skill Badge] | Tag and Discover BigLake Data [Skill Badge] | Streaming Analytics into BigQuery [Skill Badge] | Secure BigLake Data [Skill Badge] | Networking Fundamentals on Google Cloud [Skill Badge] | Monitoring in Google Cloud [Skill Badge] | Get Started with Pub/Sub [Skill Badge] | Get Started with Eventarc [Skill Badge] | Get Started with Dataplex [Skill Badge] | Get Started with Cloud Storage [Skill Badge] | Implement DevOps Workflows in Google Cloud [Skill Badge] | Cloud Speech API: 3 Ways [Skill Badge] | Cloud Functions: 3 Ways [Skill Badge] | Get Started with Google Workspace Tools [Skill Badge] | App Engine: 3 Ways [Skill Badge] | Get Started with API Gateway [Skill Badge] | Get Started with Looker [Skill Badge] | Analyze Speech and Language with Google APIs [Skill Badge] | Analyze Images with the Cloud Vision API [Skill Badge] | Prepare Data for ML APIs on Google Cloud [Skill Badge] | Develop your Google Cloud Network [Skill Badge],0,0
-Jay Gulhane,Yes,22,"The Basics of Google Cloud Compute [Skill Badge] | Streaming Analytics into BigQuery [Skill Badge] | Networking Fundamentals on Google Cloud [Skill Badge] | Monitoring in Google Cloud [Skill Badge] | Get Started with Pub/Sub [Skill Badge] | Get Started with Eventarc [Skill Badge] | Get Started with Dataplex [Skill Badge] | Get Started with Cloud Storage [Skill Badge] | Cloud Speech API: 3 Ways [Skill Badge] | Cloud Functions: 3 Ways [Skill Badge] | App Engine: 3 Ways [Skill Badge] | Analyze Sentiment with Natural Language API [Skill Badge] | Get Started with API Gateway [Skill Badge] | Store, Process, and Manage Data on Google Cloud - Console [Skill Badge] | Monitor and Manage Google Cloud Resources [Skill Badge] | Implement Load Balancing on Compute Engine [Skill Badge] | Get Started with Looker [Skill Badge] | Set Up an App Dev Environment on Google Cloud [Skill Badge] | Analyze Images with the Cloud Vision API [Skill Badge] | Use Machine Learning APIs on Google Cloud [Skill Badge] | Build a Data Warehouse with BigQuery [Skill Badge] | Derive Insights from BigQuery Data [Skill Badge]",0,0
-Gayatri juikar,Yes,20,"Use Functions, Formulas, and Charts in Google Sheets [Skill Badge] | The Basics of Google Cloud Compute [Skill Badge] | Monitor and Log with Google Cloud Observability [Skill Badge] | Networking Fundamentals on Google Cloud [Skill Badge] | Get Started with Pub/Sub [Skill Badge] | Get Started with Eventarc [Skill Badge] | Get Started with Dataplex [Skill Badge] | Get Started with Cloud Storage [Skill Badge] | Cloud Functions: 3 Ways [Skill Badge] | App Engine: 3 Ways [Skill Badge] | Get Started with API Gateway [Skill Badge] | Implement Load Balancing on Compute Engine [Skill Badge] | Get Started with Looker [Skill Badge] | Build a Website on Google Cloud [Skill Badge] | Analyze Speech and Language with Google APIs [Skill Badge] | Analyze Images with the Cloud Vision API [Skill Badge] | Prepare Data for Looker Dashboards and Reports [Skill Badge] | Create ML Models with BigQuery ML [Skill Badge] | Develop your Google Cloud Network [Skill Badge] | Derive Insights from BigQuery Data [Skill Badge]",0,0
-Komal Londhe,Yes,20,"The Basics of Google Cloud Compute [Skill Badge] | Networking Fundamentals on Google Cloud [Skill Badge] | Monitoring in Google Cloud [Skill Badge] | Get Started with Pub/Sub [Skill Badge] | Get Started with Eventarc [Skill Badge] | Get Started with Dataplex [Skill Badge] | Get Started with Cloud Storage [Skill Badge] | Implement DevOps Workflows in Google Cloud [Skill Badge] | Cloud Speech API: 3 Ways [Skill Badge] | Cloud Functions: 3 Ways [Skill Badge] | Get Started with Google Workspace Tools [Skill Badge] | App Engine: 3 Ways [Skill Badge] | Get Started with API Gateway [Skill Badge] | Get Started with Looker [Skill Badge] | Implement Cloud Security Fundamentals on Google Cloud [Skill Badge] | Cloud Architecture: Design, Implement, and Manage [Skill Badge] | Analyze Images with the Cloud Vision API [Skill Badge] | Develop your Google Cloud Network [Skill Badge] | Build a Data Warehouse with BigQuery [Skill Badge] | Derive Insights from BigQuery Data [Skill Badge]",0,0
-Ahmad Furqon Adila,Yes,18,The Basics of Google Cloud Compute [Skill Badge] | Monitoring in Google Cloud [Skill Badge] | Get Started with Pub/Sub [Skill Badge] | Get Started with Dataplex [Skill Badge] | Get Started with Cloud Storage [Skill Badge] | Cloud Speech API: 3 Ways [Skill Badge] | Cloud Functions: 3 Ways [Skill Badge] | Get Started with Google Workspace Tools [Skill Badge] | App Engine: 3 Ways [Skill Badge] | Deploy Kubernetes Applications on Google Cloud [Skill Badge] | Get Started with API Gateway [Skill Badge] | Manage Data Models in Looker [Skill Badge] | Implement Load Balancing on Compute Engine [Skill Badge] | Set Up an App Dev Environment on Google Cloud [Skill Badge] | Build Infrastructure with Terraform on Google Cloud [Skill Badge] | Analyze Speech and Language with Google APIs [Skill Badge] | Analyze Images with the Cloud Vision API [Skill Badge] | Develop your Google Cloud Network [Skill Badge],0,0
-Rahul Sonone,Yes,18,"Use APIs to Work with Cloud Storage [Skill Badge] | The Basics of Google Cloud Compute [Skill Badge] | Streaming Analytics into BigQuery [Skill Badge] | Get Started with Pub/Sub [Skill Badge] | Get Started with Eventarc [Skill Badge] | Get Started with Cloud Storage [Skill Badge] | App Engine: 3 Ways [Skill Badge] | Analyze Sentiment with Natural Language API [Skill Badge] | Get Started with API Gateway [Skill Badge] | Store, Process, and Manage Data on Google Cloud - Console [Skill Badge] | Monitor and Manage Google Cloud Resources [Skill Badge] | Implement Load Balancing on Compute Engine [Skill Badge] | Set Up an App Dev Environment on Google Cloud [Skill Badge] | Analyze Images with the Cloud Vision API [Skill Badge] | Use Machine Learning APIs on Google Cloud [Skill Badge] | Build a Data Warehouse with BigQuery [Skill Badge] | Derive Insights from BigQuery Data [Skill Badge] | Build Real World AI Applications with Gemini and Imagen [Skill Badge]",0,0
-Rohit Rajendra Shinde,Yes,18,"Use APIs to Work with Cloud Storage [Skill Badge] | The Basics of Google Cloud Compute [Skill Badge] | Streaming Analytics into BigQuery [Skill Badge] | Secure BigLake Data [Skill Badge] | Networking Fundamentals on Google Cloud [Skill Badge] | Monitoring in Google Cloud [Skill Badge] | Get Started with Pub/Sub [Skill Badge] | Get Started with Dataplex [Skill Badge] | Get Started with Cloud Storage [Skill Badge] | Cloud Speech API: 3 Ways [Skill Badge] | Cloud Functions: 3 Ways [Skill Badge] | App Engine: 3 Ways [Skill Badge] | Get Started with API Gateway [Skill Badge] | Store, Process, and Manage Data on Google Cloud - Console [Skill Badge] | Monitor and Manage Google Cloud Resources [Skill Badge] | Get Started with Looker [Skill Badge] | Analyze Images with the Cloud Vision API [Skill Badge] | Build a Data Warehouse with BigQuery [Skill Badge]",0,0
-Ankush Mehtar Pagarwar,Yes,17,Using the Google Cloud Speech API [Skill Badge] | Use APIs to Work with Cloud Storage [Skill Badge] | The Basics of Google Cloud Compute [Skill Badge] | Networking Fundamentals on Google Cloud [Skill Badge] | Integrate BigQuery Data and Google Workspace using Apps Script [Skill Badge] | Get Started with Pub/Sub [Skill Badge] | Get Started with Eventarc [Skill Badge] | Get Started with Dataplex [Skill Badge] | Get Started with Cloud Storage [Skill Badge] | Cloud Speech API: 3 Ways [Skill Badge] | App Engine: 3 Ways [Skill Badge] | Analyze Sentiment with Natural Language API [Skill Badge] | Get Started with API Gateway [Skill Badge] | App Building with AppSheet [Skill Badge] | Analyze Speech and Language with Google APIs [Skill Badge] | Analyze Images with the Cloud Vision API [Skill Badge] | Build Real World AI Applications with Gemini and Imagen [Skill Badge],0,0
-Priyanka Balamurugan,Yes,17,Develop GenAI Apps with Gemini and Streamlit [Skill Badge] | Prompt Design in Vertex AI [Skill Badge] | The Basics of Google Cloud Compute [Skill Badge] | Protect Sensitive Data with Data Loss Prevention [Skill Badge] | Monitoring in Google Cloud [Skill Badge] | Get Started with Pub/Sub [Skill Badge] | Get Started with Eventarc [Skill Badge] | Get Started with Dataplex [Skill Badge] | Get Started with Cloud Storage [Skill Badge] | Cloud Speech API: 3 Ways [Skill Badge] | Cloud Functions: 3 Ways [Skill Badge] | App Engine: 3 Ways [Skill Badge] | Get Started with API Gateway [Skill Badge] | Implement Load Balancing on Compute Engine [Skill Badge] | Get Started with Looker [Skill Badge] | Analyze Speech and Language with Google APIs [Skill Badge] | Analyze Images with the Cloud Vision API [Skill Badge],0,0
-Roshan Narayan Chavan,Yes,17,Using the Google Cloud Speech API [Skill Badge] | The Basics of Google Cloud Compute [Skill Badge] | Networking Fundamentals on Google Cloud [Skill Badge] | Monitoring in Google Cloud [Skill Badge] | Get Started with Pub/Sub [Skill Badge] | Get Started with Eventarc [Skill Badge] | Get Started with Dataplex [Skill Badge] | Get Started with Cloud Storage [Skill Badge] | Cloud Speech API: 3 Ways [Skill Badge] | Cloud Functions: 3 Ways [Skill Badge] | App Engine: 3 Ways [Skill Badge] | Get Started with API Gateway [Skill Badge] | Build a Secure Google Cloud Network [Skill Badge] | Get Started with Looker [Skill Badge] | Analyze Images with the Cloud Vision API [Skill Badge] | Develop your Google Cloud Network [Skill Badge] | Derive Insights from BigQuery Data [Skill Badge],0,0
-Soham Manish Sawalakhe,Yes,17,Prompt Design in Vertex AI [Skill Badge] | Manage Kubernetes in Google Cloud [Skill Badge] | The Basics of Google Cloud Compute [Skill Badge] | Networking Fundamentals on Google Cloud [Skill Badge] | Monitoring in Google Cloud [Skill Badge] | Get Started with Pub/Sub [Skill Badge] | Get Started with Eventarc [Skill Badge] | Get Started with Dataplex [Skill Badge] | Get Started with Cloud Storage [Skill Badge] | Cloud Speech API: 3 Ways [Skill Badge] | Cloud Functions: 3 Ways [Skill Badge] | Get Started with Google Workspace Tools [Skill Badge] | App Engine: 3 Ways [Skill Badge] | Get Started with API Gateway [Skill Badge] | Get Started with Looker [Skill Badge] | Analyze Images with the Cloud Vision API [Skill Badge] | Develop your Google Cloud Network [Skill Badge],0,0
-Deep Nilesh Thale,Yes,16,"The Basics of Google Cloud Compute [Skill Badge] | Streaming Analytics into BigQuery [Skill Badge] | Get Started with Pub/Sub [Skill Badge] | Get Started with Eventarc [Skill Badge] | Get Started with Dataplex [Skill Badge] | Get Started with Cloud Storage [Skill Badge] | Get Started with API Gateway [Skill Badge] | Store, Process, and Manage Data on Google Cloud - Command Line [Skill Badge] | Store, Process, and Manage Data on Google Cloud - Console [Skill Badge] | Monitor and Manage Google Cloud Resources [Skill Badge] | Implement Load Balancing on Compute Engine [Skill Badge] | Get Started with Looker [Skill Badge] | Set Up an App Dev Environment on Google Cloud [Skill Badge] | Prepare Data for Looker Dashboards and Reports [Skill Badge] | Build a Data Warehouse with BigQuery [Skill Badge] | Build Real World AI Applications with Gemini and Imagen [Skill Badge]",0,0
-Pratiksha Ishwar Dhole,Yes,16,"The Basics of Google Cloud Compute [Skill Badge] | Monitoring in Google Cloud [Skill Badge] | Get Started with Pub/Sub [Skill Badge] | Get Started with Dataplex [Skill Badge] | Get Started with Cloud Storage [Skill Badge] | Cloud Speech API: 3 Ways [Skill Badge] | Get Started with API Gateway [Skill Badge] | Store, Process, and Manage Data on Google Cloud - Command Line [Skill Badge] | Store, Process, and Manage Data on Google Cloud - Console [Skill Badge] | Monitor and Manage Google Cloud Resources [Skill Badge] | Implement Load Balancing on Compute Engine [Skill Badge] | Get Started with Looker [Skill Badge] | Set Up an App Dev Environment on Google Cloud [Skill Badge] | Use Machine Learning APIs on Google Cloud [Skill Badge] | Prepare Data for Looker Dashboards and Reports [Skill Badge] | Build a Data Warehouse with BigQuery [Skill Badge]",0,0
-Purva Balraj Kurle,Yes,16,Prompt Design in Vertex AI [Skill Badge] | The Basics of Google Cloud Compute [Skill Badge] | Monitoring in Google Cloud [Skill Badge] | Get Started with Pub/Sub [Skill Badge] | Get Started with Eventarc [Skill Badge] | Get Started with Dataplex [Skill Badge] | Get Started with Cloud Storage [Skill Badge] | Cloud Speech API: 3 Ways [Skill Badge] | Cloud Functions: 3 Ways [Skill Badge] | Get Started with Google Workspace Tools [Skill Badge] | App Engine: 3 Ways [Skill Badge] | Get Started with API Gateway [Skill Badge] | Build a Secure Google Cloud Network [Skill Badge] | Get Started with Looker [Skill Badge] | Analyze Images with the Cloud Vision API [Skill Badge] | Develop your Google Cloud Network [Skill Badge],0,0
-Rujuta Chandrashekhar Wadgire,Yes,16,"Manage Kubernetes in Google Cloud [Skill Badge] | Streaming Analytics into BigQuery [Skill Badge] | Get Started with Pub/Sub [Skill Badge] | Get Started with Eventarc [Skill Badge] | Get Started with Dataplex [Skill Badge] | Get Started with Cloud Storage [Skill Badge] | Analyze Sentiment with Natural Language API [Skill Badge] | Get Started with API Gateway [Skill Badge] | Store, Process, and Manage Data on Google Cloud - Console [Skill Badge] | Monitor and Manage Google Cloud Resources [Skill Badge] | Implement Load Balancing on Compute Engine [Skill Badge] | Set Up an App Dev Environment on Google Cloud [Skill Badge] | Analyze Images with the Cloud Vision API [Skill Badge] | Use Machine Learning APIs on Google Cloud [Skill Badge] | Build a Data Warehouse with BigQuery [Skill Badge] | Derive Insights from BigQuery Data [Skill Badge]",0,0
-Atharva Dongare,Yes,15,"The Basics of Google Cloud Compute [Skill Badge] | Streaming Analytics into BigQuery [Skill Badge] | Get Started with Pub/Sub [Skill Badge] | Get Started with Eventarc [Skill Badge] | Get Started with Dataplex [Skill Badge] | Get Started with Cloud Storage [Skill Badge] | Cloud Functions: 3 Ways [Skill Badge] | App Engine: 3 Ways [Skill Badge] | Deploy Kubernetes Applications on Google Cloud [Skill Badge] | Get Started with API Gateway [Skill Badge] | Store, Process, and Manage Data on Google Cloud - Console [Skill Badge] | Monitor and Manage Google Cloud Resources [Skill Badge] | Get Started with Looker [Skill Badge] | Analyze BigQuery Data in Connected Sheets [Skill Badge] | Create ML Models with BigQuery ML [Skill Badge]",0,0
-Pooja Gangadhar Kale,Yes,15,"Streaming Analytics into BigQuery [Skill Badge] | Get Started with Pub/Sub [Skill Badge] | Get Started with Eventarc [Skill Badge] | Get Started with Dataplex [Skill Badge] | Get Started with Cloud Storage [Skill Badge] | Analyze Sentiment with Natural Language API [Skill Badge] | Get Started with API Gateway [Skill Badge] | Store, Process, and Manage Data on Google Cloud - Console [Skill Badge] | Monitor and Manage Google Cloud Resources [Skill Badge] | Implement Load Balancing on Compute Engine [Skill Badge] | Get Started with Looker [Skill Badge] | Set Up an App Dev Environment on Google Cloud [Skill Badge] | Analyze Images with the Cloud Vision API [Skill Badge] | Build a Data Warehouse with BigQuery [Skill Badge] | Derive Insights from BigQuery Data [Skill Badge]",0,0
-Vaidehi Nandkishor Garad,Yes,15,The Basics of Google Cloud Compute [Skill Badge] | Networking Fundamentals on Google Cloud [Skill Badge] | Monitoring in Google Cloud [Skill Badge] | Get Started with Pub/Sub [Skill Badge] | Get Started with Eventarc [Skill Badge] | Get Started with Dataplex [Skill Badge] | Get Started with Cloud Storage [Skill Badge] | Cloud Speech API: 3 Ways [Skill Badge] | Cloud Functions: 3 Ways [Skill Badge] | Get Started with Google Workspace Tools [Skill Badge] | App Engine: 3 Ways [Skill Badge] | Get Started with API Gateway [Skill Badge] | Get Started with Looker [Skill Badge] | Analyze Images with the Cloud Vision API [Skill Badge] | Develop your Google Cloud Network [Skill Badge],0,0
-Anjali Dongare,Yes,14,The Basics of Google Cloud Compute [Skill Badge] | Networking Fundamentals on Google Cloud [Skill Badge] | Monitoring in Google Cloud [Skill Badge] | Get Started with Pub/Sub [Skill Badge] | Get Started with Eventarc [Skill Badge] | Get Started with Dataplex [Skill Badge] | Get Started with Cloud Storage [Skill Badge] | Cloud Speech API: 3 Ways [Skill Badge] | Cloud Functions: 3 Ways [Skill Badge] | Get Started with Google Workspace Tools [Skill Badge] | App Engine: 3 Ways [Skill Badge] | Get Started with API Gateway [Skill Badge] | Get Started with Looker [Skill Badge] | Analyze Images with the Cloud Vision API [Skill Badge],0,0
-Dhanashri Mahendra Mahade,Yes,14,Using the Google Cloud Speech API [Skill Badge] | Tag and Discover BigLake Data [Skill Badge] | Secure BigLake Data [Skill Badge] | Get Started with Dataplex [Skill Badge] | Cloud Speech API: 3 Ways [Skill Badge] | Get Started with API Gateway [Skill Badge] | Perform Predictive Data Analysis in BigQuery [Skill Badge] | Build a Secure Google Cloud Network [Skill Badge] | Get Started with Looker [Skill Badge] | Build Infrastructure with Terraform on Google Cloud [Skill Badge] | Analyze Images with the Cloud Vision API [Skill Badge] | Analyze BigQuery Data in Connected Sheets [Skill Badge] | Develop your Google Cloud Network [Skill Badge] | Build a Data Warehouse with BigQuery [Skill Badge],0,0
-Muhammad Dzakwan Attaqiy,Yes,14,The Basics of Google Cloud Compute [Skill Badge] | Networking Fundamentals on Google Cloud [Skill Badge] | Monitoring in Google Cloud [Skill Badge] | Get Started with Pub/Sub [Skill Badge] | Get Started with Eventarc [Skill Badge] | Get Started with Dataplex [Skill Badge] | Get Started with Cloud Storage [Skill Badge] | Cloud Speech API: 3 Ways [Skill Badge] | Cloud Functions: 3 Ways [Skill Badge] | Get Started with Google Workspace Tools [Skill Badge] | App Engine: 3 Ways [Skill Badge] | Get Started with API Gateway [Skill Badge] | Get Started with Looker [Skill Badge] | Analyze Images with the Cloud Vision API [Skill Badge],0,0
-Prathamesh KrishnaBhoir,Yes,14,The Basics of Google Cloud Compute [Skill Badge] | Networking Fundamentals on Google Cloud [Skill Badge] | Monitoring in Google Cloud [Skill Badge] | Get Started with Pub/Sub [Skill Badge] | Get Started with Eventarc [Skill Badge] | Get Started with Dataplex [Skill Badge] | Get Started with Cloud Storage [Skill Badge] | Cloud Speech API: 3 Ways [Skill Badge] | Cloud Functions: 3 Ways [Skill Badge] | App Engine: 3 Ways [Skill Badge] | Get Started with API Gateway [Skill Badge] | Analyze Images with the Cloud Vision API [Skill Badge] | Prepare Data for ML APIs on Google Cloud [Skill Badge] | Develop your Google Cloud Network [Skill Badge],0,0
-Umendra Pardhi,Yes,14,Prompt Design in Vertex AI [Skill Badge] | The Basics of Google Cloud Compute [Skill Badge] | Monitoring in Google Cloud [Skill Badge] | Get Started with Pub/Sub [Skill Badge] | Get Started with Eventarc [Skill Badge] | Get Started with Dataplex [Skill Badge] | Get Started with Cloud Storage [Skill Badge] | Cloud Speech API: 3 Ways [Skill Badge] | Cloud Functions: 3 Ways [Skill Badge] | Get Started with Google Workspace Tools [Skill Badge] | App Engine: 3 Ways [Skill Badge] | Get Started with API Gateway [Skill Badge] | Get Started with Looker [Skill Badge] | Analyze Images with the Cloud Vision API [Skill Badge],0,0
-Yashwant Ramesh Baswar,Yes,14,"Streaming Analytics into BigQuery [Skill Badge] | Get Started with Pub/Sub [Skill Badge] | Get Started with Dataplex [Skill Badge] | Get Started with Cloud Storage [Skill Badge] | Analyze Sentiment with Natural Language API [Skill Badge] | Get Started with API Gateway [Skill Badge] | Store, Process, and Manage Data on Google Cloud - Console [Skill Badge] | Monitor and Manage Google Cloud Resources [Skill Badge] | Implement Load Balancing on Compute Engine [Skill Badge] | Set Up an App Dev Environment on Google Cloud [Skill Badge] | Analyze Images with the Cloud Vision API [Skill Badge] | Use Machine Learning APIs on Google Cloud [Skill Badge] | Prepare Data for Looker Dashboards and Reports [Skill Badge] | Build a Data Warehouse with BigQuery [Skill Badge]",0,0
-Sharvari Kamat,Yes,13,"Streaming Analytics into BigQuery [Skill Badge] | Monitor and Log with Google Cloud Observability [Skill Badge] | Store, Process, and Manage Data on Google Cloud - Command Line [Skill Badge] | Share Data Using Google Data Cloud [Skill Badge] | Monitor and Manage Google Cloud Resources [Skill Badge] | Implement Load Balancing on Compute Engine [Skill Badge] | Set Up an App Dev Environment on Google Cloud [Skill Badge] | Analyze BigQuery Data in Connected Sheets [Skill Badge] | Prepare Data for ML APIs on Google Cloud [Skill Badge] | Use Machine Learning APIs on Google Cloud [Skill Badge] | Prepare Data for Looker Dashboards and Reports [Skill Badge] | Build a Data Warehouse with BigQuery [Skill Badge] | Derive Insights from BigQuery Data [Skill Badge]",0,0
-Aparna Santosh Sawant,Yes,12,The Basics of Google Cloud Compute [Skill Badge] | Networking Fundamentals on Google Cloud [Skill Badge] | Get Started with Pub/Sub [Skill Badge] | Get Started with Eventarc [Skill Badge] | Get Started with Dataplex [Skill Badge] | Get Started with Cloud Storage [Skill Badge] | Cloud Speech API: 3 Ways [Skill Badge] | Cloud Functions: 3 Ways [Skill Badge] | Get Started with Google Workspace Tools [Skill Badge] | App Engine: 3 Ways [Skill Badge] | Get Started with API Gateway [Skill Badge] | Get Started with Looker [Skill Badge],0,0
-Prem Ubhad,Yes,12,The Basics of Google Cloud Compute [Skill Badge] | Networking Fundamentals on Google Cloud [Skill Badge] | Monitoring in Google Cloud [Skill Badge] | Get Started with Pub/Sub [Skill Badge] | Get Started with Eventarc [Skill Badge] | Get Started with Dataplex [Skill Badge] | Get Started with Cloud Storage [Skill Badge] | Cloud Speech API: 3 Ways [Skill Badge] | Cloud Functions: 3 Ways [Skill Badge] | App Engine: 3 Ways [Skill Badge] | Implement Load Balancing on Compute Engine [Skill Badge] | Analyze Images with the Cloud Vision API [Skill Badge],0,0
-Radhika Ganesh Ingale,Yes,12,The Basics of Google Cloud Compute [Skill Badge] | Get Started with Pub/Sub [Skill Badge] | Get Started with Eventarc [Skill Badge] | Get Started with Dataplex [Skill Badge] | Get Started with Cloud Storage [Skill Badge] | Cloud Speech API: 3 Ways [Skill Badge] | Cloud Functions: 3 Ways [Skill Badge] | Get Started with Google Workspace Tools [Skill Badge] | App Engine: 3 Ways [Skill Badge] | Get Started with API Gateway [Skill Badge] | Get Started with Looker [Skill Badge] | Analyze Images with the Cloud Vision API [Skill Badge],0,0
-Onkar Uttam Hol,Yes,11,Use APIs to Work with Cloud Storage [Skill Badge] | The Basics of Google Cloud Compute [Skill Badge] | Protect Sensitive Data with Data Loss Prevention [Skill Badge] | Networking Fundamentals on Google Cloud [Skill Badge] | Get Started with Pub/Sub [Skill Badge] | Get Started with Dataplex [Skill Badge] | Cloud Functions: 3 Ways [Skill Badge] | App Engine: 3 Ways [Skill Badge] | Get Started with API Gateway [Skill Badge] | Monitor and Manage Google Cloud Resources [Skill Badge] | Analyze Images with the Cloud Vision API [Skill Badge],0,0
-Priyanshu keshari,Yes,11,The Basics of Google Cloud Compute [Skill Badge] | Monitoring in Google Cloud [Skill Badge] | Get Started with Pub/Sub [Skill Badge] | Get Started with Eventarc [Skill Badge] | Get Started with Cloud Storage [Skill Badge] | Cloud Speech API: 3 Ways [Skill Badge] | Cloud Functions: 3 Ways [Skill Badge] | App Engine: 3 Ways [Skill Badge] | Get Started with API Gateway [Skill Badge] | Analyze Images with the Cloud Vision API [Skill Badge] | Develop your Google Cloud Network [Skill Badge],0,0
-Aditya Gajendra Nanaware,Yes,10,The Basics of Google Cloud Compute [Skill Badge] | Get Started with Pub/Sub [Skill Badge] | Get Started with Eventarc [Skill Badge] | Get Started with Dataplex [Skill Badge] | Get Started with Cloud Storage [Skill Badge] | Cloud Speech API: 3 Ways [Skill Badge] | Cloud Functions: 3 Ways [Skill Badge] | App Engine: 3 Ways [Skill Badge] | Get Started with API Gateway [Skill Badge] | Get Started with Looker [Skill Badge],0,0
-Lokesh pandhari kapgate,Yes,10,Networking Fundamentals on Google Cloud [Skill Badge] | Monitoring in Google Cloud [Skill Badge] | Get Started with Pub/Sub [Skill Badge] | Get Started with Dataplex [Skill Badge] | Get Started with Cloud Storage [Skill Badge] | Cloud Speech API: 3 Ways [Skill Badge] | Get Started with Google Workspace Tools [Skill Badge] | App Engine: 3 Ways [Skill Badge] | Get Started with API Gateway [Skill Badge] | Get Started with Looker [Skill Badge],0,0
-Shivtej Madan Bhandekari,Yes,10,The Basics of Google Cloud Compute [Skill Badge] | Get Started with Pub/Sub [Skill Badge] | Get Started with Eventarc [Skill Badge] | Get Started with Dataplex [Skill Badge] | Get Started with Cloud Storage [Skill Badge] | Cloud Functions: 3 Ways [Skill Badge] | App Engine: 3 Ways [Skill Badge] | Get Started with API Gateway [Skill Badge] | Implement Load Balancing on Compute Engine [Skill Badge] | Get Started with Looker [Skill Badge],0,0
-sulaiman saleh,Yes,10,The Basics of Google Cloud Compute [Skill Badge] | Get Started with Pub/Sub [Skill Badge] | Get Started with Eventarc [Skill Badge] | Get Started with Dataplex [Skill Badge] | Get Started with Cloud Storage [Skill Badge] | Cloud Speech API: 3 Ways [Skill Badge] | Cloud Functions: 3 Ways [Skill Badge] | App Engine: 3 Ways [Skill Badge] | Get Started with API Gateway [Skill Badge] | Get Started with Looker [Skill Badge],0,0
-Priyanka Naresh Gothal,Yes,9,"Use APIs to Work with Cloud Storage [Skill Badge] | Networking Fundamentals on Google Cloud [Skill Badge] | Get Started with Pub/Sub [Skill Badge] | Get Started with Eventarc [Skill Badge] | Get Started with Dataplex [Skill Badge] | Implement DevOps Workflows in Google Cloud [Skill Badge] | App Engine: 3 Ways [Skill Badge] | Store, Process, and Manage Data on Google Cloud - Console [Skill Badge] | Monitor and Manage Google Cloud Resources [Skill Badge]",0,0
-Sundram Kumar jha,Yes,9,Tag and Discover BigLake Data [Skill Badge] | Streaming Analytics into BigQuery [Skill Badge] | Networking Fundamentals on Google Cloud [Skill Badge] | Implement DevOps Workflows in Google Cloud [Skill Badge] | Build Google Cloud Infrastructure for Azure Professionals [Skill Badge] | App Engine: 3 Ways [Skill Badge] | Analyze Images with the Cloud Vision API [Skill Badge] | Create ML Models with BigQuery ML [Skill Badge] | Build Real World AI Applications with Gemini and Imagen [Skill Badge],0,0
-Nilesh Suresh Nannaware,Yes,8,"Manage Kubernetes in Google Cloud [Skill Badge] | Monitor and Log with Google Cloud Observability [Skill Badge] | Monitoring in Google Cloud [Skill Badge] | Create a Streaming Data Lake on Cloud Storage [Skill Badge] | Deploy Kubernetes Applications on Google Cloud [Skill Badge] | Store, Process, and Manage Data on Google Cloud - Command Line [Skill Badge] | Implement Load Balancing on Compute Engine [Skill Badge] | Prepare Data for ML APIs on Google Cloud [Skill Badge]",0,0
-Pranav,Yes,8,Streaming Analytics into BigQuery [Skill Badge] | Get Started with Pub/Sub [Skill Badge] | Analyze Sentiment with Natural Language API [Skill Badge] | Monitor and Manage Google Cloud Resources [Skill Badge] | Implement Load Balancing on Compute Engine [Skill Badge] | Analyze Images with the Cloud Vision API [Skill Badge] | Build a Data Warehouse with BigQuery [Skill Badge] | Build Real World AI Applications with Gemini and Imagen [Skill Badge],0,0
-Prathmesh Prabhakar Bhoir,Yes,8,"Monitor and Log with Google Cloud Observability [Skill Badge] | Store, Process, and Manage Data on Google Cloud - Command Line [Skill Badge] | Store, Process, and Manage Data on Google Cloud - Console [Skill Badge] | Monitor and Manage Google Cloud Resources [Skill Badge] | Implement Load Balancing on Compute Engine [Skill Badge] | Set Up an App Dev Environment on Google Cloud [Skill Badge] | Use Machine Learning APIs on Google Cloud [Skill Badge] | Build a Data Warehouse with BigQuery [Skill Badge]",0,0
-Billy Sutawijaya,Yes,7,The Basics of Google Cloud Compute [Skill Badge] | Get Started with Pub/Sub [Skill Badge] | Get Started with Eventarc [Skill Badge] | Get Started with Dataplex [Skill Badge] | Get Started with Cloud Storage [Skill Badge] | Get Started with API Gateway [Skill Badge] | Get Started with Looker [Skill Badge],0,0
-Vighnesh Sunil Ipte,Yes,7,The Basics of Google Cloud Compute [Skill Badge] | Get Started with Pub/Sub [Skill Badge] | Get Started with Dataplex [Skill Badge] | Get Started with Cloud Storage [Skill Badge] | Get Started with API Gateway [Skill Badge] | Get Started with Looker [Skill Badge] | Derive Insights from BigQuery Data [Skill Badge],0,0
-Junior Kevin Arios,Yes,6,"Use Functions, Formulas, and Charts in Google Sheets [Skill Badge] | Implement DevOps Workflows in Google Cloud [Skill Badge] | Get Started with Google Workspace Tools [Skill Badge] | Deploy Kubernetes Applications on Google Cloud [Skill Badge] | Build LookML Objects in Looker [Skill Badge] | Set Up an App Dev Environment on Google Cloud [Skill Badge]",0,0
-Novandi Ramadhan,Yes,6,"Store, Process, and Manage Data on Google Cloud - Command Line [Skill Badge] | Store, Process, and Manage Data on Google Cloud - Console [Skill Badge] | Monitor and Manage Google Cloud Resources [Skill Badge] | Implement Load Balancing on Compute Engine [Skill Badge] | Set Up an App Dev Environment on Google Cloud [Skill Badge] | Build a Data Warehouse with BigQuery [Skill Badge]",0,0
-Akbar Ihsanul Ahadin,Yes,5,The Basics of Google Cloud Compute [Skill Badge] | Get Started with Pub/Sub [Skill Badge] | Get Started with Cloud Storage [Skill Badge] | App Engine: 3 Ways [Skill Badge] | Get Started with API Gateway [Skill Badge],0,0
-Ajay Suresh Bibrale,Yes,4,Tag and Discover BigLake Data [Skill Badge] | Secure BigLake Data [Skill Badge] | Get Started with Eventarc [Skill Badge] | Get Started with API Gateway [Skill Badge],0,0
-Akbar Ihasan,Yes,4,Get Started with Pub/Sub [Skill Badge] | Get Started with Cloud Storage [Skill Badge] | App Engine: 3 Ways [Skill Badge] | Get Started with API Gateway [Skill Badge],0,0
-Arya Ramadhani,Yes,4,The Basics of Google Cloud Compute [Skill Badge] | Get Started with Pub/Sub [Skill Badge] | Get Started with Cloud Storage [Skill Badge] | Get Started with API Gateway [Skill Badge],0,0
-Nithin V,Yes,4,The Basics of Google Cloud Compute [Skill Badge] | Get Started with Pub/Sub [Skill Badge] | Get Started with Cloud Storage [Skill Badge] | Get Started with Looker [Skill Badge],0,0
-Soham Ganesh Chalke,Yes,4,Get Started with Pub/Sub [Skill Badge] | Get Started with Cloud Storage [Skill Badge] | Get Started with API Gateway [Skill Badge] | Get Started with Looker [Skill Badge],0,0
-Aditya Narayan Sansole,Yes,3,Networking Fundamentals on Google Cloud [Skill Badge] | Get Started with Pub/Sub [Skill Badge] | App Engine: 3 Ways [Skill Badge],0,0
-ARIN ANIL KAMBLE,Yes,3,Networking Fundamentals on Google Cloud [Skill Badge] | Get Started with Dataplex [Skill Badge] | Implement Load Balancing on Compute Engine [Skill Badge],0,0
-Ayush Mhatre,Yes,3,"Store, Process, and Manage Data on Google Cloud - Command Line [Skill Badge] | Store, Process, and Manage Data on Google Cloud - Console [Skill Badge] | Implement Load Balancing on Compute Engine [Skill Badge]",0,0
-Isha Sanjay Patil,Yes,3,The Basics of Google Cloud Compute [Skill Badge] | Get Started with Pub/Sub [Skill Badge] | Get Started with Cloud Storage [Skill Badge],0,0
-LULU SHAFIRA,Yes,3,Get Started with Pub/Sub [Skill Badge] | Get Started with Cloud Storage [Skill Badge] | Get Started with API Gateway [Skill Badge],0,0
-Navghare Shubham Anil,Yes,3,Get Started with Dataplex [Skill Badge] | Analyze Sentiment with Natural Language API [Skill Badge] | Monitor and Manage Google Cloud Resources [Skill Badge],0,0
-Renuka Umesh Pangarkar,Yes,3,Get Started with Cloud Storage [Skill Badge] | Monitor and Manage Google Cloud Resources [Skill Badge] | Analyze Images with the Cloud Vision API [Skill Badge],0,0
-Shubham Sanjay Shedge,Yes,3,"Get Started with Dataplex [Skill Badge] | Store, Process, and Manage Data on Google Cloud - Console [Skill Badge] | Monitor and Manage Google Cloud Resources [Skill Badge]",0,0
-SIDDHANT GAUTAM GAIKWAD,Yes,3,Get Started with Dataplex [Skill Badge] | Monitor and Manage Google Cloud Resources [Skill Badge] | Analyze Images with the Cloud Vision API [Skill Badge],0,0
-Agam Dwi Permana,Yes,2,The Basics of Google Cloud Compute [Skill Badge] | Get Started with Cloud Storage [Skill Badge],0,0
-Akbar Ihsan,Yes,2,Get Started with Pub/Sub [Skill Badge] | Get Started with Cloud Storage [Skill Badge],0,0
-FAIZAN ASHFAQUE BANDAR,Yes,2,The Basics of Google Cloud Compute [Skill Badge] | Get Started with Cloud Storage [Skill Badge],0,0
-Hendry Setiawan,Yes,2,The Basics of Google Cloud Compute [Skill Badge] | Set Up an App Dev Environment on Google Cloud [Skill Badge],0,0
-Ihsan Akbar,Yes,2,Get Started with Pub/Sub [Skill Badge] | Get Started with Cloud Storage [Skill Badge],0,0
-Kris Hornung,Yes,2,Build LangChain Applications using Vertex AI [Skill Badge] | Using the Google Cloud Speech API [Skill Badge],0,0
-M Syukron,Yes,2,"The Basics of Google Cloud Compute [Skill Badge] | Store, Process, and Manage Data on Google Cloud - Console [Skill Badge]",0,0
-Sapana Santosh Hambir,Yes,2,The Basics of Google Cloud Compute [Skill Badge] | Get Started with Cloud Storage [Skill Badge],0,0
-Sejal Balasaheb Patil,Yes,2,Get Started with Dataplex [Skill Badge] | Monitor and Manage Google Cloud Resources [Skill Badge],0,0
-Shruti Manoj kadam,Yes,2,The Basics of Google Cloud Compute [Skill Badge] | Get Started with Cloud Storage [Skill Badge],0,0
-Vaishnavi Popat Gaikwad,Yes,2,Monitor and Log with Google Cloud Observability [Skill Badge] | Implement Load Balancing on Compute Engine [Skill Badge],0,0
-Abhijeet Sanjay Tadake,Yes,1,Get Started with Pub/Sub [Skill Badge],0,0
-Dev Jagdish Doshi,Yes,1,Implement Load Balancing on Compute Engine [Skill Badge],0,0
-Manasi Mukesh Bhangale,Yes,1,Implement Load Balancing on Compute Engine [Skill Badge],0,0
-Mrudul fuldas meshram,Yes,1,Get Started with Dataplex [Skill Badge],0,0
-Nihal Gopichand Sathawane,Yes,1,Monitor and Log with Google Cloud Observability [Skill Badge],0,0
-Prathamesh Vijay Ghadage,Yes,1,Monitor and Manage Google Cloud Resources [Skill Badge],0,0
-Prathmesh Prabhakar Bhoir,Yes,1,Monitor and Log with Google Cloud Observability [Skill Badge],0,0
-Shreya Sudhir Ambade,Yes,1,Get Started with Dataplex [Skill Badge],0,0
-Shreyas Shriram Deshingkar,Yes,1,Implement Load Balancing on Compute Engine [Skill Badge],0,0
-Suhas Ramesh Raichurkar,Yes,1,Get Started with Dataplex [Skill Badge],0,0
-Vaibhav Walmik More,Yes,1,Get Started with Dataplex [Skill Badge],0,0
-Vanshika Devdatta Patil,Yes,1,Derive Insights from BigQuery Data [Skill Badge],0,0
-Vanshika Patil,Yes,1,Implement Load Balancing on Compute Engine [Skill Badge],0,0
-Aarti Sharma,Yes,0,,0,0
-Adarsh Rupesh Jadhav,Yes,0,,0,0
-Aditya Dnyaneshwar Deshmukh,Yes,0,,0,0
-Aditya Patil,Yes,0,,0,0
-Akshay Kiran Godase,Yes,0,,0,0
-Arcade,Yes,0,,0,0
-Ashutosh soni,Yes,0,,0,0
-Atharv Sanjay Joshi,Yes,0,,0,0
-Dashami Mangesh Ghosalkar,Yes,0,,0,0
-Deepanshu Kumar,Yes,0,,0,0
-Dhavle Yogeshwari Baban,Yes,0,,0,0
-Gargi Mahajan,Yes,0,,0,0
-Gauri Ikhar,Yes,0,,0,0
-Harshada Sapanesh Bhoilkar,Yes,0,,0,0
-Hemima Darivemula,Yes,0,,0,0
-Irvan Achmad Ashari,Yes,0,,0,0
-Jay Sharad Zore,Yes,0,,0,0
-Kiran ravindra Chilarge,Yes,0,,0,0
-Krushna Narayan Khedkar,Yes,0,,0,0
-Kunal Vishwanath Vidhate,Yes,0,,0,0
-Leena Janardan Mohite,Yes,0,,0,0
-Muhammad Ubaidillah,Yes,0,,0,0
-NAGESH GOVIND SHINDE,Yes,0,,0,0
-Om Kishor Pimple,Yes,0,,0,0
-PATHAN SUMER KHAN AZMAT KHAN,Yes,0,,0,0
-Payal vitthal paymode,Yes,0,,0,0
-Poorva Ravindra Khade,Yes,0,,0,0
-Prajwal Kewaldas Katre,Yes,0,,0,0
-Pranali Mahesh Ghosalkar,Yes,0,,0,0
-PRANAV ARUN NIKAM,Yes,0,,0,0
-Prathamesh Prakash More,Yes,0,,0,0
-Pravin Ramhari Zanjure,Yes,0,,0,0
-Prem Bhise,Yes,0,,0,0
-Priyanka Balamurugan,Yes,0,,0,0
-Purva Jijabrao Sonawane,Yes,0,,0,0
-Rishabh Sharma,Yes,0,,0,0
-Ritesh Girawale,Yes,0,,0,0
-Rushabh Gopal Aradwad,Yes,0,,0,0
-Rushikesh Kondiram Waghmare,Yes,0,,0,0
-Sakshi Laxman Benduk,Yes,0,,0,0
-Sakshi Vinod Kumbhare,Yes,0,,0,0
-Satya Durga Reddy Kovvuri,Yes,0,,0,0
-Shaikh Zarreen Fatima Shaikh chand,Yes,0,,0,0
-Shiv,Yes,0,,0,0
-Shravani Borade,Yes,0,,0,0
-Shreyash Santosh Kajrolkar,Yes,0,,0,0
-Shubham pol,Yes,0,,0,0
-Shubhankar Vinay Gokhale,Yes,0,,0,0
-Siddharth Mahendra pandere.,Yes,0,,0,0
-Smit Manohar Fule,Yes,0,,0,0
-Sudhanshu Sunil Humaney,Yes,0,,0,0
-Swati Bandeppa Koulagi,Yes,0,,0,0
-Tejaswi Hanumant Shete,Yes,0,,0,0
-Ujwal Kewaldas Katre,Yes,0,,0,0
-Vaishnavi Gajanan Mankar,Yes,0,,0,0
-Vasudha Venkat Patil,Yes,0,,0,0
-Vedant Anant Khadse,Yes,0,,0,0
-Vedanti Santosh Mahadik,Yes,0,,0,0
-VINIT KUMAR SHRIVASTAVA,Yes,0,,0,0
-Muhammad Ubaidillah,No,2,The Basics of Google Cloud Compute [Skill Badge] | Get Started with Cloud Storage [Skill Badge],0,0
-Nilesh Aggarwal,No,2,Set Up a Google Cloud Network [Skill Badge] | Develop your Google Cloud Network [Skill Badge],0,0
-Ajinkya Ravindra Rodge,No,1,Get Started with Cloud Storage [Skill Badge],0,0
-A. Furqon,No,0,,0,0
-Abdurrahman Farras Fadhila Triandhono,No,0,,0,0
-ADITYA CHANDRAKANT KHONDE,No,0,,0,0
-Aditya Sundar Desai,No,0,,0,0
-Ajay uttam more,No,0,,0,0
-Akshay kiran chaudhari,No,0,,0,0
-amanpreet singh,No,0,,0,0
-Aniket Bhikaji Parankar,No,0,,0,0
-Anish Mankani,No,0,,0,0
-Anuj Suryawanshi,No,0,,0,0
-Arya Sukhadev Mhaskar,No,0,,0,0
-Atharv Anil Kuthe,No,0,,0,0
-Atharv Dilip Dashpute,No,0,,0,0
-Atharva Mahesh Koli,No,0,,0,0
-Ayush Subhash Mhatre,No,0,,0,0
-Bhakti Govindrao Dange,No,0,,0,0
-Bhavesh Sitaphale,No,0,,0,0
-Bhushan Kolse,No,0,,0,0
-Dev Jagdish Doshi,No,0,,0,0
-Dhananjay Metangale,No,0,,0,0
-Dhruv Patel,No,0,,0,0
-Dipak Udhav Dakle,No,0,,0,0
-Divyani Mangesh Shirke,No,0,,0,0
-Divyanshu Vilas Sindpure,No,0,,0,0
-Elesh Rodge,No,0,,0,0
-Faishal Ananta Ridha,No,0,,0,0
-Faizal Fatih,No,0,,0,0
-Furqon adila,No,0,,0,0
-Ganesh Sahebrao Dhange,No,0,,0,0
-Gaurav Chafle,No,0,,0,0
-Gautam Siyaram Sharma,No,0,,0,0
-Gayatri Ambadas Vaddepalli,No,0,,0,0
-Gayatri Girish Juikar,No,0,,0,0
-Girawale Ritesh,No,0,,0,0
-Govinda Laxman kokate,No,0,,0,0
-Hansket Rathod,No,0,,0,0
-Hanuman Bhagwat Jadhav,No,0,,0,0
-Harish sanjay bhosale,No,0,,0,0
-Hexa Sanjaya,No,0,,0,0
-Jagathesswaran.V,No,0,,0,0
-JAYESH AVINASH PATIL,No,0,,0,0
-Junior Kevin Arios,No,0,,0,0
-Kaif Atik Shaikh,No,0,,0,0
-Karan Anil Patil,No,0,,0,0
-KETAN SUNIL PATIL,No,0,,0,0
-Krish kushwaha,No,0,,0,0
-Kurniawan Nur Aditya,No,0,,0,0
-Manasi Pramod Gharat,No,0,,0,0
-Manvi Meshram,No,0,,0,0
-Mayur Rajiv Bokan,No,0,,0,0
-Mayuresh Vikas Patil,No,0,,0,0
-Mrugendra Ashok Malghe,No,0,,0,0
-Muhammad Sirojuddin,No,0,,0,0
-Nikhil Chaitram Baghele,No,0,,0,0
-Nimish Aniket Patil,No,0,,0,0
-Nishika Bambal,No,0,,0,0
-Nithin V,No,0,,0,0
-Nitin Bhat,No,0,,0,0
-Om Amol Pokale,No,0,,0,0
-Om Gajanan Malthane,No,0,,0,0
-Om Malode,No,0,,0,0
-Onkar Uttam Hol,No,0,,0,0
-Onkar Uttam Hol,No,0,,0,0
-Paco Edward,No,0,,0,0
-Pranav Gurling Ligade,No,0,,0,0
-Pranay Chintaman Pinjarkar,No,0,,0,0
-Pranjali Pratik Patil,No,0,,0,0
-Punit Santosh Kale,No,0,,0,0
-R.Harshitha,No,0,,0,0
-Radhika Sharma,No,0,,0,0
-Ricco Pandora Rizkullah,No,0,,0,0
-rishabh srivastav,No,0,,0,0
-Riyank Ravindra Sarade,No,0,,0,0
-Rushikesh Nelwade,No,0,,0,0
-Rutika parekar,No,0,,0,0
-Sakshi Jagdish Dake,No,0,,0,0
-Sakshi Vilas Dupare,No,0,,0,0
-Saloni Mangesh Wadhawal,No,0,,0,0
-Sameer Bhosale,No,0,,0,0
-Sandipan Talukdar,No,0,,0,0
-Sangmeshwar Vaijanath Gurushete,No,0,,0,0
-satria pratama,No,0,,0,0
-Saurav Chafle,No,0,,0,0
-Shaikh ziya anjum shaikh chand,No,0,,0,0
-Shashank Shirsat,No,0,,0,0
-Shravani Nandkumar Patil,No,0,,0,0
-Shreya Patil,No,0,,0,0
-Shreyash Bhamle,No,0,,0,0
-Shuaib Musthafa M,No,0,,0,0
-Shubham Eknath Palkar,No,0,,0,0
-Shubhangi Vilas Jeve,No,0,,0,0
-Siddhesh Mahesh Chopade,No,0,,0,0
-Siddhi Prakash Kedari,No,0,,0,0
-Smruti Ajit Patange,No,0,,0,0
-Sneha Prafulla Shah,No,0,,0,0
-Snigdha Sanjay Sawant,No,0,,0,0
-Sourabh Vijay Mane,No,0,,0,0
-Srikanth V,No,0,,0,0
-Sudhanshu Prakash Sarode,No,0,,0,0
-Sujit Jayesh Sathe,No,0,,0,0
-Sumit Sanjay Badgujar,No,0,,0,0
-Suraj Khaire,No,0,,0,0
-Surjeetsinh Nandkumar Thakur,No,0,,0,0
-Syukron,No,0,,0,0
-Trupti Shivaji Kangane,No,0,,0,0
-Vaibhav Prabhakar Mandwe,No,0,,0,0
-Vikrant Rajput,No,0,,0,0
-Vivek Santosh Pakhare,No,0,,0,0
-Vivek sarkar,No,0,,0,0
-Vivekanand Jaybhaye,No,0,,0,0
-Vrishali Sanjay Jadhav,No,0,,0,0
-Xamroner Yudha,No,0,,0,0
-Yash Arun Tondlekar,No,0,,0,0
-Yash Rajesh Sakhare,No,0,,0,0
-Yashvardhan Janardhan Mokase,No,0,,0,0
+User Name,Access Code Redemption Status,No. of Skill Badges Completed,No. of Arcade Games Completed,No. of Trivia Games Completed
+Atharva Abhaykumar Datar,Yes,42,0,0
+Dhanashri Mahendra Mahade,Yes,42,0,0
+Hasan Abdu Rahman,Yes,42,0,0
+Muhammad Syukron Jazila,Yes,42,0,0
+Sanket Hanjari Rathod,Yes,42,0,0
+Suzzene Salim Darekhan,Yes,42,0,0
+Muhammad Thamyis Nur Abdadi,Yes,41,0,0
+Ram Manoj Gawande,Yes,38,0,0
+Kushal Dhore,Yes,37,0,0
+Praveen Kumar Kushwaha,Yes,37,0,0
+Junior Kevin Arios,Yes,35,0,0
+Muhammad Fachrul Reihan Fauzian,Yes,35,0,0
+Shruti Ramesh Pore,Yes,34,0,0
+Sunny Gupta,Yes,34,0,0
+Om Jagdish Doshi,Yes,33,0,0
+Prathmesh Prabhakar Bhoir,Yes,32,0,0
+Rishabh Anilkumar Sharma,Yes,32,0,0
+Shantanu Balu Metkari,Yes,31,0,0
+Asit Atmaram More,Yes,30,0,0
+Palak Abhay Madewar,Yes,28,0,0
+Ujwal Kewaldas Katre,Yes,28,0,0
+Sumit Sanjay Badgujar,Yes,27,0,0
+Patil Sandesh Sanjay,Yes,26,0,0
+Shreya Prashant Surve,Yes,26,0,0
+Aysyah Noor Shobah,Yes,25,0,0
+Sanskruti Sanjay Waghmare,Yes,25,0,0
+Priya Santosh Tare,Yes,24,0,0
+Rakhi Babasaheb Dhole,Yes,24,0,0
+Aniket Prakash Wandhekar,Yes,23,0,0
+Shardula Sujan Thakur,Yes,23,0,0
+Ashish Subhash Magar,Yes,22,0,0
+Jay Gulhane,Yes,22,0,0
+Gayatri juikar,Yes,20,0,0
+Komal Londhe,Yes,20,0,0
+Ahmad Furqon Adila,Yes,18,0,0
+Purva Balraj Kurle,Yes,18,0,0
+Rahul Sonone,Yes,18,0,0
+Rohit Rajendra Shinde,Yes,18,0,0
+Ankush Mehtar Pagarwar,Yes,17,0,0
+Priyanka Balamurugan,Yes,17,0,0
+Roshan Narayan Chavan,Yes,17,0,0
+Soham Manish Sawalakhe,Yes,17,0,0
+Deep Nilesh Thale,Yes,16,0,0
+Pratiksha Ishwar Dhole,Yes,16,0,0
+Rujuta Chandrashekhar Wadgire,Yes,16,0,0
+Atharva Dongare,Yes,15,0,0
+Pooja Gangadhar Kale,Yes,15,0,0
+Sharvari Kamat,Yes,15,0,0
+Vaidehi Nandkishor Garad,Yes,15,0,0
+Anjali Dongare,Yes,14,0,0
+Dhanashri Mahendra Mahade,Yes,14,0,0
+Muhammad Dzakwan Attaqiy,Yes,14,0,0
+Prathamesh KrishnaBhoir,Yes,14,0,0
+Umendra Pardhi,Yes,14,0,0
+Yashwant Ramesh Baswar,Yes,14,0,0
+Aparna Santosh Sawant,Yes,12,0,0
+Prem Ubhad,Yes,12,0,0
+Radhika Ganesh Ingale,Yes,12,0,0
+Onkar Uttam Hol,Yes,11,0,0
+Priyanshu keshari,Yes,11,0,0
+Aditya Gajendra Nanaware,Yes,10,0,0
+Lokesh pandhari kapgate,Yes,10,0,0
+Shivtej Madan Bhandekari,Yes,10,0,0
+sulaiman saleh,Yes,10,0,0
+Priyanka Naresh Gothal,Yes,9,0,0
+Nilesh Suresh Nannaware,Yes,8,0,0
+Pranav,Yes,8,0,0
+Prathmesh Prabhakar Bhoir,Yes,8,0,0
+Billy Sutawijaya,Yes,7,0,0
+Vighnesh Sunil Ipte,Yes,7,0,0
+Ajay Suresh Bibrale,Yes,6,0,0
+Junior Kevin Arios,Yes,6,0,0
+Novandi Ramadhan,Yes,6,0,0
+Akbar Ihsanul Ahadin,Yes,5,0,0
+Renuka Umesh Pangarkar,Yes,5,0,0
+Akbar Ihasan,Yes,4,0,0
+Arya Ramadhani,Yes,4,0,0
+Nithin V,Yes,4,0,0
+Soham Ganesh Chalke,Yes,4,0,0
+Aditya Narayan Sansole,Yes,3,0,0
+Agam Dwi Permana,Yes,3,0,0
+ARIN ANIL KAMBLE,Yes,3,0,0
+Ayush Mhatre,Yes,3,0,0
+Isha Sanjay Patil,Yes,3,0,0
+LULU SHAFIRA,Yes,3,0,0
+Navghare Shubham Anil,Yes,3,0,0
+Shubham Sanjay Shedge,Yes,3,0,0
+SIDDHANT GAUTAM GAIKWAD,Yes,3,0,0
+Vanshika Devdatta Patil,Yes,3,0,0
+Akbar Ihsan,Yes,2,0,0
+FAIZAN ASHFAQUE BANDAR,Yes,2,0,0
+Hendry Setiawan,Yes,2,0,0
+Ihsan Akbar,Yes,2,0,0
+Kris Hornung,Yes,2,0,0
+M Syukron,Yes,2,0,0
+Sapana Santosh Hambir,Yes,2,0,0
+Sejal Balasaheb Patil,Yes,2,0,0
+Shruti Manoj kadam,Yes,2,0,0
+Vaishnavi Popat Gaikwad,Yes,2,0,0
+Vanshika Patil,Yes,2,0,0
+Abhijeet Sanjay Tadake,Yes,1,0,0
+Dev Jagdish Doshi,Yes,1,0,0
+Manasi Mukesh Bhangale,Yes,1,0,0
+Mrudul fuldas meshram,Yes,1,0,0
+Nihal Gopichand Sathawane,Yes,1,0,0
+Prathamesh Vijay Ghadage,Yes,1,0,0
+Prathmesh Prabhakar Bhoir,Yes,1,0,0
+Satya Durga Reddy Kovvuri,Yes,1,0,0
+Shreya Sudhir Ambade,Yes,1,0,0
+Shreyas Shriram Deshingkar,Yes,1,0,0
+Suhas Ramesh Raichurkar,Yes,1,0,0
+Vaibhav Walmik More,Yes,1,0,0
+Aarti Sharma,Yes,0,0,0
+Adarsh Rupesh Jadhav,Yes,0,0,0
+Aditya Dnyaneshwar Deshmukh,Yes,0,0,0
+Aditya Patil,Yes,0,0,0
+Akshay Kiran Godase,Yes,0,0,0
+Arcade,Yes,0,0,0
+Ashutosh soni,Yes,0,0,0
+Atharv Sanjay Joshi,Yes,0,0,0
+Dashami Mangesh Ghosalkar,Yes,0,0,0
+Deepanshu Kumar,Yes,0,0,0
+Dhavle Yogeshwari Baban,Yes,0,0,0
+Gargi Mahajan,Yes,0,0,0
+Gauri Ikhar,Yes,0,0,0
+Harshada Sapanesh Bhoilkar,Yes,0,0,0
+Hemima Darivemula,Yes,0,0,0
+Irvan Achmad Ashari,Yes,0,0,0
+Jay Sharad Zore,Yes,0,0,0
+Kiran ravindra Chilarge,Yes,0,0,0
+Krushna Narayan Khedkar,Yes,0,0,0
+Kunal Vishwanath Vidhate,Yes,0,0,0
+Leena Janardan Mohite,Yes,0,0,0
+Muhammad Ubaidillah,Yes,0,0,0
+NAGESH GOVIND SHINDE,Yes,0,0,0
+Om Kishor Pimple,Yes,0,0,0
+PATHAN SUMER KHAN AZMAT KHAN,Yes,0,0,0
+Payal vitthal paymode,Yes,0,0,0
+Poorva Ravindra Khade,Yes,0,0,0
+Prajwal Kewaldas Katre,Yes,0,0,0
+Pranali Mahesh Ghosalkar,Yes,0,0,0
+PRANAV ARUN NIKAM,Yes,0,0,0
+Prathamesh Prakash More,Yes,0,0,0
+Pravin Ramhari Zanjure,Yes,0,0,0
+Prem Bhise,Yes,0,0,0
+Priyanka Balamurugan,Yes,0,0,0
+Purva Jijabrao Sonawane,Yes,0,0,0
+Rishabh Sharma,Yes,0,0,0
+Ritesh Girawale,Yes,0,0,0
+Rushabh Gopal Aradwad,Yes,0,0,0
+Rushikesh Kondiram Waghmare,Yes,0,0,0
+Sakshi Laxman Benduk,Yes,0,0,0
+Sakshi Vinod Kumbhare,Yes,0,0,0
+Shaikh Zarreen Fatima Shaikh chand,Yes,0,0,0
+Shiv,Yes,0,0,0
+Shravani Borade,Yes,0,0,0
+Shreyash Santosh Kajrolkar,Yes,0,0,0
+Shubham pol,Yes,0,0,0
+Shubhankar Vinay Gokhale,Yes,0,0,0
+Siddharth Mahendra pandere.,Yes,0,0,0
+Smit Manohar Fule,Yes,0,0,0
+Sudhanshu Sunil Humaney,Yes,0,0,0
+Swati Bandeppa Koulagi,Yes,0,0,0
+Tejaswi Hanumant Shete,Yes,0,0,0
+Ujwal Kewaldas Katre,Yes,0,0,0
+Vaishnavi Gajanan Mankar,Yes,0,0,0
+Vasudha Venkat Patil,Yes,0,0,0
+Vedant Anant Khadse,Yes,0,0,0
+Vedanti Santosh Mahadik,Yes,0,0,0
+VINIT KUMAR SHRIVASTAVA,Yes,0,0,0
+Muhammad Ubaidillah,No,2,0,0
+Nilesh Aggarwal,No,2,0,0
+Ajinkya Ravindra Rodge,No,1,0,0
+A. Furqon,No,0,0,0
+Abdurrahman Farras Fadhila Triandhono,No,0,0,0
+ADITYA CHANDRAKANT KHONDE,No,0,0,0
+Aditya Sundar Desai,No,0,0,0
+Ajay uttam more,No,0,0,0
+Akshay kiran chaudhari,No,0,0,0
+amanpreet singh,No,0,0,0
+Aniket Bhikaji Parankar,No,0,0,0
+Anish Mankani,No,0,0,0
+Anuj Suryawanshi,No,0,0,0
+Arya Sukhadev Mhaskar,No,0,0,0
+Atharv Anil Kuthe,No,0,0,0
+Atharv Dilip Dashpute,No,0,0,0
+Atharva Mahesh Koli,No,0,0,0
+Ayush Subhash Mhatre,No,0,0,0
+Bhakti Govindrao Dange,No,0,0,0
+Bhavesh Sitaphale,No,0,0,0
+Bhushan Kolse,No,0,0,0
+Dev Jagdish Doshi,No,0,0,0
+Dhananjay Metangale,No,0,0,0
+Dhruv Patel,No,0,0,0
+Dipak Udhav Dakle,No,0,0,0
+Divyani Mangesh Shirke,No,0,0,0
+Divyanshu Vilas Sindpure,No,0,0,0
+Elesh Rodge,No,0,0,0
+Faishal Ananta Ridha,No,0,0,0
+Faizal Fatih,No,0,0,0
+Furqon adila,No,0,0,0
+Ganesh Sahebrao Dhange,No,0,0,0
+Gaurav Chafle,No,0,0,0
+Gautam Siyaram Sharma,No,0,0,0
+Gayatri Ambadas Vaddepalli,No,0,0,0
+Gayatri Girish Juikar,No,0,0,0
+Girawale Ritesh,No,0,0,0
+Govinda Laxman kokate,No,0,0,0
+Hansket Rathod,No,0,0,0
+Hanuman Bhagwat Jadhav,No,0,0,0
+Harish sanjay bhosale,No,0,0,0
+Hexa Sanjaya,No,0,0,0
+Jagathesswaran.V,No,0,0,0
+JAYESH AVINASH PATIL,No,0,0,0
+Junior Kevin Arios,No,0,0,0
+Kaif Atik Shaikh,No,0,0,0
+Karan Anil Patil,No,0,0,0
+KETAN SUNIL PATIL,No,0,0,0
+Krish kushwaha,No,0,0,0
+Kurniawan Nur Aditya,No,0,0,0
+Manasi Pramod Gharat,No,0,0,0
+Manvi Meshram,No,0,0,0
+Mayur Rajiv Bokan,No,0,0,0
+Mayuresh Vikas Patil,No,0,0,0
+Mrugendra Ashok Malghe,No,0,0,0
+Muhammad Sirojuddin,No,0,0,0
+Nikhil Chaitram Baghele,No,0,0,0
+Nimish Aniket Patil,No,0,0,0
+Nishika Bambal,No,0,0,0
+Nithin V,No,0,0,0
+Nitin Bhat,No,0,0,0
+Om Amol Pokale,No,0,0,0
+Om Gajanan Malthane,No,0,0,0
+Om Malode,No,0,0,0
+Onkar Uttam Hol,No,0,0,0
+Onkar Uttam Hol,No,0,0,0
+Paco Edward,No,0,0,0
+Pranav Gurling Ligade,No,0,0,0
+Pranay Chintaman Pinjarkar,No,0,0,0
+Pranjali Pratik Patil,No,0,0,0
+Punit Santosh Kale,No,0,0,0
+R.Harshitha,No,0,0,0
+Radhika Sharma,No,0,0,0
+Ricco Pandora Rizkullah,No,0,0,0
+rishabh srivastav,No,0,0,0
+Riyank Ravindra Sarade,No,0,0,0
+Rushikesh Nelwade,No,0,0,0
+Rutika parekar,No,0,0,0
+Sakshi Jagdish Dake,No,0,0,0
+Sakshi Vilas Dupare,No,0,0,0
+Saloni Mangesh Wadhawal,No,0,0,0
+Sameer Bhosale,No,0,0,0
+Sandipan Talukdar,No,0,0,0
+Sangmeshwar Vaijanath Gurushete,No,0,0,0
+satria pratama,No,0,0,0
+Saurav Chafle,No,0,0,0
+Shaikh ziya anjum shaikh chand,No,0,0,0
+Shashank Shirsat,No,0,0,0
+Shravani Nandkumar Patil,No,0,0,0
+Shreya Patil,No,0,0,0
+Shreyash Bhamle,No,0,0,0
+Shuaib Musthafa M,No,0,0,0
+Shubham Eknath Palkar,No,0,0,0
+Shubhangi Vilas Jeve,No,0,0,0
+Siddhesh Mahesh Chopade,No,0,0,0
+Siddhi Prakash Kedari,No,0,0,0
+Smruti Ajit Patange,No,0,0,0
+Sneha Prafulla Shah,No,0,0,0
+Snigdha Sanjay Sawant,No,0,0,0
+Sourabh Vijay Mane,No,0,0,0
+Srikanth V,No,0,0,0
+Sudhanshu Prakash Sarode,No,0,0,0
+Sujit Jayesh Sathe,No,0,0,0
+Sumit Sanjay Badgujar,No,0,0,0
+Suraj Khaire,No,0,0,0
+Surjeetsinh Nandkumar Thakur,No,0,0,0
+Syukron,No,0,0,0
+Trupti Shivaji Kangane,No,0,0,0
+Vaibhav Prabhakar Mandwe,No,0,0,0
+Vikrant Rajput,No,0,0,0
+Vivek Santosh Pakhare,No,0,0,0
+Vivek sarkar,No,0,0,0
+Vivekanand Jaybhaye,No,0,0,0
+Vrishali Sanjay Jadhav,No,0,0,0
+Xamroner Yudha,No,0,0,0
+Yash Arun Tondlekar,No,0,0,0
+Yash Rajesh Sakhare,No,0,0,0
+Yashvardhan Janardhan Mokase,No,0,0,0
