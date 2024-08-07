@@ -1,59 +1,59 @@
-User Name,Access Code Redemption Status,No. of Skill Badges Completed,No. of Arcade Games Completed,No. of Trivia Games Completed
+User Name,Access Code Redemption Status,NO. of Skill Badges Completed,No. of Arcade Games Completed,No. of Trivia Games Completed
+Muhammad Syukron Jazila,Yes,42,1,1
+Suzzene Salim Darekhan,Yes,42,1,1
+Hasan Abdu Rahman,Yes,42,1,0
+Dhanashri Mahendra Mahade,Yes,42,0,1
 Atharva Abhaykumar Datar,Yes,42,0,0
-Dhanashri Mahendra Mahade,Yes,42,0,0
-Hasan Abdu Rahman,Yes,42,0,0
-Muhammad Syukron Jazila,Yes,42,0,0
 Sanket Hanjari Rathod,Yes,42,0,0
-Suzzene Salim Darekhan,Yes,42,0,0
 Muhammad Thamyis Nur Abdadi,Yes,41,0,0
 Ram Manoj Gawande,Yes,38,0,0
 Kushal Dhore,Yes,37,0,0
 Praveen Kumar Kushwaha,Yes,37,0,0
-Junior Kevin Arios,Yes,35,0,0
+Junior Kevin Arios,Yes,35,0,1
 Muhammad Fachrul Reihan Fauzian,Yes,35,0,0
+Sunny Gupta,Yes,34,1,0
 Shruti Ramesh Pore,Yes,34,0,0
-Sunny Gupta,Yes,34,0,0
 Om Jagdish Doshi,Yes,33,0,0
 Prathmesh Prabhakar Bhoir,Yes,32,0,0
 Rishabh Anilkumar Sharma,Yes,32,0,0
 Shantanu Balu Metkari,Yes,31,0,0
-Asit Atmaram More,Yes,30,0,0
-Palak Abhay Madewar,Yes,28,0,0
+Asit Atmaram More,Yes,30,1,0
+Palak Abhay Madewar,Yes,30,0,1
 Ujwal Kewaldas Katre,Yes,28,0,0
-Sumit Sanjay Badgujar,Yes,27,0,0
-Patil Sandesh Sanjay,Yes,26,0,0
+Sumit Sanjay Badgujar,Yes,27,1,0
+Patil Sandesh Sanjay,Yes,26,0,1
 Shreya Prashant Surve,Yes,26,0,0
-Aysyah Noor Shobah,Yes,25,0,0
-Sanskruti Sanjay Waghmare,Yes,25,0,0
+Aysyah Noor Shobah,Yes,25,1,0
+Sanskruti Sanjay Waghmare,Yes,25,1,0
 Priya Santosh Tare,Yes,24,0,0
 Rakhi Babasaheb Dhole,Yes,24,0,0
-Aniket Prakash Wandhekar,Yes,23,0,0
+Aniket Prakash Wandhekar,Yes,23,0,1
 Shardula Sujan Thakur,Yes,23,0,0
 Ashish Subhash Magar,Yes,22,0,0
 Jay Gulhane,Yes,22,0,0
+Komal Londhe,Yes,20,1,0
 Gayatri juikar,Yes,20,0,0
-Komal Londhe,Yes,20,0,0
+Rohit Rajendra Shinde,Yes,18,1,0
 Ahmad Furqon Adila,Yes,18,0,0
 Purva Balraj Kurle,Yes,18,0,0
 Rahul Sonone,Yes,18,0,0
-Rohit Rajendra Shinde,Yes,18,0,0
+Soham Manish Sawalakhe,Yes,17,1,0
 Ankush Mehtar Pagarwar,Yes,17,0,0
 Priyanka Balamurugan,Yes,17,0,0
 Roshan Narayan Chavan,Yes,17,0,0
-Soham Manish Sawalakhe,Yes,17,0,0
 Deep Nilesh Thale,Yes,16,0,0
 Pratiksha Ishwar Dhole,Yes,16,0,0
 Rujuta Chandrashekhar Wadgire,Yes,16,0,0
+Anjali Dongare,Yes,15,0,0
 Atharva Dongare,Yes,15,0,0
 Pooja Gangadhar Kale,Yes,15,0,0
 Sharvari Kamat,Yes,15,0,0
 Vaidehi Nandkishor Garad,Yes,15,0,0
-Anjali Dongare,Yes,14,0,0
+Yashwant Ramesh Baswar,Yes,14,0,1
 Dhanashri Mahendra Mahade,Yes,14,0,0
 Muhammad Dzakwan Attaqiy,Yes,14,0,0
 Prathamesh KrishnaBhoir,Yes,14,0,0
 Umendra Pardhi,Yes,14,0,0
-Yashwant Ramesh Baswar,Yes,14,0,0
 Aparna Santosh Sawant,Yes,12,0,0
 Prem Ubhad,Yes,12,0,0
 Radhika Ganesh Ingale,Yes,12,0,0
@@ -64,16 +64,18 @@ Lokesh pandhari kapgate,Yes,10,0,0
 Shivtej Madan Bhandekari,Yes,10,0,0
 sulaiman saleh,Yes,10,0,0
 Priyanka Naresh Gothal,Yes,9,0,0
-Nilesh Suresh Nannaware,Yes,8,0,0
+Nilesh Suresh Nannaware,Yes,8,0,1
+Ajay Suresh Bibrale,Yes,8,0,0
 Pranav,Yes,8,0,0
 Prathmesh Prabhakar Bhoir,Yes,8,0,0
 Billy Sutawijaya,Yes,7,0,0
 Vighnesh Sunil Ipte,Yes,7,0,0
-Ajay Suresh Bibrale,Yes,6,0,0
 Junior Kevin Arios,Yes,6,0,0
 Novandi Ramadhan,Yes,6,0,0
+Vanshika Devdatta Patil,Yes,6,0,0
 Akbar Ihsanul Ahadin,Yes,5,0,0
 Renuka Umesh Pangarkar,Yes,5,0,0
+Vanshika Patil,Yes,5,0,0
 Akbar Ihasan,Yes,4,0,0
 Arya Ramadhani,Yes,4,0,0
 Nithin V,Yes,4,0,0
@@ -87,18 +89,18 @@ LULU SHAFIRA,Yes,3,0,0
 Navghare Shubham Anil,Yes,3,0,0
 Shubham Sanjay Shedge,Yes,3,0,0
 SIDDHANT GAUTAM GAIKWAD,Yes,3,0,0
-Vanshika Devdatta Patil,Yes,3,0,0
+Muhammad Ubaidillah,No,3,0,0
+M Syukron,Yes,2,1,1
 Akbar Ihsan,Yes,2,0,0
 FAIZAN ASHFAQUE BANDAR,Yes,2,0,0
 Hendry Setiawan,Yes,2,0,0
 Ihsan Akbar,Yes,2,0,0
 Kris Hornung,Yes,2,0,0
-M Syukron,Yes,2,0,0
 Sapana Santosh Hambir,Yes,2,0,0
 Sejal Balasaheb Patil,Yes,2,0,0
 Shruti Manoj kadam,Yes,2,0,0
 Vaishnavi Popat Gaikwad,Yes,2,0,0
-Vanshika Patil,Yes,2,0,0
+Nilesh Aggarwal,No,2,0,0
 Abhijeet Sanjay Tadake,Yes,1,0,0
 Dev Jagdish Doshi,Yes,1,0,0
 Manasi Mukesh Bhangale,Yes,1,0,0
@@ -111,6 +113,8 @@ Shreya Sudhir Ambade,Yes,1,0,0
 Shreyas Shriram Deshingkar,Yes,1,0,0
 Suhas Ramesh Raichurkar,Yes,1,0,0
 Vaibhav Walmik More,Yes,1,0,0
+Ajinkya Ravindra Rodge,No,1,0,0
+amanpreet singh,No,0,1,0
 Aarti Sharma,Yes,0,0,0
 Adarsh Rupesh Jadhav,Yes,0,0,0
 Aditya Dnyaneshwar Deshmukh,Yes,0,0,0
@@ -169,16 +173,12 @@ Vasudha Venkat Patil,Yes,0,0,0
 Vedant Anant Khadse,Yes,0,0,0
 Vedanti Santosh Mahadik,Yes,0,0,0
 VINIT KUMAR SHRIVASTAVA,Yes,0,0,0
-Muhammad Ubaidillah,No,2,0,0
-Nilesh Aggarwal,No,2,0,0
-Ajinkya Ravindra Rodge,No,1,0,0
 A. Furqon,No,0,0,0
 Abdurrahman Farras Fadhila Triandhono,No,0,0,0
 ADITYA CHANDRAKANT KHONDE,No,0,0,0
 Aditya Sundar Desai,No,0,0,0
 Ajay uttam more,No,0,0,0
 Akshay kiran chaudhari,No,0,0,0
-amanpreet singh,No,0,0,0
 Aniket Bhikaji Parankar,No,0,0,0
 Anish Mankani,No,0,0,0
 Anuj Suryawanshi,No,0,0,0
