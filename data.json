@@ -21,17 +21,17 @@
         "No. of Trivia Games Completed": 1
     },
     {
-        "User Name": "Suzzene Salim Darekhan",
+        "User Name": "Sanket Hanjari Rathod",
         "Access Code Redemption Status": "Yes",
         "No. of Skill Badges Completed": 42,
         "No. of Arcade Games Completed": 1,
         "No. of Trivia Games Completed": 1
     },
     {
-        "User Name": "Sanket Hanjari Rathod",
+        "User Name": "Suzzene Salim Darekhan",
         "Access Code Redemption Status": "Yes",
         "No. of Skill Badges Completed": 42,
-        "No. of Arcade Games Completed": 0,
+        "No. of Arcade Games Completed": 1,
         "No. of Trivia Games Completed": 1
     },
     {
@@ -88,7 +88,7 @@
         "Access Code Redemption Status": "Yes",
         "No. of Skill Badges Completed": 34,
         "No. of Arcade Games Completed": 2,
-        "No. of Trivia Games Completed": 0
+        "No. of Trivia Games Completed": 1
     },
     {
         "User Name": "Shruti Ramesh Pore",
@@ -101,7 +101,7 @@
         "User Name": "Om Jagdish Doshi",
         "Access Code Redemption Status": "Yes",
         "No. of Skill Badges Completed": 33,
-        "No. of Arcade Games Completed": 0,
+        "No. of Arcade Games Completed": 1,
         "No. of Trivia Games Completed": 0
     },
     {
@@ -122,21 +122,21 @@
         "User Name": "Shantanu Balu Metkari",
         "Access Code Redemption Status": "Yes",
         "No. of Skill Badges Completed": 31,
-        "No. of Arcade Games Completed": 0,
-        "No. of Trivia Games Completed": 0
+        "No. of Arcade Games Completed": 1,
+        "No. of Trivia Games Completed": 1
     },
     {
         "User Name": "Asit Atmaram More",
         "Access Code Redemption Status": "Yes",
         "No. of Skill Badges Completed": 30,
-        "No. of Arcade Games Completed": 1,
-        "No. of Trivia Games Completed": 0
+        "No. of Arcade Games Completed": 2,
+        "No. of Trivia Games Completed": 1
     },
     {
         "User Name": "Palak Abhay Madewar",
         "Access Code Redemption Status": "Yes",
         "No. of Skill Badges Completed": 30,
-        "No. of Arcade Games Completed": 0,
+        "No. of Arcade Games Completed": 1,
         "No. of Trivia Games Completed": 1
     },
     {
@@ -144,12 +144,19 @@
         "Access Code Redemption Status": "Yes",
         "No. of Skill Badges Completed": 28,
         "No. of Arcade Games Completed": 0,
-        "No. of Trivia Games Completed": 0
+        "No. of Trivia Games Completed": 1
     },
     {
         "User Name": "Sumit Sanjay Badgujar",
         "Access Code Redemption Status": "Yes",
         "No. of Skill Badges Completed": 27,
+        "No. of Arcade Games Completed": 2,
+        "No. of Trivia Games Completed": 1
+    },
+    {
+        "User Name": "Sanskruti Sanjay Waghmare",
+        "Access Code Redemption Status": "Yes",
+        "No. of Skill Badges Completed": 26,
         "No. of Arcade Games Completed": 1,
         "No. of Trivia Games Completed": 0
     },
@@ -175,31 +182,24 @@
         "No. of Trivia Games Completed": 0
     },
     {
-        "User Name": "Sanskruti Sanjay Waghmare",
+        "User Name": "Rakhi Babasaheb Dhole",
         "Access Code Redemption Status": "Yes",
-        "No. of Skill Badges Completed": 25,
-        "No. of Arcade Games Completed": 1,
-        "No. of Trivia Games Completed": 0
+        "No. of Skill Badges Completed": 24,
+        "No. of Arcade Games Completed": 2,
+        "No. of Trivia Games Completed": 1
     },
     {
         "User Name": "Priya Santosh Tare",
         "Access Code Redemption Status": "Yes",
         "No. of Skill Badges Completed": 24,
-        "No. of Arcade Games Completed": 1,
-        "No. of Trivia Games Completed": 0
-    },
-    {
-        "User Name": "Rakhi Babasaheb Dhole",
-        "Access Code Redemption Status": "Yes",
-        "No. of Skill Badges Completed": 24,
-        "No. of Arcade Games Completed": 1,
+        "No. of Arcade Games Completed": 2,
         "No. of Trivia Games Completed": 0
     },
     {
         "User Name": "Aniket Prakash Wandhekar",
         "Access Code Redemption Status": "Yes",
         "No. of Skill Badges Completed": 23,
-        "No. of Arcade Games Completed": 0,
+        "No. of Arcade Games Completed": 2,
         "No. of Trivia Games Completed": 1
     },
     {
@@ -227,7 +227,7 @@
         "User Name": "Komal Londhe",
         "Access Code Redemption Status": "Yes",
         "No. of Skill Badges Completed": 20,
-        "No. of Arcade Games Completed": 1,
+        "No. of Arcade Games Completed": 2,
         "No. of Trivia Games Completed": 0
     },
     {
@@ -247,8 +247,8 @@
     {
         "User Name": "Rohit Rajendra Shinde",
         "Access Code Redemption Status": "Yes",
-        "No. of Skill Badges Completed": 18,
-        "No. of Arcade Games Completed": 1,
+        "No. of Skill Badges Completed": 19,
+        "No. of Arcade Games Completed": 2,
         "No. of Trivia Games Completed": 0
     },
     {
@@ -269,11 +269,18 @@
         "User Name": "Soham Manish Sawalakhe",
         "Access Code Redemption Status": "Yes",
         "No. of Skill Badges Completed": 17,
-        "No. of Arcade Games Completed": 1,
+        "No. of Arcade Games Completed": 2,
         "No. of Trivia Games Completed": 1
     },
     {
         "User Name": "Priyanka Balamurugan",
+        "Access Code Redemption Status": "Yes",
+        "No. of Skill Badges Completed": 17,
+        "No. of Arcade Games Completed": 1,
+        "No. of Trivia Games Completed": 0
+    },
+    {
+        "User Name": "Roshan Narayan Chavan",
         "Access Code Redemption Status": "Yes",
         "No. of Skill Badges Completed": 17,
         "No. of Arcade Games Completed": 1,
@@ -287,17 +294,10 @@
         "No. of Trivia Games Completed": 0
     },
     {
-        "User Name": "Roshan Narayan Chavan",
-        "Access Code Redemption Status": "Yes",
-        "No. of Skill Badges Completed": 17,
-        "No. of Arcade Games Completed": 0,
-        "No. of Trivia Games Completed": 0
-    },
-    {
         "User Name": "Anjali Dongare",
         "Access Code Redemption Status": "Yes",
         "No. of Skill Badges Completed": 16,
-        "No. of Arcade Games Completed": 1,
+        "No. of Arcade Games Completed": 2,
         "No. of Trivia Games Completed": 0
     },
     {
@@ -326,17 +326,17 @@
         "Access Code Redemption Status": "Yes",
         "No. of Skill Badges Completed": 15,
         "No. of Arcade Games Completed": 1,
-        "No. of Trivia Games Completed": 0
-    },
-    {
-        "User Name": "Atharva Dongare",
-        "Access Code Redemption Status": "Yes",
-        "No. of Skill Badges Completed": 15,
-        "No. of Arcade Games Completed": 0,
-        "No. of Trivia Games Completed": 0
+        "No. of Trivia Games Completed": 1
     },
     {
         "User Name": "Sharvari Kamat",
+        "Access Code Redemption Status": "Yes",
+        "No. of Skill Badges Completed": 15,
+        "No. of Arcade Games Completed": 1,
+        "No. of Trivia Games Completed": 1
+    },
+    {
+        "User Name": "Atharva Dongare",
         "Access Code Redemption Status": "Yes",
         "No. of Skill Badges Completed": 15,
         "No. of Arcade Games Completed": 0,
@@ -385,6 +385,13 @@
         "No. of Trivia Games Completed": 0
     },
     {
+        "User Name": "Ajay Suresh Bibrale",
+        "Access Code Redemption Status": "Yes",
+        "No. of Skill Badges Completed": 12,
+        "No. of Arcade Games Completed": 0,
+        "No. of Trivia Games Completed": 0
+    },
+    {
         "User Name": "Aparna Santosh Sawant",
         "Access Code Redemption Status": "Yes",
         "No. of Skill Badges Completed": 12,
@@ -413,6 +420,20 @@
         "No. of Trivia Games Completed": 1
     },
     {
+        "User Name": "Shivtej Madan Bhandekari",
+        "Access Code Redemption Status": "Yes",
+        "No. of Skill Badges Completed": 11,
+        "No. of Arcade Games Completed": 0,
+        "No. of Trivia Games Completed": 1
+    },
+    {
+        "User Name": "Lokesh pandhari kapgate",
+        "Access Code Redemption Status": "Yes",
+        "No. of Skill Badges Completed": 11,
+        "No. of Arcade Games Completed": 0,
+        "No. of Trivia Games Completed": 0
+    },
+    {
         "User Name": "Priyanshu keshari",
         "Access Code Redemption Status": "Yes",
         "No. of Skill Badges Completed": 11,
@@ -427,28 +448,14 @@
         "No. of Trivia Games Completed": 1
     },
     {
-        "User Name": "Ajay Suresh Bibrale",
-        "Access Code Redemption Status": "Yes",
-        "No. of Skill Badges Completed": 10,
-        "No. of Arcade Games Completed": 0,
-        "No. of Trivia Games Completed": 0
-    },
-    {
-        "User Name": "Lokesh pandhari kapgate",
-        "Access Code Redemption Status": "Yes",
-        "No. of Skill Badges Completed": 10,
-        "No. of Arcade Games Completed": 0,
-        "No. of Trivia Games Completed": 0
-    },
-    {
-        "User Name": "Shivtej Madan Bhandekari",
-        "Access Code Redemption Status": "Yes",
-        "No. of Skill Badges Completed": 10,
-        "No. of Arcade Games Completed": 0,
-        "No. of Trivia Games Completed": 0
-    },
-    {
         "User Name": "sulaiman saleh",
+        "Access Code Redemption Status": "Yes",
+        "No. of Skill Badges Completed": 10,
+        "No. of Arcade Games Completed": 0,
+        "No. of Trivia Games Completed": 0
+    },
+    {
+        "User Name": "Vanshika Devdatta Patil",
         "Access Code Redemption Status": "Yes",
         "No. of Skill Badges Completed": 10,
         "No. of Arcade Games Completed": 0,
@@ -459,13 +466,6 @@
         "Access Code Redemption Status": "Yes",
         "No. of Skill Badges Completed": 9,
         "No. of Arcade Games Completed": 2,
-        "No. of Trivia Games Completed": 0
-    },
-    {
-        "User Name": "Vanshika Devdatta Patil",
-        "Access Code Redemption Status": "Yes",
-        "No. of Skill Badges Completed": 9,
-        "No. of Arcade Games Completed": 0,
         "No. of Trivia Games Completed": 0
     },
     {
@@ -491,6 +491,13 @@
     },
     {
         "User Name": "Billy Sutawijaya",
+        "Access Code Redemption Status": "Yes",
+        "No. of Skill Badges Completed": 7,
+        "No. of Arcade Games Completed": 0,
+        "No. of Trivia Games Completed": 0
+    },
+    {
+        "User Name": "Vanshika Patil",
         "Access Code Redemption Status": "Yes",
         "No. of Skill Badges Completed": 7,
         "No. of Arcade Games Completed": 0,
@@ -526,13 +533,6 @@
     },
     {
         "User Name": "Akbar Ihsanul Ahadin",
-        "Access Code Redemption Status": "Yes",
-        "No. of Skill Badges Completed": 5,
-        "No. of Arcade Games Completed": 0,
-        "No. of Trivia Games Completed": 0
-    },
-    {
-        "User Name": "Vanshika Patil",
         "Access Code Redemption Status": "Yes",
         "No. of Skill Badges Completed": 5,
         "No. of Arcade Games Completed": 0,
