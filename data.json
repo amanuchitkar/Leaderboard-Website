@@ -1,31 +1,7 @@
 [
     {
-        "Name": "Asit Atmaram More\ud83d\udd25",
-        "Access Code Redemption": "Yes",
-        "Milestone Earned": "Milestone 1 \ud83d\udc51",
-        "No. of Skill Badges Completed": 42,
-        "No. of Arcade Games Completed": 4,
-        "No. of Trivia Games Completed": 2
-    },
-    {
-        "Name": "Hasan Abdu Rahman\ud83d\udd25",
-        "Access Code Redemption": "Yes",
-        "Milestone Earned": "Milestone 1 \ud83d\udc51",
-        "No. of Skill Badges Completed": 42,
-        "No. of Arcade Games Completed": 4,
-        "No. of Trivia Games Completed": 2
-    },
-    {
-        "Name": "Sanket Hanjari Rathod\ud83d\udd25",
-        "Access Code Redemption": "Yes",
-        "Milestone Earned": "Milestone 1 \ud83d\udc51",
-        "No. of Skill Badges Completed": 42,
-        "No. of Arcade Games Completed": 4,
-        "No. of Trivia Games Completed": 2
-    },
-    {
-        "Name": "Suzzene Salim Darekhan\ud83d\udd25",
-        "Access Code Redemption": "Yes",
+        "Name": "Asit Atmaram More",
+        "Access Code Redemption Status": "\u2705",
         "Milestone Earned": "Milestone 1 \ud83d\udc51",
         "No. of Skill Badges Completed": 42,
         "No. of Arcade Games Completed": 4,
@@ -33,23 +9,55 @@
     },
     {
         "Name": "Dhanashri Mahendra Mahade",
-        "Access Code Redemption": "Yes",
+        "Access Code Redemption Status": "\u2705",
         "Milestone Earned": "Milestone 1 \ud83d\udc51",
         "No. of Skill Badges Completed": 42,
-        "No. of Arcade Games Completed": 3,
-        "No. of Trivia Games Completed": 2
-    },
-    {
-        "Name": "Sunny Gupta",
-        "Access Code Redemption": "Yes",
-        "Milestone Earned": "Milestone 1 \ud83d\udc51",
-        "No. of Skill Badges Completed": 39,
         "No. of Arcade Games Completed": 4,
         "No. of Trivia Games Completed": 2
     },
     {
+        "Name": "Hasan Abdu Rahman",
+        "Access Code Redemption Status": "\u2705",
+        "Milestone Earned": "Milestone 1 \ud83d\udc51",
+        "No. of Skill Badges Completed": 42,
+        "No. of Arcade Games Completed": 4,
+        "No. of Trivia Games Completed": 2
+    },
+    {
+        "Name": "Sanket Hanjari Rathod",
+        "Access Code Redemption Status": "\u2705",
+        "Milestone Earned": "Milestone 1 \ud83d\udc51",
+        "No. of Skill Badges Completed": 42,
+        "No. of Arcade Games Completed": 4,
+        "No. of Trivia Games Completed": 2
+    },
+    {
+        "Name": "Sunny Gupta",
+        "Access Code Redemption Status": "\u2705",
+        "Milestone Earned": "Milestone 1 \ud83d\udc51",
+        "No. of Skill Badges Completed": 42,
+        "No. of Arcade Games Completed": 4,
+        "No. of Trivia Games Completed": 2
+    },
+    {
+        "Name": "Suzzene Salim Darekhan",
+        "Access Code Redemption Status": "\u2705",
+        "Milestone Earned": "Milestone 1 \ud83d\udc51",
+        "No. of Skill Badges Completed": 42,
+        "No. of Arcade Games Completed": 4,
+        "No. of Trivia Games Completed": 2
+    },
+    {
+        "Name": "Kushal Dhore",
+        "Access Code Redemption Status": "\u2705",
+        "Milestone Earned": "Milestone 1 \ud83d\udc51",
+        "No. of Skill Badges Completed": 37,
+        "No. of Arcade Games Completed": 2,
+        "No. of Trivia Games Completed": 2
+    },
+    {
         "Name": "Shantanu Balu Metkari",
-        "Access Code Redemption": "Yes",
+        "Access Code Redemption Status": "\u2705",
         "Milestone Earned": "Milestone 1 \ud83d\udc51",
         "No. of Skill Badges Completed": 36,
         "No. of Arcade Games Completed": 4,
@@ -57,63 +65,71 @@
     },
     {
         "Name": "Sanskruti Sanjay Waghmare",
-        "Access Code Redemption": "Yes",
+        "Access Code Redemption Status": "\u2705",
         "Milestone Earned": "Milestone 1 \ud83d\udc51",
         "No. of Skill Badges Completed": 35,
         "No. of Arcade Games Completed": 4,
         "No. of Trivia Games Completed": 2
     },
     {
+        "Name": "Sumit Sanjay Badgujar",
+        "Access Code Redemption Status": "\u2705",
+        "Milestone Earned": "Milestone 1 \ud83d\udc51",
+        "No. of Skill Badges Completed": 33,
+        "No. of Arcade Games Completed": 4,
+        "No. of Trivia Games Completed": 2
+    },
+    {
+        "Name": "Komal Londhe",
+        "Access Code Redemption Status": "\u2705",
+        "Milestone Earned": "Milestone 1 \ud83d\udc51",
+        "No. of Skill Badges Completed": 33,
+        "No. of Arcade Games Completed": 3,
+        "No. of Trivia Games Completed": 2
+    },
+    {
         "Name": "Om Jagdish Doshi",
-        "Access Code Redemption": "Yes",
+        "Access Code Redemption Status": "\u2705",
         "Milestone Earned": "Milestone 1 \ud83d\udc51",
         "No. of Skill Badges Completed": 33,
         "No. of Arcade Games Completed": 2,
         "No. of Trivia Games Completed": 2
     },
     {
-        "Name": "Komal Londhe",
-        "Access Code Redemption": "Yes",
+        "Name": "Palak Abhay Madewar",
+        "Access Code Redemption Status": "\u2705",
         "Milestone Earned": "Milestone 1 \ud83d\udc51",
-        "No. of Skill Badges Completed": 31,
+        "No. of Skill Badges Completed": 30,
         "No. of Arcade Games Completed": 3,
         "No. of Trivia Games Completed": 2
     },
     {
-        "Name": "Sumit Sanjay Badgujar",
-        "Access Code Redemption": "Yes",
+        "Name": "Anjali Dongare",
+        "Access Code Redemption Status": "\u2705",
         "Milestone Earned": "Milestone 1 \ud83d\udc51",
-        "No. of Skill Badges Completed": 30,
+        "No. of Skill Badges Completed": 29,
         "No. of Arcade Games Completed": 4,
         "No. of Trivia Games Completed": 2
     },
     {
-        "Name": "Palak Abhay Madewar",
-        "Access Code Redemption": "Yes",
-        "Milestone Earned": "Milestone 1 \ud83d\udc51",
-        "No. of Skill Badges Completed": 30,
-        "No. of Arcade Games Completed": 2,
-        "No. of Trivia Games Completed": 2
-    },
-    {
         "Name": "Ujwal Kewaldas Katre",
-        "Access Code Redemption": "Yes",
+        "Access Code Redemption Status": "\u2705",
         "Milestone Earned": "Milestone 1 \ud83d\udc51",
         "No. of Skill Badges Completed": 28,
         "No. of Arcade Games Completed": 3,
         "No. of Trivia Games Completed": 2
     },
     {
-        "Name": "Anjali Dongare",
-        "Access Code Redemption": "Yes",
+        "Name": "Shreya Prashant Surve",
+        "Access Code Redemption Status": "\u2705",
         "Milestone Earned": "Milestone 1 \ud83d\udc51",
-        "No. of Skill Badges Completed": 25,
-        "No. of Arcade Games Completed": 4,
+        "No. of Skill Badges Completed": 26,
+        "No. of Arcade Games Completed": 2,
         "No. of Trivia Games Completed": 2
     },
     {
         "Name": "Aysyah Noor Shobah",
-        "Access Code Redemption": "Yes",
+        "Access Code Redemption Status": "\u2705",
         "Milestone Earned": "Milestone 1 \ud83d\udc51",
         "No. of Skill Badges Completed": 25,
         "No. of Arcade Games Completed": 4,
@@ -121,7 +137,7 @@
     },
     {
         "Name": "Rakhi Babasaheb Dhole",
-        "Access Code Redemption": "Yes",
+        "Access Code Redemption Status": "\u2705",
         "Milestone Earned": "Milestone 1 \ud83d\udc51",
         "No. of Skill Badges Completed": 24,
         "No. of Arcade Games Completed": 4,
@@ -129,23 +145,31 @@
     },
     {
         "Name": "Priya Santosh Tare",
-        "Access Code Redemption": "Yes",
+        "Access Code Redemption Status": "\u2705",
         "Milestone Earned": "Milestone 1 \ud83d\udc51",
         "No. of Skill Badges Completed": 24,
-        "No. of Arcade Games Completed": 2,
-        "No. of Trivia Games Completed": 2
-    },
-    {
-        "Name": "Aniket Prakash Wandhekar",
-        "Access Code Redemption": "Yes",
-        "Milestone Earned": "Milestone 1 \ud83d\udc51",
-        "No. of Skill Badges Completed": 23,
         "No. of Arcade Games Completed": 3,
         "No. of Trivia Games Completed": 2
     },
     {
+        "Name": "Aniket Prakash Wandhekar",
+        "Access Code Redemption Status": "\u2705",
+        "Milestone Earned": "Milestone 1 \ud83d\udc51",
+        "No. of Skill Badges Completed": 23,
+        "No. of Arcade Games Completed": 4,
+        "No. of Trivia Games Completed": 2
+    },
+    {
+        "Name": "Sharvari Kamat",
+        "Access Code Redemption Status": "\u2705",
+        "Milestone Earned": "Milestone 1 \ud83d\udc51",
+        "No. of Skill Badges Completed": 19,
+        "No. of Arcade Games Completed": 4,
+        "No. of Trivia Games Completed": 2
+    },
+    {
         "Name": "Rohit Rajendra Shinde",
-        "Access Code Redemption": "Yes",
+        "Access Code Redemption Status": "\u2705",
         "Milestone Earned": "Milestone 1 \ud83d\udc51",
         "No. of Skill Badges Completed": 19,
         "No. of Arcade Games Completed": 3,
@@ -153,15 +177,23 @@
     },
     {
         "Name": "Soham Manish Sawalakhe",
-        "Access Code Redemption": "Yes",
+        "Access Code Redemption Status": "\u2705",
         "Milestone Earned": "Milestone 1 \ud83d\udc51",
         "No. of Skill Badges Completed": 17,
         "No. of Arcade Games Completed": 4,
         "No. of Trivia Games Completed": 2
     },
     {
+        "Name": "Pooja Gangadhar Kale",
+        "Access Code Redemption Status": "\u2705",
+        "Milestone Earned": "Milestone 1 \ud83d\udc51",
+        "No. of Skill Badges Completed": 15,
+        "No. of Arcade Games Completed": 4,
+        "No. of Trivia Games Completed": 2
+    },
+    {
         "Name": "Aditya Gajendra Nanaware",
-        "Access Code Redemption": "Yes",
+        "Access Code Redemption Status": "\u2705",
         "Milestone Earned": "Milestone 1 \ud83d\udc51",
         "No. of Skill Badges Completed": 13,
         "No. of Arcade Games Completed": 2,
@@ -169,15 +201,39 @@
     },
     {
         "Name": "Ajay Suresh Bibrale",
-        "Access Code Redemption": "Yes",
+        "Access Code Redemption Status": "\u2705",
         "Milestone Earned": "Milestone 1 \ud83d\udc51",
         "No. of Skill Badges Completed": 12,
-        "No. of Arcade Games Completed": 3,
+        "No. of Arcade Games Completed": 4,
+        "No. of Trivia Games Completed": 2
+    },
+    {
+        "Name": "Aparna Santosh Sawant",
+        "Access Code Redemption Status": "\u2705",
+        "Milestone Earned": "Milestone 1 \ud83d\udc51",
+        "No. of Skill Badges Completed": 12,
+        "No. of Arcade Games Completed": 2,
+        "No. of Trivia Games Completed": 2
+    },
+    {
+        "Name": "Priyanshu keshari",
+        "Access Code Redemption Status": "\u2705",
+        "Milestone Earned": "Milestone 1 \ud83d\udc51",
+        "No. of Skill Badges Completed": 11,
+        "No. of Arcade Games Completed": 2,
         "No. of Trivia Games Completed": 2
     },
     {
         "Name": "Shivtej Madan Bhandekari",
-        "Access Code Redemption": "Yes",
+        "Access Code Redemption Status": "\u2705",
+        "Milestone Earned": "Milestone 1 \ud83d\udc51",
+        "No. of Skill Badges Completed": 11,
+        "No. of Arcade Games Completed": 2,
+        "No. of Trivia Games Completed": 2
+    },
+    {
+        "Name": "Vanshika Patil",
+        "Access Code Redemption Status": "\u2705",
         "Milestone Earned": "Milestone 1 \ud83d\udc51",
         "No. of Skill Badges Completed": 11,
         "No. of Arcade Games Completed": 2,
@@ -185,7 +241,7 @@
     },
     {
         "Name": "Vanshika Devdatta Patil",
-        "Access Code Redemption": "Yes",
+        "Access Code Redemption Status": "\u2705",
         "Milestone Earned": "Milestone 1 \ud83d\udc51",
         "No. of Skill Badges Completed": 10,
         "No. of Arcade Games Completed": 2,
@@ -193,2112 +249,2056 @@
     },
     {
         "Name": "Priyanka Naresh Gothal",
-        "Access Code Redemption": "Yes",
+        "Access Code Redemption Status": "\u2705",
         "Milestone Earned": "Milestone 1 \ud83d\udc51",
         "No. of Skill Badges Completed": 9,
         "No. of Arcade Games Completed": 3,
         "No. of Trivia Games Completed": 2
     },
     {
-        "Name": "Vanshika Patil",
-        "Access Code Redemption": "Yes",
-        "Milestone Earned": "Milestone 1 \ud83d\udc51",
-        "No. of Skill Badges Completed": 9,
-        "No. of Arcade Games Completed": 2,
-        "No. of Trivia Games Completed": 2
-    },
-    {
         "Name": "Muhammad Syukron Jazila",
-        "Access Code Redemption": "Yes",
-        "Milestone Earned": "None\ud83d\udcc9",
+        "Access Code Redemption Status": "\u2705",
+        "Milestone Earned": "\ud83d\udeab",
         "No. of Skill Badges Completed": 42,
         "No. of Arcade Games Completed": 1,
         "No. of Trivia Games Completed": 2
     },
     {
         "Name": "Atharva Abhaykumar Datar",
-        "Access Code Redemption": "Yes",
-        "Milestone Earned": "None\ud83d\udcc9",
+        "Access Code Redemption Status": "\u2705",
+        "Milestone Earned": "\ud83d\udeab",
         "No. of Skill Badges Completed": 42,
         "No. of Arcade Games Completed": 0,
-        "No. of Trivia Games Completed": 0
+        "No. of Trivia Games Completed": 2
     },
     {
         "Name": "Muhammad Thamyis Nur Abdadi",
-        "Access Code Redemption": "Yes",
-        "Milestone Earned": "None\ud83d\udcc9",
+        "Access Code Redemption Status": "\u2705",
+        "Milestone Earned": "\ud83d\udeab",
         "No. of Skill Badges Completed": 41,
         "No. of Arcade Games Completed": 0,
         "No. of Trivia Games Completed": 0
     },
     {
         "Name": "Ram Manoj Gawande",
-        "Access Code Redemption": "Yes",
-        "Milestone Earned": "None\ud83d\udcc9",
+        "Access Code Redemption Status": "\u2705",
+        "Milestone Earned": "\ud83d\udeab",
         "No. of Skill Badges Completed": 39,
         "No. of Arcade Games Completed": 1,
         "No. of Trivia Games Completed": 1
     },
     {
-        "Name": "Kushal Dhore",
-        "Access Code Redemption": "Yes",
-        "Milestone Earned": "None\ud83d\udcc9",
-        "No. of Skill Badges Completed": 37,
-        "No. of Arcade Games Completed": 1,
-        "No. of Trivia Games Completed": 2
-    },
-    {
         "Name": "Praveen Kumar Kushwaha",
-        "Access Code Redemption": "Yes",
-        "Milestone Earned": "None\ud83d\udcc9",
+        "Access Code Redemption Status": "\u2705",
+        "Milestone Earned": "\ud83d\udeab",
         "No. of Skill Badges Completed": 37,
         "No. of Arcade Games Completed": 1,
         "No. of Trivia Games Completed": 0
     },
     {
         "Name": "Junior Kevin Arios",
-        "Access Code Redemption": "Yes",
-        "Milestone Earned": "None\ud83d\udcc9",
+        "Access Code Redemption Status": "\u2705",
+        "Milestone Earned": "\ud83d\udeab",
         "No. of Skill Badges Completed": 35,
         "No. of Arcade Games Completed": 1,
         "No. of Trivia Games Completed": 1
     },
     {
         "Name": "Muhammad Fachrul Reihan Fauzian",
-        "Access Code Redemption": "Yes",
-        "Milestone Earned": "None\ud83d\udcc9",
+        "Access Code Redemption Status": "\u2705",
+        "Milestone Earned": "\ud83d\udeab",
         "No. of Skill Badges Completed": 35,
         "No. of Arcade Games Completed": 0,
         "No. of Trivia Games Completed": 0
     },
     {
         "Name": "Shruti Ramesh Pore",
-        "Access Code Redemption": "Yes",
-        "Milestone Earned": "None\ud83d\udcc9",
+        "Access Code Redemption Status": "\u2705",
+        "Milestone Earned": "\ud83d\udeab",
         "No. of Skill Badges Completed": 34,
-        "No. of Arcade Games Completed": 2,
+        "No. of Arcade Games Completed": 3,
         "No. of Trivia Games Completed": 0
     },
     {
         "Name": "Rishabh Anilkumar Sharma",
-        "Access Code Redemption": "Yes",
-        "Milestone Earned": "None\ud83d\udcc9",
+        "Access Code Redemption Status": "\u2705",
+        "Milestone Earned": "\ud83d\udeab",
         "No. of Skill Badges Completed": 32,
         "No. of Arcade Games Completed": 0,
         "No. of Trivia Games Completed": 2
     },
     {
         "Name": "Prathmesh Prabhakar Bhoir",
-        "Access Code Redemption": "Yes",
-        "Milestone Earned": "None\ud83d\udcc9",
+        "Access Code Redemption Status": "\u2705",
+        "Milestone Earned": "\ud83d\udeab",
         "No. of Skill Badges Completed": 32,
         "No. of Arcade Games Completed": 0,
         "No. of Trivia Games Completed": 0
     },
     {
         "Name": "Patil Sandesh Sanjay",
-        "Access Code Redemption": "Yes",
-        "Milestone Earned": "None\ud83d\udcc9",
+        "Access Code Redemption Status": "\u2705",
+        "Milestone Earned": "\ud83d\udeab",
         "No. of Skill Badges Completed": 26,
         "No. of Arcade Games Completed": 2,
         "No. of Trivia Games Completed": 1
     },
     {
-        "Name": "Shreya Prashant Surve",
-        "Access Code Redemption": "Yes",
-        "Milestone Earned": "None\ud83d\udcc9",
-        "No. of Skill Badges Completed": 26,
-        "No. of Arcade Games Completed": 1,
-        "No. of Trivia Games Completed": 2
-    },
-    {
         "Name": "Ashish Subhash Magar",
-        "Access Code Redemption": "Yes",
-        "Milestone Earned": "None\ud83d\udcc9",
+        "Access Code Redemption Status": "\u2705",
+        "Milestone Earned": "\ud83d\udeab",
         "No. of Skill Badges Completed": 26,
-        "No. of Arcade Games Completed": 1,
+        "No. of Arcade Games Completed": 2,
         "No. of Trivia Games Completed": 0
     },
     {
         "Name": "Shardula Sujan Thakur",
-        "Access Code Redemption": "Yes",
-        "Milestone Earned": "None\ud83d\udcc9",
+        "Access Code Redemption Status": "\u2705",
+        "Milestone Earned": "\ud83d\udeab",
         "No. of Skill Badges Completed": 23,
         "No. of Arcade Games Completed": 0,
         "No. of Trivia Games Completed": 0
     },
     {
         "Name": "Jay Gulhane",
-        "Access Code Redemption": "Yes",
-        "Milestone Earned": "None\ud83d\udcc9",
+        "Access Code Redemption Status": "\u2705",
+        "Milestone Earned": "\ud83d\udeab",
         "No. of Skill Badges Completed": 22,
-        "No. of Arcade Games Completed": 0,
+        "No. of Arcade Games Completed": 1,
         "No. of Trivia Games Completed": 1
     },
     {
         "Name": "Ahmad Furqon Adila",
-        "Access Code Redemption": "Yes",
-        "Milestone Earned": "None\ud83d\udcc9",
+        "Access Code Redemption Status": "\u2705",
+        "Milestone Earned": "\ud83d\udeab",
         "No. of Skill Badges Completed": 22,
         "No. of Arcade Games Completed": 0,
         "No. of Trivia Games Completed": 0
     },
     {
         "Name": "Gayatri juikar",
-        "Access Code Redemption": "Yes",
-        "Milestone Earned": "None\ud83d\udcc9",
+        "Access Code Redemption Status": "\u2705",
+        "Milestone Earned": "\ud83d\udeab",
         "No. of Skill Badges Completed": 20,
         "No. of Arcade Games Completed": 1,
         "No. of Trivia Games Completed": 0
     },
     {
         "Name": "Purva Balraj Kurle",
-        "Access Code Redemption": "Yes",
-        "Milestone Earned": "None\ud83d\udcc9",
+        "Access Code Redemption Status": "\u2705",
+        "Milestone Earned": "\ud83d\udeab",
         "No. of Skill Badges Completed": 20,
         "No. of Arcade Games Completed": 0,
         "No. of Trivia Games Completed": 0
     },
     {
-        "Name": "Sharvari Kamat",
-        "Access Code Redemption": "Yes",
-        "Milestone Earned": "None\ud83d\udcc9",
-        "No. of Skill Badges Completed": 19,
-        "No. of Arcade Games Completed": 3,
-        "No. of Trivia Games Completed": 1
-    },
-    {
         "Name": "Roshan Narayan Chavan",
-        "Access Code Redemption": "Yes",
-        "Milestone Earned": "None\ud83d\udcc9",
+        "Access Code Redemption Status": "\u2705",
+        "Milestone Earned": "\ud83d\udeab",
         "No. of Skill Badges Completed": 18,
-        "No. of Arcade Games Completed": 1,
+        "No. of Arcade Games Completed": 2,
         "No. of Trivia Games Completed": 1
     },
     {
-        "Name": "Rahul SoNone\ud83d\udcc9",
-        "Access Code Redemption": "Yes",
-        "Milestone Earned": "None\ud83d\udcc9",
+        "Name": "Rahul Sonone",
+        "Access Code Redemption Status": "\u2705",
+        "Milestone Earned": "\ud83d\udeab",
         "No. of Skill Badges Completed": 18,
         "No. of Arcade Games Completed": 0,
         "No. of Trivia Games Completed": 0
     },
     {
         "Name": "Priyanka Balamurugan",
-        "Access Code Redemption": "Yes",
-        "Milestone Earned": "None\ud83d\udcc9",
+        "Access Code Redemption Status": "\u2705",
+        "Milestone Earned": "\ud83d\udeab",
         "No. of Skill Badges Completed": 17,
         "No. of Arcade Games Completed": 1,
         "No. of Trivia Games Completed": 0
     },
     {
         "Name": "Ankush Mehtar Pagarwar",
-        "Access Code Redemption": "Yes",
-        "Milestone Earned": "None\ud83d\udcc9",
+        "Access Code Redemption Status": "\u2705",
+        "Milestone Earned": "\ud83d\udeab",
         "No. of Skill Badges Completed": 17,
         "No. of Arcade Games Completed": 0,
         "No. of Trivia Games Completed": 0
     },
     {
         "Name": "Atharva Dongare",
-        "Access Code Redemption": "Yes",
-        "Milestone Earned": "None\ud83d\udcc9",
+        "Access Code Redemption Status": "\u2705",
+        "Milestone Earned": "\ud83d\udeab",
         "No. of Skill Badges Completed": 17,
         "No. of Arcade Games Completed": 0,
         "No. of Trivia Games Completed": 0
     },
     {
         "Name": "Deep Nilesh Thale",
-        "Access Code Redemption": "Yes",
-        "Milestone Earned": "None\ud83d\udcc9",
+        "Access Code Redemption Status": "\u2705",
+        "Milestone Earned": "\ud83d\udeab",
         "No. of Skill Badges Completed": 16,
         "No. of Arcade Games Completed": 0,
         "No. of Trivia Games Completed": 0
     },
     {
         "Name": "Pratiksha Ishwar Dhole",
-        "Access Code Redemption": "Yes",
-        "Milestone Earned": "None\ud83d\udcc9",
+        "Access Code Redemption Status": "\u2705",
+        "Milestone Earned": "\ud83d\udeab",
         "No. of Skill Badges Completed": 16,
         "No. of Arcade Games Completed": 0,
         "No. of Trivia Games Completed": 0
     },
     {
         "Name": "Rujuta Chandrashekhar Wadgire",
-        "Access Code Redemption": "Yes",
-        "Milestone Earned": "None\ud83d\udcc9",
+        "Access Code Redemption Status": "\u2705",
+        "Milestone Earned": "\ud83d\udeab",
         "No. of Skill Badges Completed": 16,
         "No. of Arcade Games Completed": 0,
         "No. of Trivia Games Completed": 0
     },
     {
-        "Name": "Pooja Gangadhar Kale",
-        "Access Code Redemption": "Yes",
-        "Milestone Earned": "None\ud83d\udcc9",
-        "No. of Skill Badges Completed": 15,
-        "No. of Arcade Games Completed": 4,
-        "No. of Trivia Games Completed": 1
-    },
-    {
         "Name": "Dhanashri Mahendra Mahade",
-        "Access Code Redemption": "Yes",
-        "Milestone Earned": "None\ud83d\udcc9",
+        "Access Code Redemption Status": "\u2705",
+        "Milestone Earned": "\ud83d\udeab",
         "No. of Skill Badges Completed": 15,
         "No. of Arcade Games Completed": 1,
         "No. of Trivia Games Completed": 1
     },
     {
         "Name": "Vaidehi Nandkishor Garad",
-        "Access Code Redemption": "Yes",
-        "Milestone Earned": "None\ud83d\udcc9",
+        "Access Code Redemption Status": "\u2705",
+        "Milestone Earned": "\ud83d\udeab",
         "No. of Skill Badges Completed": 15,
         "No. of Arcade Games Completed": 0,
         "No. of Trivia Games Completed": 0
     },
     {
         "Name": "Umendra Pardhi",
-        "Access Code Redemption": "Yes",
-        "Milestone Earned": "None\ud83d\udcc9",
+        "Access Code Redemption Status": "\u2705",
+        "Milestone Earned": "\ud83d\udeab",
+        "No. of Skill Badges Completed": 14,
+        "No. of Arcade Games Completed": 2,
+        "No. of Trivia Games Completed": 1
+    },
+    {
+        "Name": "Yashwant Ramesh Baswar",
+        "Access Code Redemption Status": "\u2705",
+        "Milestone Earned": "\ud83d\udeab",
         "No. of Skill Badges Completed": 14,
         "No. of Arcade Games Completed": 1,
         "No. of Trivia Games Completed": 1
     },
     {
-        "Name": "Yashwant Ramesh Baswar",
-        "Access Code Redemption": "Yes",
-        "Milestone Earned": "None\ud83d\udcc9",
-        "No. of Skill Badges Completed": 14,
-        "No. of Arcade Games Completed": 0,
-        "No. of Trivia Games Completed": 1
-    },
-    {
         "Name": "Muhammad Dzakwan Attaqiy",
-        "Access Code Redemption": "Yes",
-        "Milestone Earned": "None\ud83d\udcc9",
+        "Access Code Redemption Status": "\u2705",
+        "Milestone Earned": "\ud83d\udeab",
         "No. of Skill Badges Completed": 14,
         "No. of Arcade Games Completed": 0,
         "No. of Trivia Games Completed": 0
     },
     {
         "Name": "Prathamesh KrishnaBhoir",
-        "Access Code Redemption": "Yes",
-        "Milestone Earned": "None\ud83d\udcc9",
+        "Access Code Redemption Status": "\u2705",
+        "Milestone Earned": "\ud83d\udeab",
         "No. of Skill Badges Completed": 14,
         "No. of Arcade Games Completed": 0,
         "No. of Trivia Games Completed": 0
     },
     {
-        "Name": "Aparna Santosh Sawant",
-        "Access Code Redemption": "Yes",
-        "Milestone Earned": "None\ud83d\udcc9",
+        "Name": "Prem Ubhad",
+        "Access Code Redemption Status": "\u2705",
+        "Milestone Earned": "\ud83d\udeab",
         "No. of Skill Badges Completed": 12,
         "No. of Arcade Games Completed": 1,
         "No. of Trivia Games Completed": 2
     },
     {
-        "Name": "Prem Ubhad",
-        "Access Code Redemption": "Yes",
-        "Milestone Earned": "None\ud83d\udcc9",
-        "No. of Skill Badges Completed": 12,
-        "No. of Arcade Games Completed": 1,
-        "No. of Trivia Games Completed": 0
-    },
-    {
         "Name": "Radhika Ganesh Ingale",
-        "Access Code Redemption": "Yes",
-        "Milestone Earned": "None\ud83d\udcc9",
+        "Access Code Redemption Status": "\u2705",
+        "Milestone Earned": "\ud83d\udeab",
         "No. of Skill Badges Completed": 12,
         "No. of Arcade Games Completed": 0,
         "No. of Trivia Games Completed": 0
     },
     {
         "Name": "Onkar Uttam Hol",
-        "Access Code Redemption": "Yes",
-        "Milestone Earned": "None\ud83d\udcc9",
+        "Access Code Redemption Status": "\u2705",
+        "Milestone Earned": "\ud83d\udeab",
         "No. of Skill Badges Completed": 11,
         "No. of Arcade Games Completed": 1,
         "No. of Trivia Games Completed": 2
     },
     {
-        "Name": "Priyanshu keshari",
-        "Access Code Redemption": "Yes",
-        "Milestone Earned": "None\ud83d\udcc9",
+        "Name": "Lokesh pandhari kapgate",
+        "Access Code Redemption Status": "\u2705",
+        "Milestone Earned": "\ud83d\udeab",
         "No. of Skill Badges Completed": 11,
-        "No. of Arcade Games Completed": 1,
+        "No. of Arcade Games Completed": 0,
         "No. of Trivia Games Completed": 1
     },
     {
-        "Name": "Lokesh pandhari kapgate",
-        "Access Code Redemption": "Yes",
-        "Milestone Earned": "None\ud83d\udcc9",
-        "No. of Skill Badges Completed": 11,
-        "No. of Arcade Games Completed": 0,
-        "No. of Trivia Games Completed": 0
-    },
-    {
         "Name": "sulaiman saleh",
-        "Access Code Redemption": "Yes",
-        "Milestone Earned": "None\ud83d\udcc9",
+        "Access Code Redemption Status": "\u2705",
+        "Milestone Earned": "\ud83d\udeab",
         "No. of Skill Badges Completed": 10,
         "No. of Arcade Games Completed": 0,
         "No. of Trivia Games Completed": 0
     },
     {
         "Name": "Nilesh Suresh Nannaware",
-        "Access Code Redemption": "Yes",
-        "Milestone Earned": "None\ud83d\udcc9",
+        "Access Code Redemption Status": "\u2705",
+        "Milestone Earned": "\ud83d\udeab",
         "No. of Skill Badges Completed": 8,
         "No. of Arcade Games Completed": 1,
         "No. of Trivia Games Completed": 2
     },
     {
         "Name": "Pranav",
-        "Access Code Redemption": "Yes",
-        "Milestone Earned": "None\ud83d\udcc9",
+        "Access Code Redemption Status": "\u2705",
+        "Milestone Earned": "\ud83d\udeab",
         "No. of Skill Badges Completed": 8,
         "No. of Arcade Games Completed": 0,
         "No. of Trivia Games Completed": 0
     },
     {
         "Name": "Prathmesh Prabhakar Bhoir",
-        "Access Code Redemption": "Yes",
-        "Milestone Earned": "None\ud83d\udcc9",
+        "Access Code Redemption Status": "\u2705",
+        "Milestone Earned": "\ud83d\udeab",
         "No. of Skill Badges Completed": 8,
         "No. of Arcade Games Completed": 0,
         "No. of Trivia Games Completed": 0
     },
     {
+        "Name": "LULU SHAFIRA",
+        "Access Code Redemption Status": "\u2705",
+        "Milestone Earned": "\ud83d\udeab",
+        "No. of Skill Badges Completed": 7,
+        "No. of Arcade Games Completed": 2,
+        "No. of Trivia Games Completed": 2
+    },
+    {
         "Name": "Billy Sutawijaya",
-        "Access Code Redemption": "Yes",
-        "Milestone Earned": "None\ud83d\udcc9",
+        "Access Code Redemption Status": "\u2705",
+        "Milestone Earned": "\ud83d\udeab",
         "No. of Skill Badges Completed": 7,
         "No. of Arcade Games Completed": 0,
         "No. of Trivia Games Completed": 0
     },
     {
         "Name": "Vighnesh Sunil Ipte",
-        "Access Code Redemption": "Yes",
-        "Milestone Earned": "None\ud83d\udcc9",
+        "Access Code Redemption Status": "\u2705",
+        "Milestone Earned": "\ud83d\udeab",
         "No. of Skill Badges Completed": 7,
         "No. of Arcade Games Completed": 0,
         "No. of Trivia Games Completed": 0
     },
     {
         "Name": "Renuka Umesh Pangarkar",
-        "Access Code Redemption": "Yes",
-        "Milestone Earned": "None\ud83d\udcc9",
+        "Access Code Redemption Status": "\u2705",
+        "Milestone Earned": "\ud83d\udeab",
         "No. of Skill Badges Completed": 6,
         "No. of Arcade Games Completed": 2,
         "No. of Trivia Games Completed": 0
     },
     {
         "Name": "Junior Kevin Arios",
-        "Access Code Redemption": "Yes",
-        "Milestone Earned": "None\ud83d\udcc9",
+        "Access Code Redemption Status": "\u2705",
+        "Milestone Earned": "\ud83d\udeab",
         "No. of Skill Badges Completed": 6,
         "No. of Arcade Games Completed": 0,
         "No. of Trivia Games Completed": 0
     },
     {
         "Name": "Novandi Ramadhan",
-        "Access Code Redemption": "Yes",
-        "Milestone Earned": "None\ud83d\udcc9",
+        "Access Code Redemption Status": "\u2705",
+        "Milestone Earned": "\ud83d\udeab",
         "No. of Skill Badges Completed": 6,
         "No. of Arcade Games Completed": 0,
         "No. of Trivia Games Completed": 0
     },
     {
-        "Name": "LULU SHAFIRA",
-        "Access Code Redemption": "Yes",
-        "Milestone Earned": "None\ud83d\udcc9",
-        "No. of Skill Badges Completed": 5,
-        "No. of Arcade Games Completed": 2,
-        "No. of Trivia Games Completed": 2
-    },
-    {
         "Name": "Akbar Ihsanul Ahadin",
-        "Access Code Redemption": "Yes",
-        "Milestone Earned": "None\ud83d\udcc9",
+        "Access Code Redemption Status": "\u2705",
+        "Milestone Earned": "\ud83d\udeab",
         "No. of Skill Badges Completed": 5,
         "No. of Arcade Games Completed": 0,
         "No. of Trivia Games Completed": 0
     },
     {
         "Name": "M Syukron",
-        "Access Code Redemption": "Yes",
-        "Milestone Earned": "None\ud83d\udcc9",
+        "Access Code Redemption Status": "\u2705",
+        "Milestone Earned": "\ud83d\udeab",
         "No. of Skill Badges Completed": 4,
         "No. of Arcade Games Completed": 1,
         "No. of Trivia Games Completed": 1
     },
     {
+        "Name": "Dashami Mangesh Ghosalkar",
+        "Access Code Redemption Status": "\u2705",
+        "Milestone Earned": "\ud83d\udeab",
+        "No. of Skill Badges Completed": 4,
+        "No. of Arcade Games Completed": 1,
+        "No. of Trivia Games Completed": 0
+    },
+    {
         "Name": "Akbar Ihasan",
-        "Access Code Redemption": "Yes",
-        "Milestone Earned": "None\ud83d\udcc9",
+        "Access Code Redemption Status": "\u2705",
+        "Milestone Earned": "\ud83d\udeab",
         "No. of Skill Badges Completed": 4,
         "No. of Arcade Games Completed": 0,
         "No. of Trivia Games Completed": 0
     },
     {
         "Name": "Arya Ramadhani",
-        "Access Code Redemption": "Yes",
-        "Milestone Earned": "None\ud83d\udcc9",
+        "Access Code Redemption Status": "\u2705",
+        "Milestone Earned": "\ud83d\udeab",
         "No. of Skill Badges Completed": 4,
         "No. of Arcade Games Completed": 0,
         "No. of Trivia Games Completed": 0
     },
     {
         "Name": "Nithin V",
-        "Access Code Redemption": "Yes",
-        "Milestone Earned": "None\ud83d\udcc9",
+        "Access Code Redemption Status": "\u2705",
+        "Milestone Earned": "\ud83d\udeab",
         "No. of Skill Badges Completed": 4,
         "No. of Arcade Games Completed": 0,
         "No. of Trivia Games Completed": 0
     },
     {
         "Name": "Soham Ganesh Chalke",
-        "Access Code Redemption": "Yes",
-        "Milestone Earned": "None\ud83d\udcc9",
+        "Access Code Redemption Status": "\u2705",
+        "Milestone Earned": "\ud83d\udeab",
         "No. of Skill Badges Completed": 4,
         "No. of Arcade Games Completed": 0,
         "No. of Trivia Games Completed": 0
     },
     {
         "Name": "Isha Sanjay Patil",
-        "Access Code Redemption": "Yes",
-        "Milestone Earned": "None\ud83d\udcc9",
+        "Access Code Redemption Status": "\u2705",
+        "Milestone Earned": "\ud83d\udeab",
         "No. of Skill Badges Completed": 3,
         "No. of Arcade Games Completed": 2,
-        "No. of Trivia Games Completed": 0
+        "No. of Trivia Games Completed": 2
     },
     {
         "Name": "Vaishnavi Popat Gaikwad",
-        "Access Code Redemption": "Yes",
-        "Milestone Earned": "None\ud83d\udcc9",
+        "Access Code Redemption Status": "\u2705",
+        "Milestone Earned": "\ud83d\udeab",
         "No. of Skill Badges Completed": 3,
-        "No. of Arcade Games Completed": 1,
+        "No. of Arcade Games Completed": 2,
         "No. of Trivia Games Completed": 2
     },
     {
         "Name": "ARIN ANIL KAMBLE",
-        "Access Code Redemption": "Yes",
-        "Milestone Earned": "None\ud83d\udcc9",
+        "Access Code Redemption Status": "\u2705",
+        "Milestone Earned": "\ud83d\udeab",
         "No. of Skill Badges Completed": 3,
         "No. of Arcade Games Completed": 1,
         "No. of Trivia Games Completed": 0
     },
     {
         "Name": "Aditya Narayan Sansole",
-        "Access Code Redemption": "Yes",
-        "Milestone Earned": "None\ud83d\udcc9",
+        "Access Code Redemption Status": "\u2705",
+        "Milestone Earned": "\ud83d\udeab",
         "No. of Skill Badges Completed": 3,
         "No. of Arcade Games Completed": 0,
         "No. of Trivia Games Completed": 0
     },
     {
         "Name": "Agam Dwi Permana",
-        "Access Code Redemption": "Yes",
-        "Milestone Earned": "None\ud83d\udcc9",
+        "Access Code Redemption Status": "\u2705",
+        "Milestone Earned": "\ud83d\udeab",
         "No. of Skill Badges Completed": 3,
         "No. of Arcade Games Completed": 0,
         "No. of Trivia Games Completed": 0
     },
     {
         "Name": "Ayush Mhatre",
-        "Access Code Redemption": "Yes",
-        "Milestone Earned": "None\ud83d\udcc9",
-        "No. of Skill Badges Completed": 3,
-        "No. of Arcade Games Completed": 0,
-        "No. of Trivia Games Completed": 0
-    },
-    {
-        "Name": "Dashami Mangesh Ghosalkar",
-        "Access Code Redemption": "Yes",
-        "Milestone Earned": "None\ud83d\udcc9",
+        "Access Code Redemption Status": "\u2705",
+        "Milestone Earned": "\ud83d\udeab",
         "No. of Skill Badges Completed": 3,
         "No. of Arcade Games Completed": 0,
         "No. of Trivia Games Completed": 0
     },
     {
         "Name": "Hendry Setiawan",
-        "Access Code Redemption": "Yes",
-        "Milestone Earned": "None\ud83d\udcc9",
+        "Access Code Redemption Status": "\u2705",
+        "Milestone Earned": "\ud83d\udeab",
         "No. of Skill Badges Completed": 3,
         "No. of Arcade Games Completed": 0,
         "No. of Trivia Games Completed": 0
     },
     {
         "Name": "Navghare Shubham Anil",
-        "Access Code Redemption": "Yes",
-        "Milestone Earned": "None\ud83d\udcc9",
+        "Access Code Redemption Status": "\u2705",
+        "Milestone Earned": "\ud83d\udeab",
         "No. of Skill Badges Completed": 3,
         "No. of Arcade Games Completed": 0,
         "No. of Trivia Games Completed": 0
     },
     {
         "Name": "Shubham Sanjay Shedge",
-        "Access Code Redemption": "Yes",
-        "Milestone Earned": "None\ud83d\udcc9",
+        "Access Code Redemption Status": "\u2705",
+        "Milestone Earned": "\ud83d\udeab",
         "No. of Skill Badges Completed": 3,
         "No. of Arcade Games Completed": 0,
         "No. of Trivia Games Completed": 0
     },
     {
         "Name": "SIDDHANT GAUTAM GAIKWAD",
-        "Access Code Redemption": "Yes",
-        "Milestone Earned": "None\ud83d\udcc9",
+        "Access Code Redemption Status": "\u2705",
+        "Milestone Earned": "\ud83d\udeab",
         "No. of Skill Badges Completed": 3,
         "No. of Arcade Games Completed": 0,
         "No. of Trivia Games Completed": 0
     },
     {
         "Name": "Kris Hornung",
-        "Access Code Redemption": "Yes",
-        "Milestone Earned": "None\ud83d\udcc9",
+        "Access Code Redemption Status": "\u2705",
+        "Milestone Earned": "\ud83d\udeab",
         "No. of Skill Badges Completed": 2,
         "No. of Arcade Games Completed": 2,
         "No. of Trivia Games Completed": 2
     },
     {
         "Name": "Satya Durga Reddy Kovvuri",
-        "Access Code Redemption": "Yes",
-        "Milestone Earned": "None\ud83d\udcc9",
+        "Access Code Redemption Status": "\u2705",
+        "Milestone Earned": "\ud83d\udeab",
         "No. of Skill Badges Completed": 2,
         "No. of Arcade Games Completed": 1,
         "No. of Trivia Games Completed": 2
     },
     {
         "Name": "Akbar Ihsan",
-        "Access Code Redemption": "Yes",
-        "Milestone Earned": "None\ud83d\udcc9",
+        "Access Code Redemption Status": "\u2705",
+        "Milestone Earned": "\ud83d\udeab",
         "No. of Skill Badges Completed": 2,
         "No. of Arcade Games Completed": 0,
         "No. of Trivia Games Completed": 0
     },
     {
         "Name": "FAIZAN ASHFAQUE BANDAR",
-        "Access Code Redemption": "Yes",
-        "Milestone Earned": "None\ud83d\udcc9",
+        "Access Code Redemption Status": "\u2705",
+        "Milestone Earned": "\ud83d\udeab",
         "No. of Skill Badges Completed": 2,
         "No. of Arcade Games Completed": 0,
         "No. of Trivia Games Completed": 0
     },
     {
         "Name": "Ihsan Akbar",
-        "Access Code Redemption": "Yes",
-        "Milestone Earned": "None\ud83d\udcc9",
+        "Access Code Redemption Status": "\u2705",
+        "Milestone Earned": "\ud83d\udeab",
         "No. of Skill Badges Completed": 2,
         "No. of Arcade Games Completed": 0,
         "No. of Trivia Games Completed": 0
     },
     {
         "Name": "Sapana Santosh Hambir",
-        "Access Code Redemption": "Yes",
-        "Milestone Earned": "None\ud83d\udcc9",
+        "Access Code Redemption Status": "\u2705",
+        "Milestone Earned": "\ud83d\udeab",
         "No. of Skill Badges Completed": 2,
         "No. of Arcade Games Completed": 0,
         "No. of Trivia Games Completed": 0
     },
     {
         "Name": "Sejal Balasaheb Patil",
-        "Access Code Redemption": "Yes",
-        "Milestone Earned": "None\ud83d\udcc9",
+        "Access Code Redemption Status": "\u2705",
+        "Milestone Earned": "\ud83d\udeab",
         "No. of Skill Badges Completed": 2,
         "No. of Arcade Games Completed": 0,
         "No. of Trivia Games Completed": 0
     },
     {
         "Name": "Shruti Manoj kadam",
-        "Access Code Redemption": "Yes",
-        "Milestone Earned": "None\ud83d\udcc9",
+        "Access Code Redemption Status": "\u2705",
+        "Milestone Earned": "\ud83d\udeab",
         "No. of Skill Badges Completed": 2,
         "No. of Arcade Games Completed": 0,
         "No. of Trivia Games Completed": 0
     },
     {
         "Name": "Abhijeet Sanjay Tadake",
-        "Access Code Redemption": "Yes",
-        "Milestone Earned": "None\ud83d\udcc9",
+        "Access Code Redemption Status": "\u2705",
+        "Milestone Earned": "\ud83d\udeab",
         "No. of Skill Badges Completed": 1,
         "No. of Arcade Games Completed": 0,
         "No. of Trivia Games Completed": 0
     },
     {
         "Name": "Dev Jagdish Doshi",
-        "Access Code Redemption": "Yes",
-        "Milestone Earned": "None\ud83d\udcc9",
+        "Access Code Redemption Status": "\u2705",
+        "Milestone Earned": "\ud83d\udeab",
         "No. of Skill Badges Completed": 1,
         "No. of Arcade Games Completed": 0,
         "No. of Trivia Games Completed": 0
     },
     {
         "Name": "Manasi Mukesh Bhangale",
-        "Access Code Redemption": "Yes",
-        "Milestone Earned": "None\ud83d\udcc9",
+        "Access Code Redemption Status": "\u2705",
+        "Milestone Earned": "\ud83d\udeab",
         "No. of Skill Badges Completed": 1,
         "No. of Arcade Games Completed": 0,
         "No. of Trivia Games Completed": 0
     },
     {
         "Name": "Mrudul fuldas meshram",
-        "Access Code Redemption": "Yes",
-        "Milestone Earned": "None\ud83d\udcc9",
+        "Access Code Redemption Status": "\u2705",
+        "Milestone Earned": "\ud83d\udeab",
         "No. of Skill Badges Completed": 1,
         "No. of Arcade Games Completed": 0,
         "No. of Trivia Games Completed": 0
     },
     {
         "Name": "Nihal Gopichand Sathawane",
-        "Access Code Redemption": "Yes",
-        "Milestone Earned": "None\ud83d\udcc9",
+        "Access Code Redemption Status": "\u2705",
+        "Milestone Earned": "\ud83d\udeab",
         "No. of Skill Badges Completed": 1,
         "No. of Arcade Games Completed": 0,
         "No. of Trivia Games Completed": 0
     },
     {
         "Name": "Prathamesh Vijay Ghadage",
-        "Access Code Redemption": "Yes",
-        "Milestone Earned": "None\ud83d\udcc9",
+        "Access Code Redemption Status": "\u2705",
+        "Milestone Earned": "\ud83d\udeab",
         "No. of Skill Badges Completed": 1,
         "No. of Arcade Games Completed": 0,
         "No. of Trivia Games Completed": 0
     },
     {
         "Name": "Prathmesh Prabhakar Bhoir",
-        "Access Code Redemption": "Yes",
-        "Milestone Earned": "None\ud83d\udcc9",
+        "Access Code Redemption Status": "\u2705",
+        "Milestone Earned": "\ud83d\udeab",
         "No. of Skill Badges Completed": 1,
         "No. of Arcade Games Completed": 0,
         "No. of Trivia Games Completed": 0
     },
     {
         "Name": "Shreya Sudhir Ambade",
-        "Access Code Redemption": "Yes",
-        "Milestone Earned": "None\ud83d\udcc9",
+        "Access Code Redemption Status": "\u2705",
+        "Milestone Earned": "\ud83d\udeab",
         "No. of Skill Badges Completed": 1,
         "No. of Arcade Games Completed": 0,
         "No. of Trivia Games Completed": 0
     },
     {
         "Name": "Shreyas Shriram Deshingkar",
-        "Access Code Redemption": "Yes",
-        "Milestone Earned": "None\ud83d\udcc9",
+        "Access Code Redemption Status": "\u2705",
+        "Milestone Earned": "\ud83d\udeab",
         "No. of Skill Badges Completed": 1,
         "No. of Arcade Games Completed": 0,
         "No. of Trivia Games Completed": 0
     },
     {
         "Name": "Suhas Ramesh Raichurkar",
-        "Access Code Redemption": "Yes",
-        "Milestone Earned": "None\ud83d\udcc9",
+        "Access Code Redemption Status": "\u2705",
+        "Milestone Earned": "\ud83d\udeab",
         "No. of Skill Badges Completed": 1,
         "No. of Arcade Games Completed": 0,
         "No. of Trivia Games Completed": 0
     },
     {
         "Name": "Vaibhav Walmik More",
-        "Access Code Redemption": "Yes",
-        "Milestone Earned": "None\ud83d\udcc9",
+        "Access Code Redemption Status": "\u2705",
+        "Milestone Earned": "\ud83d\udeab",
         "No. of Skill Badges Completed": 1,
         "No. of Arcade Games Completed": 0,
         "No. of Trivia Games Completed": 0
     },
     {
         "Name": "Adarsh Rupesh Jadhav",
-        "Access Code Redemption": "Yes",
-        "Milestone Earned": "None\ud83d\udcc9",
+        "Access Code Redemption Status": "\u2705",
+        "Milestone Earned": "\ud83d\udeab",
         "No. of Skill Badges Completed": 0,
-        "No. of Arcade Games Completed": 2,
+        "No. of Arcade Games Completed": 3,
         "No. of Trivia Games Completed": 1
     },
     {
         "Name": "Gautam Siyaram Sharma",
-        "Access Code Redemption": "Yes",
-        "Milestone Earned": "None\ud83d\udcc9",
+        "Access Code Redemption Status": "\u2705",
+        "Milestone Earned": "\ud83d\udeab",
         "No. of Skill Badges Completed": 0,
         "No. of Arcade Games Completed": 1,
         "No. of Trivia Games Completed": 0
     },
     {
         "Name": "Aarti Sharma",
-        "Access Code Redemption": "Yes",
-        "Milestone Earned": "None\ud83d\udcc9",
+        "Access Code Redemption Status": "\u2705",
+        "Milestone Earned": "\ud83d\udeab",
         "No. of Skill Badges Completed": 0,
         "No. of Arcade Games Completed": 0,
         "No. of Trivia Games Completed": 0
     },
     {
         "Name": "Aditya Dnyaneshwar Deshmukh",
-        "Access Code Redemption": "Yes",
-        "Milestone Earned": "None\ud83d\udcc9",
+        "Access Code Redemption Status": "\u2705",
+        "Milestone Earned": "\ud83d\udeab",
         "No. of Skill Badges Completed": 0,
         "No. of Arcade Games Completed": 0,
         "No. of Trivia Games Completed": 0
     },
     {
         "Name": "Aditya Patil",
-        "Access Code Redemption": "Yes",
-        "Milestone Earned": "None\ud83d\udcc9",
+        "Access Code Redemption Status": "\u2705",
+        "Milestone Earned": "\ud83d\udeab",
         "No. of Skill Badges Completed": 0,
         "No. of Arcade Games Completed": 0,
         "No. of Trivia Games Completed": 0
     },
     {
         "Name": "Akshay Kiran Godase",
-        "Access Code Redemption": "Yes",
-        "Milestone Earned": "None\ud83d\udcc9",
+        "Access Code Redemption Status": "\u2705",
+        "Milestone Earned": "\ud83d\udeab",
         "No. of Skill Badges Completed": 0,
         "No. of Arcade Games Completed": 0,
         "No. of Trivia Games Completed": 0
     },
     {
         "Name": "Arcade",
-        "Access Code Redemption": "Yes",
-        "Milestone Earned": "None\ud83d\udcc9",
+        "Access Code Redemption Status": "\u2705",
+        "Milestone Earned": "\ud83d\udeab",
         "No. of Skill Badges Completed": 0,
         "No. of Arcade Games Completed": 0,
         "No. of Trivia Games Completed": 0
     },
     {
         "Name": "Ashutosh soni",
-        "Access Code Redemption": "Yes",
-        "Milestone Earned": "None\ud83d\udcc9",
+        "Access Code Redemption Status": "\u2705",
+        "Milestone Earned": "\ud83d\udeab",
         "No. of Skill Badges Completed": 0,
         "No. of Arcade Games Completed": 0,
         "No. of Trivia Games Completed": 0
     },
     {
         "Name": "Atharv Sanjay Joshi",
-        "Access Code Redemption": "Yes",
-        "Milestone Earned": "None\ud83d\udcc9",
+        "Access Code Redemption Status": "\u2705",
+        "Milestone Earned": "\ud83d\udeab",
         "No. of Skill Badges Completed": 0,
         "No. of Arcade Games Completed": 0,
         "No. of Trivia Games Completed": 0
     },
     {
         "Name": "Bhushan Kolse",
-        "Access Code Redemption": "Yes",
-        "Milestone Earned": "None\ud83d\udcc9",
+        "Access Code Redemption Status": "\u2705",
+        "Milestone Earned": "\ud83d\udeab",
         "No. of Skill Badges Completed": 0,
         "No. of Arcade Games Completed": 0,
         "No. of Trivia Games Completed": 0
     },
     {
         "Name": "Deepanshu Kumar",
-        "Access Code Redemption": "Yes",
-        "Milestone Earned": "None\ud83d\udcc9",
+        "Access Code Redemption Status": "\u2705",
+        "Milestone Earned": "\ud83d\udeab",
         "No. of Skill Badges Completed": 0,
         "No. of Arcade Games Completed": 0,
         "No. of Trivia Games Completed": 0
     },
     {
         "Name": "Dhavle Yogeshwari Baban",
-        "Access Code Redemption": "Yes",
-        "Milestone Earned": "None\ud83d\udcc9",
+        "Access Code Redemption Status": "\u2705",
+        "Milestone Earned": "\ud83d\udeab",
         "No. of Skill Badges Completed": 0,
         "No. of Arcade Games Completed": 0,
         "No. of Trivia Games Completed": 0
     },
     {
         "Name": "Gargi Mahajan",
-        "Access Code Redemption": "Yes",
-        "Milestone Earned": "None\ud83d\udcc9",
+        "Access Code Redemption Status": "\u2705",
+        "Milestone Earned": "\ud83d\udeab",
         "No. of Skill Badges Completed": 0,
         "No. of Arcade Games Completed": 0,
         "No. of Trivia Games Completed": 0
     },
     {
         "Name": "Gauri Ikhar",
-        "Access Code Redemption": "Yes",
-        "Milestone Earned": "None\ud83d\udcc9",
+        "Access Code Redemption Status": "\u2705",
+        "Milestone Earned": "\ud83d\udeab",
         "No. of Skill Badges Completed": 0,
         "No. of Arcade Games Completed": 0,
         "No. of Trivia Games Completed": 0
     },
     {
         "Name": "Harshada Sapanesh Bhoilkar",
-        "Access Code Redemption": "Yes",
-        "Milestone Earned": "None\ud83d\udcc9",
+        "Access Code Redemption Status": "\u2705",
+        "Milestone Earned": "\ud83d\udeab",
         "No. of Skill Badges Completed": 0,
         "No. of Arcade Games Completed": 0,
         "No. of Trivia Games Completed": 0
     },
     {
         "Name": "Hemima Darivemula",
-        "Access Code Redemption": "Yes",
-        "Milestone Earned": "None\ud83d\udcc9",
+        "Access Code Redemption Status": "\u2705",
+        "Milestone Earned": "\ud83d\udeab",
         "No. of Skill Badges Completed": 0,
         "No. of Arcade Games Completed": 0,
         "No. of Trivia Games Completed": 0
     },
     {
         "Name": "Irvan Achmad Ashari",
-        "Access Code Redemption": "Yes",
-        "Milestone Earned": "None\ud83d\udcc9",
+        "Access Code Redemption Status": "\u2705",
+        "Milestone Earned": "\ud83d\udeab",
         "No. of Skill Badges Completed": 0,
         "No. of Arcade Games Completed": 0,
         "No. of Trivia Games Completed": 0
     },
     {
         "Name": "Jay Sharad Zore",
-        "Access Code Redemption": "Yes",
-        "Milestone Earned": "None\ud83d\udcc9",
+        "Access Code Redemption Status": "\u2705",
+        "Milestone Earned": "\ud83d\udeab",
         "No. of Skill Badges Completed": 0,
         "No. of Arcade Games Completed": 0,
         "No. of Trivia Games Completed": 0
     },
     {
         "Name": "Kiran ravindra Chilarge",
-        "Access Code Redemption": "Yes",
-        "Milestone Earned": "None\ud83d\udcc9",
+        "Access Code Redemption Status": "\u2705",
+        "Milestone Earned": "\ud83d\udeab",
         "No. of Skill Badges Completed": 0,
         "No. of Arcade Games Completed": 0,
         "No. of Trivia Games Completed": 0
     },
     {
         "Name": "Krushna Narayan Khedkar",
-        "Access Code Redemption": "Yes",
-        "Milestone Earned": "None\ud83d\udcc9",
+        "Access Code Redemption Status": "\u2705",
+        "Milestone Earned": "\ud83d\udeab",
         "No. of Skill Badges Completed": 0,
         "No. of Arcade Games Completed": 0,
         "No. of Trivia Games Completed": 0
     },
     {
         "Name": "Kunal Vishwanath Vidhate",
-        "Access Code Redemption": "Yes",
-        "Milestone Earned": "None\ud83d\udcc9",
+        "Access Code Redemption Status": "\u2705",
+        "Milestone Earned": "\ud83d\udeab",
         "No. of Skill Badges Completed": 0,
         "No. of Arcade Games Completed": 0,
         "No. of Trivia Games Completed": 0
     },
     {
         "Name": "Leena Janardan Mohite",
-        "Access Code Redemption": "Yes",
-        "Milestone Earned": "None\ud83d\udcc9",
+        "Access Code Redemption Status": "\u2705",
+        "Milestone Earned": "\ud83d\udeab",
         "No. of Skill Badges Completed": 0,
         "No. of Arcade Games Completed": 0,
         "No. of Trivia Games Completed": 0
     },
     {
         "Name": "Muhammad Ubaidillah",
-        "Access Code Redemption": "Yes",
-        "Milestone Earned": "None\ud83d\udcc9",
+        "Access Code Redemption Status": "\u2705",
+        "Milestone Earned": "\ud83d\udeab",
         "No. of Skill Badges Completed": 0,
         "No. of Arcade Games Completed": 0,
         "No. of Trivia Games Completed": 0
     },
     {
         "Name": "NAGESH GOVIND SHINDE",
-        "Access Code Redemption": "Yes",
-        "Milestone Earned": "None\ud83d\udcc9",
+        "Access Code Redemption Status": "\u2705",
+        "Milestone Earned": "\ud83d\udeab",
         "No. of Skill Badges Completed": 0,
         "No. of Arcade Games Completed": 0,
         "No. of Trivia Games Completed": 0
     },
     {
         "Name": "Om Kishor Pimple",
-        "Access Code Redemption": "Yes",
-        "Milestone Earned": "None\ud83d\udcc9",
+        "Access Code Redemption Status": "\u2705",
+        "Milestone Earned": "\ud83d\udeab",
         "No. of Skill Badges Completed": 0,
         "No. of Arcade Games Completed": 0,
         "No. of Trivia Games Completed": 0
     },
     {
         "Name": "PATHAN SUMER KHAN AZMAT KHAN",
-        "Access Code Redemption": "Yes",
-        "Milestone Earned": "None\ud83d\udcc9",
+        "Access Code Redemption Status": "\u2705",
+        "Milestone Earned": "\ud83d\udeab",
         "No. of Skill Badges Completed": 0,
         "No. of Arcade Games Completed": 0,
         "No. of Trivia Games Completed": 0
     },
     {
         "Name": "Payal vitthal paymode",
-        "Access Code Redemption": "Yes",
-        "Milestone Earned": "None\ud83d\udcc9",
+        "Access Code Redemption Status": "\u2705",
+        "Milestone Earned": "\ud83d\udeab",
         "No. of Skill Badges Completed": 0,
         "No. of Arcade Games Completed": 0,
         "No. of Trivia Games Completed": 0
     },
     {
         "Name": "Poorva Ravindra Khade",
-        "Access Code Redemption": "Yes",
-        "Milestone Earned": "None\ud83d\udcc9",
+        "Access Code Redemption Status": "\u2705",
+        "Milestone Earned": "\ud83d\udeab",
         "No. of Skill Badges Completed": 0,
         "No. of Arcade Games Completed": 0,
         "No. of Trivia Games Completed": 0
     },
     {
         "Name": "Prajwal Kewaldas Katre",
-        "Access Code Redemption": "Yes",
-        "Milestone Earned": "None\ud83d\udcc9",
+        "Access Code Redemption Status": "\u2705",
+        "Milestone Earned": "\ud83d\udeab",
         "No. of Skill Badges Completed": 0,
         "No. of Arcade Games Completed": 0,
         "No. of Trivia Games Completed": 0
     },
     {
         "Name": "Pranali Mahesh Ghosalkar",
-        "Access Code Redemption": "Yes",
-        "Milestone Earned": "None\ud83d\udcc9",
+        "Access Code Redemption Status": "\u2705",
+        "Milestone Earned": "\ud83d\udeab",
         "No. of Skill Badges Completed": 0,
         "No. of Arcade Games Completed": 0,
         "No. of Trivia Games Completed": 0
     },
     {
         "Name": "PRANAV ARUN NIKAM",
-        "Access Code Redemption": "Yes",
-        "Milestone Earned": "None\ud83d\udcc9",
-        "No. of Skill Badges Completed": 0,
-        "No. of Arcade Games Completed": 0,
-        "No. of Trivia Games Completed": 0
-    },
-    {
-        "Name": "Prathamesh Prakash More",
-        "Access Code Redemption": "Yes",
-        "Milestone Earned": "None\ud83d\udcc9",
-        "No. of Skill Badges Completed": 0,
-        "No. of Arcade Games Completed": 0,
-        "No. of Trivia Games Completed": 0
-    },
-    {
-        "Name": "Pravin Ramhari Zanjure",
-        "Access Code Redemption": "Yes",
-        "Milestone Earned": "None\ud83d\udcc9",
-        "No. of Skill Badges Completed": 0,
-        "No. of Arcade Games Completed": 0,
-        "No. of Trivia Games Completed": 0
-    },
-    {
-        "Name": "Prem Bhise",
-        "Access Code Redemption": "Yes",
-        "Milestone Earned": "None\ud83d\udcc9",
-        "No. of Skill Badges Completed": 0,
-        "No. of Arcade Games Completed": 0,
-        "No. of Trivia Games Completed": 0
-    },
-    {
-        "Name": "Priyanka Balamurugan",
-        "Access Code Redemption": "Yes",
-        "Milestone Earned": "None\ud83d\udcc9",
-        "No. of Skill Badges Completed": 0,
-        "No. of Arcade Games Completed": 0,
-        "No. of Trivia Games Completed": 0
-    },
-    {
-        "Name": "Purva Jijabrao Sonawane",
-        "Access Code Redemption": "Yes",
-        "Milestone Earned": "None\ud83d\udcc9",
-        "No. of Skill Badges Completed": 0,
-        "No. of Arcade Games Completed": 0,
-        "No. of Trivia Games Completed": 0
-    },
-    {
-        "Name": "Rishabh Sharma",
-        "Access Code Redemption": "Yes",
-        "Milestone Earned": "None\ud83d\udcc9",
-        "No. of Skill Badges Completed": 0,
-        "No. of Arcade Games Completed": 0,
-        "No. of Trivia Games Completed": 0
-    },
-    {
-        "Name": "Ritesh Girawale",
-        "Access Code Redemption": "Yes",
-        "Milestone Earned": "None\ud83d\udcc9",
-        "No. of Skill Badges Completed": 0,
-        "No. of Arcade Games Completed": 0,
-        "No. of Trivia Games Completed": 0
-    },
-    {
-        "Name": "Rushabh Gopal Aradwad",
-        "Access Code Redemption": "Yes",
-        "Milestone Earned": "None\ud83d\udcc9",
-        "No. of Skill Badges Completed": 0,
-        "No. of Arcade Games Completed": 0,
-        "No. of Trivia Games Completed": 0
-    },
-    {
-        "Name": "Rushikesh Kondiram Waghmare",
-        "Access Code Redemption": "Yes",
-        "Milestone Earned": "None\ud83d\udcc9",
-        "No. of Skill Badges Completed": 0,
-        "No. of Arcade Games Completed": 0,
-        "No. of Trivia Games Completed": 0
-    },
-    {
-        "Name": "Sakshi Laxman Benduk",
-        "Access Code Redemption": "Yes",
-        "Milestone Earned": "None\ud83d\udcc9",
-        "No. of Skill Badges Completed": 0,
-        "No. of Arcade Games Completed": 0,
-        "No. of Trivia Games Completed": 0
-    },
-    {
-        "Name": "Sakshi Vinod Kumbhare",
-        "Access Code Redemption": "Yes",
-        "Milestone Earned": "None\ud83d\udcc9",
-        "No. of Skill Badges Completed": 0,
-        "No. of Arcade Games Completed": 0,
-        "No. of Trivia Games Completed": 0
-    },
-    {
-        "Name": "Shaikh Zarreen Fatima Shaikh chand",
-        "Access Code Redemption": "Yes",
-        "Milestone Earned": "None\ud83d\udcc9",
-        "No. of Skill Badges Completed": 0,
-        "No. of Arcade Games Completed": 0,
-        "No. of Trivia Games Completed": 0
-    },
-    {
-        "Name": "Shiv",
-        "Access Code Redemption": "Yes",
-        "Milestone Earned": "None\ud83d\udcc9",
-        "No. of Skill Badges Completed": 0,
-        "No. of Arcade Games Completed": 0,
-        "No. of Trivia Games Completed": 0
-    },
-    {
-        "Name": "Shravani Borade",
-        "Access Code Redemption": "Yes",
-        "Milestone Earned": "None\ud83d\udcc9",
-        "No. of Skill Badges Completed": 0,
-        "No. of Arcade Games Completed": 0,
-        "No. of Trivia Games Completed": 0
-    },
-    {
-        "Name": "Shreyash Santosh Kajrolkar",
-        "Access Code Redemption": "Yes",
-        "Milestone Earned": "None\ud83d\udcc9",
-        "No. of Skill Badges Completed": 0,
-        "No. of Arcade Games Completed": 0,
-        "No. of Trivia Games Completed": 0
-    },
-    {
-        "Name": "Shubham pol",
-        "Access Code Redemption": "Yes",
-        "Milestone Earned": "None\ud83d\udcc9",
-        "No. of Skill Badges Completed": 0,
-        "No. of Arcade Games Completed": 0,
-        "No. of Trivia Games Completed": 0
-    },
-    {
-        "Name": "Shubhankar Vinay Gokhale",
-        "Access Code Redemption": "Yes",
-        "Milestone Earned": "None\ud83d\udcc9",
-        "No. of Skill Badges Completed": 0,
-        "No. of Arcade Games Completed": 0,
-        "No. of Trivia Games Completed": 0
-    },
-    {
-        "Name": "Siddharth Mahendra pandere.",
-        "Access Code Redemption": "Yes",
-        "Milestone Earned": "None\ud83d\udcc9",
-        "No. of Skill Badges Completed": 0,
-        "No. of Arcade Games Completed": 0,
-        "No. of Trivia Games Completed": 0
-    },
-    {
-        "Name": "Smit Manohar Fule",
-        "Access Code Redemption": "Yes",
-        "Milestone Earned": "None\ud83d\udcc9",
-        "No. of Skill Badges Completed": 0,
-        "No. of Arcade Games Completed": 0,
-        "No. of Trivia Games Completed": 0
-    },
-    {
-        "Name": "Sudhanshu Sunil Humaney",
-        "Access Code Redemption": "Yes",
-        "Milestone Earned": "None\ud83d\udcc9",
-        "No. of Skill Badges Completed": 0,
-        "No. of Arcade Games Completed": 0,
-        "No. of Trivia Games Completed": 0
-    },
-    {
-        "Name": "Swati Bandeppa Koulagi",
-        "Access Code Redemption": "Yes",
-        "Milestone Earned": "None\ud83d\udcc9",
-        "No. of Skill Badges Completed": 0,
-        "No. of Arcade Games Completed": 0,
-        "No. of Trivia Games Completed": 0
-    },
-    {
-        "Name": "Tejaswi Hanumant Shete",
-        "Access Code Redemption": "Yes",
-        "Milestone Earned": "None\ud83d\udcc9",
-        "No. of Skill Badges Completed": 0,
-        "No. of Arcade Games Completed": 0,
-        "No. of Trivia Games Completed": 0
-    },
-    {
-        "Name": "Ujwal Kewaldas Katre",
-        "Access Code Redemption": "Yes",
-        "Milestone Earned": "None\ud83d\udcc9",
-        "No. of Skill Badges Completed": 0,
-        "No. of Arcade Games Completed": 0,
-        "No. of Trivia Games Completed": 0
-    },
-    {
-        "Name": "Vaishnavi Gajanan Mankar",
-        "Access Code Redemption": "Yes",
-        "Milestone Earned": "None\ud83d\udcc9",
-        "No. of Skill Badges Completed": 0,
-        "No. of Arcade Games Completed": 0,
-        "No. of Trivia Games Completed": 0
-    },
-    {
-        "Name": "Vasudha Venkat Patil",
-        "Access Code Redemption": "Yes",
-        "Milestone Earned": "None\ud83d\udcc9",
-        "No. of Skill Badges Completed": 0,
-        "No. of Arcade Games Completed": 0,
-        "No. of Trivia Games Completed": 0
-    },
-    {
-        "Name": "Vedant Anant Khadse",
-        "Access Code Redemption": "Yes",
-        "Milestone Earned": "None\ud83d\udcc9",
-        "No. of Skill Badges Completed": 0,
-        "No. of Arcade Games Completed": 0,
-        "No. of Trivia Games Completed": 0
-    },
-    {
-        "Name": "Vedanti Santosh Mahadik",
-        "Access Code Redemption": "Yes",
-        "Milestone Earned": "None\ud83d\udcc9",
-        "No. of Skill Badges Completed": 0,
-        "No. of Arcade Games Completed": 0,
-        "No. of Trivia Games Completed": 0
-    },
-    {
-        "Name": "VINIT KUMAR SHRIVASTAVA",
-        "Access Code Redemption": "Yes",
-        "Milestone Earned": "None\ud83d\udcc9",
-        "No. of Skill Badges Completed": 0,
-        "No. of Arcade Games Completed": 0,
-        "No. of Trivia Games Completed": 0
-    },
-    {
-        "Name": "Muhammad Ubaidillah",
-        "Access Code Redemption": "No",
-        "Milestone Earned": "None\ud83d\udcc9",
-        "No. of Skill Badges Completed": 3,
-        "No. of Arcade Games Completed": 0,
-        "No. of Trivia Games Completed": 0
-    },
-    {
-        "Name": "Nilesh Aggarwal",
-        "Access Code Redemption": "No",
-        "Milestone Earned": "None\ud83d\udcc9",
-        "No. of Skill Badges Completed": 2,
-        "No. of Arcade Games Completed": 0,
-        "No. of Trivia Games Completed": 0
-    },
-    {
-        "Name": "Ajinkya Ravindra Rodge",
-        "Access Code Redemption": "No",
-        "Milestone Earned": "None\ud83d\udcc9",
-        "No. of Skill Badges Completed": 1,
-        "No. of Arcade Games Completed": 0,
-        "No. of Trivia Games Completed": 0
-    },
-    {
-        "Name": "amanpreet singh",
-        "Access Code Redemption": "No",
-        "Milestone Earned": "None\ud83d\udcc9",
-        "No. of Skill Badges Completed": 0,
-        "No. of Arcade Games Completed": 1,
-        "No. of Trivia Games Completed": 1
-    },
-    {
-        "Name": "A. Furqon",
-        "Access Code Redemption": "No",
-        "Milestone Earned": "None\ud83d\udcc9",
-        "No. of Skill Badges Completed": 0,
-        "No. of Arcade Games Completed": 0,
-        "No. of Trivia Games Completed": 0
-    },
-    {
-        "Name": "Abdurrahman Farras Fadhila Triandhono",
-        "Access Code Redemption": "No",
-        "Milestone Earned": "None\ud83d\udcc9",
-        "No. of Skill Badges Completed": 0,
-        "No. of Arcade Games Completed": 0,
-        "No. of Trivia Games Completed": 0
-    },
-    {
-        "Name": "ADITYA CHANDRAKANT KHONDE",
-        "Access Code Redemption": "No",
-        "Milestone Earned": "None\ud83d\udcc9",
-        "No. of Skill Badges Completed": 0,
-        "No. of Arcade Games Completed": 0,
-        "No. of Trivia Games Completed": 0
-    },
-    {
-        "Name": "Aditya Sundar Desai",
-        "Access Code Redemption": "No",
-        "Milestone Earned": "None\ud83d\udcc9",
-        "No. of Skill Badges Completed": 0,
-        "No. of Arcade Games Completed": 0,
-        "No. of Trivia Games Completed": 0
-    },
-    {
-        "Name": "Ajay uttam more",
-        "Access Code Redemption": "No",
-        "Milestone Earned": "None\ud83d\udcc9",
-        "No. of Skill Badges Completed": 0,
-        "No. of Arcade Games Completed": 0,
-        "No. of Trivia Games Completed": 0
-    },
-    {
-        "Name": "Akshay kiran chaudhari",
-        "Access Code Redemption": "No",
-        "Milestone Earned": "None\ud83d\udcc9",
-        "No. of Skill Badges Completed": 0,
-        "No. of Arcade Games Completed": 0,
-        "No. of Trivia Games Completed": 0
-    },
-    {
-        "Name": "Aniket Bhikaji Parankar",
-        "Access Code Redemption": "No",
-        "Milestone Earned": "None\ud83d\udcc9",
-        "No. of Skill Badges Completed": 0,
-        "No. of Arcade Games Completed": 0,
-        "No. of Trivia Games Completed": 0
-    },
-    {
-        "Name": "Anish Mankani",
-        "Access Code Redemption": "No",
-        "Milestone Earned": "None\ud83d\udcc9",
-        "No. of Skill Badges Completed": 0,
-        "No. of Arcade Games Completed": 0,
-        "No. of Trivia Games Completed": 0
-    },
-    {
-        "Name": "Anuj Suryawanshi",
-        "Access Code Redemption": "No",
-        "Milestone Earned": "None\ud83d\udcc9",
-        "No. of Skill Badges Completed": 0,
-        "No. of Arcade Games Completed": 0,
-        "No. of Trivia Games Completed": 0
-    },
-    {
-        "Name": "Arya Sukhadev Mhaskar",
-        "Access Code Redemption": "No",
-        "Milestone Earned": "None\ud83d\udcc9",
-        "No. of Skill Badges Completed": 0,
-        "No. of Arcade Games Completed": 0,
-        "No. of Trivia Games Completed": 0
-    },
-    {
-        "Name": "Atharv Anil Kuthe",
-        "Access Code Redemption": "No",
-        "Milestone Earned": "None\ud83d\udcc9",
-        "No. of Skill Badges Completed": 0,
-        "No. of Arcade Games Completed": 0,
-        "No. of Trivia Games Completed": 0
-    },
-    {
-        "Name": "Atharv Dilip Dashpute",
-        "Access Code Redemption": "No",
-        "Milestone Earned": "None\ud83d\udcc9",
-        "No. of Skill Badges Completed": 0,
-        "No. of Arcade Games Completed": 0,
-        "No. of Trivia Games Completed": 0
-    },
-    {
-        "Name": "Atharva Mahesh Koli",
-        "Access Code Redemption": "No",
-        "Milestone Earned": "None\ud83d\udcc9",
-        "No. of Skill Badges Completed": 0,
-        "No. of Arcade Games Completed": 0,
-        "No. of Trivia Games Completed": 0
-    },
-    {
-        "Name": "Ayush Subhash Mhatre",
-        "Access Code Redemption": "No",
-        "Milestone Earned": "None\ud83d\udcc9",
-        "No. of Skill Badges Completed": 0,
-        "No. of Arcade Games Completed": 0,
-        "No. of Trivia Games Completed": 0
-    },
-    {
-        "Name": "Bhakti Govindrao Dange",
-        "Access Code Redemption": "No",
-        "Milestone Earned": "None\ud83d\udcc9",
-        "No. of Skill Badges Completed": 0,
-        "No. of Arcade Games Completed": 0,
-        "No. of Trivia Games Completed": 0
-    },
-    {
-        "Name": "Bhavesh Sitaphale",
-        "Access Code Redemption": "No",
-        "Milestone Earned": "None\ud83d\udcc9",
-        "No. of Skill Badges Completed": 0,
-        "No. of Arcade Games Completed": 0,
-        "No. of Trivia Games Completed": 0
-    },
-    {
-        "Name": "Dev Jagdish Doshi",
-        "Access Code Redemption": "No",
-        "Milestone Earned": "None\ud83d\udcc9",
-        "No. of Skill Badges Completed": 0,
-        "No. of Arcade Games Completed": 0,
-        "No. of Trivia Games Completed": 0
-    },
-    {
-        "Name": "Dhananjay Metangale",
-        "Access Code Redemption": "No",
-        "Milestone Earned": "None\ud83d\udcc9",
-        "No. of Skill Badges Completed": 0,
-        "No. of Arcade Games Completed": 0,
-        "No. of Trivia Games Completed": 0
-    },
-    {
-        "Name": "Dhruv Patel",
-        "Access Code Redemption": "No",
-        "Milestone Earned": "None\ud83d\udcc9",
-        "No. of Skill Badges Completed": 0,
-        "No. of Arcade Games Completed": 0,
-        "No. of Trivia Games Completed": 0
-    },
-    {
-        "Name": "Dipak Udhav Dakle",
-        "Access Code Redemption": "No",
-        "Milestone Earned": "None\ud83d\udcc9",
-        "No. of Skill Badges Completed": 0,
-        "No. of Arcade Games Completed": 0,
-        "No. of Trivia Games Completed": 0
-    },
-    {
-        "Name": "Divyani Mangesh Shirke",
-        "Access Code Redemption": "No",
-        "Milestone Earned": "None\ud83d\udcc9",
-        "No. of Skill Badges Completed": 0,
-        "No. of Arcade Games Completed": 0,
-        "No. of Trivia Games Completed": 0
-    },
-    {
-        "Name": "Divyanshu Vilas Sindpure",
-        "Access Code Redemption": "No",
-        "Milestone Earned": "None\ud83d\udcc9",
-        "No. of Skill Badges Completed": 0,
-        "No. of Arcade Games Completed": 0,
-        "No. of Trivia Games Completed": 0
-    },
-    {
-        "Name": "Elesh Rodge",
-        "Access Code Redemption": "No",
-        "Milestone Earned": "None\ud83d\udcc9",
-        "No. of Skill Badges Completed": 0,
-        "No. of Arcade Games Completed": 0,
-        "No. of Trivia Games Completed": 0
-    },
-    {
-        "Name": "Faishal Ananta Ridha",
-        "Access Code Redemption": "No",
-        "Milestone Earned": "None\ud83d\udcc9",
-        "No. of Skill Badges Completed": 0,
-        "No. of Arcade Games Completed": 0,
-        "No. of Trivia Games Completed": 0
-    },
-    {
-        "Name": "Faizal Fatih",
-        "Access Code Redemption": "No",
-        "Milestone Earned": "None\ud83d\udcc9",
-        "No. of Skill Badges Completed": 0,
-        "No. of Arcade Games Completed": 0,
-        "No. of Trivia Games Completed": 0
-    },
-    {
-        "Name": "Furqon adila",
-        "Access Code Redemption": "No",
-        "Milestone Earned": "None\ud83d\udcc9",
-        "No. of Skill Badges Completed": 0,
-        "No. of Arcade Games Completed": 0,
-        "No. of Trivia Games Completed": 0
-    },
-    {
-        "Name": "Ganesh Sahebrao Dhange",
-        "Access Code Redemption": "No",
-        "Milestone Earned": "None\ud83d\udcc9",
-        "No. of Skill Badges Completed": 0,
-        "No. of Arcade Games Completed": 0,
-        "No. of Trivia Games Completed": 0
-    },
-    {
-        "Name": "Gaurav Chafle",
-        "Access Code Redemption": "No",
-        "Milestone Earned": "None\ud83d\udcc9",
-        "No. of Skill Badges Completed": 0,
-        "No. of Arcade Games Completed": 0,
-        "No. of Trivia Games Completed": 0
-    },
-    {
-        "Name": "Gayatri Ambadas Vaddepalli",
-        "Access Code Redemption": "No",
-        "Milestone Earned": "None\ud83d\udcc9",
-        "No. of Skill Badges Completed": 0,
-        "No. of Arcade Games Completed": 0,
-        "No. of Trivia Games Completed": 0
-    },
-    {
-        "Name": "Gayatri Girish Juikar",
-        "Access Code Redemption": "No",
-        "Milestone Earned": "None\ud83d\udcc9",
-        "No. of Skill Badges Completed": 0,
-        "No. of Arcade Games Completed": 0,
-        "No. of Trivia Games Completed": 0
-    },
-    {
-        "Name": "Girawale Ritesh",
-        "Access Code Redemption": "No",
-        "Milestone Earned": "None\ud83d\udcc9",
-        "No. of Skill Badges Completed": 0,
-        "No. of Arcade Games Completed": 0,
-        "No. of Trivia Games Completed": 0
-    },
-    {
-        "Name": "Govinda Laxman kokate",
-        "Access Code Redemption": "No",
-        "Milestone Earned": "None\ud83d\udcc9",
-        "No. of Skill Badges Completed": 0,
-        "No. of Arcade Games Completed": 0,
-        "No. of Trivia Games Completed": 0
-    },
-    {
-        "Name": "Hansket Rathod",
-        "Access Code Redemption": "No",
-        "Milestone Earned": "None\ud83d\udcc9",
-        "No. of Skill Badges Completed": 0,
-        "No. of Arcade Games Completed": 0,
-        "No. of Trivia Games Completed": 0
-    },
-    {
-        "Name": "Hanuman Bhagwat Jadhav",
-        "Access Code Redemption": "No",
-        "Milestone Earned": "None\ud83d\udcc9",
-        "No. of Skill Badges Completed": 0,
-        "No. of Arcade Games Completed": 0,
-        "No. of Trivia Games Completed": 0
-    },
-    {
-        "Name": "Harish sanjay bhosale",
-        "Access Code Redemption": "No",
-        "Milestone Earned": "None\ud83d\udcc9",
-        "No. of Skill Badges Completed": 0,
-        "No. of Arcade Games Completed": 0,
-        "No. of Trivia Games Completed": 0
-    },
-    {
-        "Name": "Hexa Sanjaya",
-        "Access Code Redemption": "No",
-        "Milestone Earned": "None\ud83d\udcc9",
-        "No. of Skill Badges Completed": 0,
-        "No. of Arcade Games Completed": 0,
-        "No. of Trivia Games Completed": 0
-    },
-    {
-        "Name": "Jagathesswaran.V",
-        "Access Code Redemption": "No",
-        "Milestone Earned": "None\ud83d\udcc9",
-        "No. of Skill Badges Completed": 0,
-        "No. of Arcade Games Completed": 0,
-        "No. of Trivia Games Completed": 0
-    },
-    {
-        "Name": "JAYESH AVINASH PATIL",
-        "Access Code Redemption": "No",
-        "Milestone Earned": "None\ud83d\udcc9",
-        "No. of Skill Badges Completed": 0,
-        "No. of Arcade Games Completed": 0,
-        "No. of Trivia Games Completed": 0
-    },
-    {
-        "Name": "Junior Kevin Arios",
-        "Access Code Redemption": "No",
-        "Milestone Earned": "None\ud83d\udcc9",
-        "No. of Skill Badges Completed": 0,
-        "No. of Arcade Games Completed": 0,
-        "No. of Trivia Games Completed": 0
-    },
-    {
-        "Name": "Kaif Atik Shaikh",
-        "Access Code Redemption": "No",
-        "Milestone Earned": "None\ud83d\udcc9",
-        "No. of Skill Badges Completed": 0,
-        "No. of Arcade Games Completed": 0,
-        "No. of Trivia Games Completed": 0
-    },
-    {
-        "Name": "Karan Anil Patil",
-        "Access Code Redemption": "No",
-        "Milestone Earned": "None\ud83d\udcc9",
-        "No. of Skill Badges Completed": 0,
-        "No. of Arcade Games Completed": 0,
-        "No. of Trivia Games Completed": 0
-    },
-    {
-        "Name": "KETAN SUNIL PATIL",
-        "Access Code Redemption": "No",
-        "Milestone Earned": "None\ud83d\udcc9",
-        "No. of Skill Badges Completed": 0,
-        "No. of Arcade Games Completed": 0,
-        "No. of Trivia Games Completed": 0
-    },
-    {
-        "Name": "Krish kushwaha",
-        "Access Code Redemption": "No",
-        "Milestone Earned": "None\ud83d\udcc9",
-        "No. of Skill Badges Completed": 0,
-        "No. of Arcade Games Completed": 0,
-        "No. of Trivia Games Completed": 0
-    },
-    {
-        "Name": "Kurniawan Nur Aditya",
-        "Access Code Redemption": "No",
-        "Milestone Earned": "None\ud83d\udcc9",
-        "No. of Skill Badges Completed": 0,
-        "No. of Arcade Games Completed": 0,
-        "No. of Trivia Games Completed": 0
-    },
-    {
-        "Name": "Manasi Pramod Gharat",
-        "Access Code Redemption": "No",
-        "Milestone Earned": "None\ud83d\udcc9",
-        "No. of Skill Badges Completed": 0,
-        "No. of Arcade Games Completed": 0,
-        "No. of Trivia Games Completed": 0
-    },
-    {
-        "Name": "Manvi Meshram",
-        "Access Code Redemption": "No",
-        "Milestone Earned": "None\ud83d\udcc9",
-        "No. of Skill Badges Completed": 0,
-        "No. of Arcade Games Completed": 0,
-        "No. of Trivia Games Completed": 0
-    },
-    {
-        "Name": "Mayur Rajiv Bokan",
-        "Access Code Redemption": "No",
-        "Milestone Earned": "None\ud83d\udcc9",
-        "No. of Skill Badges Completed": 0,
-        "No. of Arcade Games Completed": 0,
-        "No. of Trivia Games Completed": 0
-    },
-    {
-        "Name": "Mayuresh Vikas Patil",
-        "Access Code Redemption": "No",
-        "Milestone Earned": "None\ud83d\udcc9",
-        "No. of Skill Badges Completed": 0,
-        "No. of Arcade Games Completed": 0,
-        "No. of Trivia Games Completed": 0
-    },
-    {
-        "Name": "Mrugendra Ashok Malghe",
-        "Access Code Redemption": "No",
-        "Milestone Earned": "None\ud83d\udcc9",
-        "No. of Skill Badges Completed": 0,
-        "No. of Arcade Games Completed": 0,
-        "No. of Trivia Games Completed": 0
-    },
-    {
-        "Name": "Muhammad Sirojuddin",
-        "Access Code Redemption": "No",
-        "Milestone Earned": "None\ud83d\udcc9",
-        "No. of Skill Badges Completed": 0,
-        "No. of Arcade Games Completed": 0,
-        "No. of Trivia Games Completed": 0
-    },
-    {
-        "Name": "Nikhil Chaitram Baghele",
-        "Access Code Redemption": "No",
-        "Milestone Earned": "None\ud83d\udcc9",
-        "No. of Skill Badges Completed": 0,
-        "No. of Arcade Games Completed": 0,
-        "No. of Trivia Games Completed": 0
-    },
-    {
-        "Name": "Nimish Aniket Patil",
-        "Access Code Redemption": "No",
-        "Milestone Earned": "None\ud83d\udcc9",
-        "No. of Skill Badges Completed": 0,
-        "No. of Arcade Games Completed": 0,
-        "No. of Trivia Games Completed": 0
-    },
-    {
-        "Name": "Nishika Bambal",
-        "Access Code Redemption": "No",
-        "Milestone Earned": "None\ud83d\udcc9",
-        "No. of Skill Badges Completed": 0,
-        "No. of Arcade Games Completed": 0,
-        "No. of Trivia Games Completed": 0
-    },
-    {
-        "Name": "Nithin V",
-        "Access Code Redemption": "No",
-        "Milestone Earned": "None\ud83d\udcc9",
-        "No. of Skill Badges Completed": 0,
-        "No. of Arcade Games Completed": 0,
-        "No. of Trivia Games Completed": 0
-    },
-    {
-        "Name": "Nitin Bhat",
-        "Access Code Redemption": "No",
-        "Milestone Earned": "None\ud83d\udcc9",
-        "No. of Skill Badges Completed": 0,
-        "No. of Arcade Games Completed": 0,
-        "No. of Trivia Games Completed": 0
-    },
-    {
-        "Name": "Om Amol Pokale",
-        "Access Code Redemption": "No",
-        "Milestone Earned": "None\ud83d\udcc9",
-        "No. of Skill Badges Completed": 0,
-        "No. of Arcade Games Completed": 0,
-        "No. of Trivia Games Completed": 0
-    },
-    {
-        "Name": "Om Gajanan Malthane",
-        "Access Code Redemption": "No",
-        "Milestone Earned": "None\ud83d\udcc9",
-        "No. of Skill Badges Completed": 0,
-        "No. of Arcade Games Completed": 0,
-        "No. of Trivia Games Completed": 0
-    },
-    {
-        "Name": "Om Malode",
-        "Access Code Redemption": "No",
-        "Milestone Earned": "None\ud83d\udcc9",
-        "No. of Skill Badges Completed": 0,
-        "No. of Arcade Games Completed": 0,
-        "No. of Trivia Games Completed": 0
-    },
-    {
-        "Name": "Onkar Uttam Hol",
-        "Access Code Redemption": "No",
-        "Milestone Earned": "None\ud83d\udcc9",
-        "No. of Skill Badges Completed": 0,
-        "No. of Arcade Games Completed": 0,
-        "No. of Trivia Games Completed": 0
-    },
-    {
-        "Name": "Onkar Uttam Hol",
-        "Access Code Redemption": "No",
-        "Milestone Earned": "None\ud83d\udcc9",
-        "No. of Skill Badges Completed": 0,
-        "No. of Arcade Games Completed": 0,
-        "No. of Trivia Games Completed": 0
-    },
-    {
-        "Name": "Paco Edward",
-        "Access Code Redemption": "No",
-        "Milestone Earned": "None\ud83d\udcc9",
+        "Access Code Redemption Status": "\u2705",
+        "Milestone Earned": "\ud83d\udeab",
         "No. of Skill Badges Completed": 0,
         "No. of Arcade Games Completed": 0,
         "No. of Trivia Games Completed": 0
     },
     {
         "Name": "Pranav Gurling Ligade",
-        "Access Code Redemption": "No",
-        "Milestone Earned": "None\ud83d\udcc9",
+        "Access Code Redemption Status": "\u2705",
+        "Milestone Earned": "\ud83d\udeab",
         "No. of Skill Badges Completed": 0,
         "No. of Arcade Games Completed": 0,
         "No. of Trivia Games Completed": 0
     },
     {
-        "Name": "Pranay Chintaman Pinjarkar",
-        "Access Code Redemption": "No",
-        "Milestone Earned": "None\ud83d\udcc9",
+        "Name": "Prathamesh Prakash More",
+        "Access Code Redemption Status": "\u2705",
+        "Milestone Earned": "\ud83d\udeab",
         "No. of Skill Badges Completed": 0,
         "No. of Arcade Games Completed": 0,
         "No. of Trivia Games Completed": 0
     },
     {
-        "Name": "Pranjali Pratik Patil",
-        "Access Code Redemption": "No",
-        "Milestone Earned": "None\ud83d\udcc9",
+        "Name": "Pravin Ramhari Zanjure",
+        "Access Code Redemption Status": "\u2705",
+        "Milestone Earned": "\ud83d\udeab",
         "No. of Skill Badges Completed": 0,
         "No. of Arcade Games Completed": 0,
         "No. of Trivia Games Completed": 0
     },
     {
-        "Name": "Punit Santosh Kale",
-        "Access Code Redemption": "No",
-        "Milestone Earned": "None\ud83d\udcc9",
+        "Name": "Prem Bhise",
+        "Access Code Redemption Status": "\u2705",
+        "Milestone Earned": "\ud83d\udeab",
         "No. of Skill Badges Completed": 0,
         "No. of Arcade Games Completed": 0,
         "No. of Trivia Games Completed": 0
     },
     {
-        "Name": "R.Harshitha",
-        "Access Code Redemption": "No",
-        "Milestone Earned": "None\ud83d\udcc9",
+        "Name": "Priyanka Balamurugan",
+        "Access Code Redemption Status": "\u2705",
+        "Milestone Earned": "\ud83d\udeab",
         "No. of Skill Badges Completed": 0,
         "No. of Arcade Games Completed": 0,
         "No. of Trivia Games Completed": 0
     },
     {
-        "Name": "Radhika Sharma",
-        "Access Code Redemption": "No",
-        "Milestone Earned": "None\ud83d\udcc9",
+        "Name": "Purva Jijabrao Sonawane",
+        "Access Code Redemption Status": "\u2705",
+        "Milestone Earned": "\ud83d\udeab",
         "No. of Skill Badges Completed": 0,
         "No. of Arcade Games Completed": 0,
         "No. of Trivia Games Completed": 0
     },
     {
-        "Name": "Ricco Pandora Rizkullah",
-        "Access Code Redemption": "No",
-        "Milestone Earned": "None\ud83d\udcc9",
+        "Name": "Rishabh Sharma",
+        "Access Code Redemption Status": "\u2705",
+        "Milestone Earned": "\ud83d\udeab",
         "No. of Skill Badges Completed": 0,
         "No. of Arcade Games Completed": 0,
         "No. of Trivia Games Completed": 0
     },
     {
-        "Name": "rishabh srivastav",
-        "Access Code Redemption": "No",
-        "Milestone Earned": "None\ud83d\udcc9",
+        "Name": "Ritesh Girawale",
+        "Access Code Redemption Status": "\u2705",
+        "Milestone Earned": "\ud83d\udeab",
         "No. of Skill Badges Completed": 0,
         "No. of Arcade Games Completed": 0,
         "No. of Trivia Games Completed": 0
     },
     {
-        "Name": "Riyank Ravindra Sarade",
-        "Access Code Redemption": "No",
-        "Milestone Earned": "None\ud83d\udcc9",
+        "Name": "Rushabh Gopal Aradwad",
+        "Access Code Redemption Status": "\u2705",
+        "Milestone Earned": "\ud83d\udeab",
         "No. of Skill Badges Completed": 0,
         "No. of Arcade Games Completed": 0,
         "No. of Trivia Games Completed": 0
     },
     {
-        "Name": "Rushikesh Nelwade",
-        "Access Code Redemption": "No",
-        "Milestone Earned": "None\ud83d\udcc9",
+        "Name": "Rushikesh Kondiram Waghmare",
+        "Access Code Redemption Status": "\u2705",
+        "Milestone Earned": "\ud83d\udeab",
         "No. of Skill Badges Completed": 0,
         "No. of Arcade Games Completed": 0,
         "No. of Trivia Games Completed": 0
     },
     {
-        "Name": "Rutika parekar",
-        "Access Code Redemption": "No",
-        "Milestone Earned": "None\ud83d\udcc9",
+        "Name": "Sakshi Laxman Benduk",
+        "Access Code Redemption Status": "\u2705",
+        "Milestone Earned": "\ud83d\udeab",
         "No. of Skill Badges Completed": 0,
         "No. of Arcade Games Completed": 0,
         "No. of Trivia Games Completed": 0
     },
     {
-        "Name": "Sakshi Jagdish Dake",
-        "Access Code Redemption": "No",
-        "Milestone Earned": "None\ud83d\udcc9",
+        "Name": "Sakshi Vinod Kumbhare",
+        "Access Code Redemption Status": "\u2705",
+        "Milestone Earned": "\ud83d\udeab",
         "No. of Skill Badges Completed": 0,
         "No. of Arcade Games Completed": 0,
         "No. of Trivia Games Completed": 0
     },
     {
-        "Name": "Sakshi Vilas Dupare",
-        "Access Code Redemption": "No",
-        "Milestone Earned": "None\ud83d\udcc9",
+        "Name": "Shaikh Zarreen Fatima Shaikh chand",
+        "Access Code Redemption Status": "\u2705",
+        "Milestone Earned": "\ud83d\udeab",
         "No. of Skill Badges Completed": 0,
         "No. of Arcade Games Completed": 0,
         "No. of Trivia Games Completed": 0
     },
     {
-        "Name": "Saloni Mangesh Wadhawal",
-        "Access Code Redemption": "No",
-        "Milestone Earned": "None\ud83d\udcc9",
+        "Name": "Shiv",
+        "Access Code Redemption Status": "\u2705",
+        "Milestone Earned": "\ud83d\udeab",
         "No. of Skill Badges Completed": 0,
         "No. of Arcade Games Completed": 0,
         "No. of Trivia Games Completed": 0
     },
     {
-        "Name": "Sameer Bhosale",
-        "Access Code Redemption": "No",
-        "Milestone Earned": "None\ud83d\udcc9",
+        "Name": "Shravani Borade",
+        "Access Code Redemption Status": "\u2705",
+        "Milestone Earned": "\ud83d\udeab",
         "No. of Skill Badges Completed": 0,
         "No. of Arcade Games Completed": 0,
         "No. of Trivia Games Completed": 0
     },
     {
-        "Name": "Sandipan Talukdar",
-        "Access Code Redemption": "No",
-        "Milestone Earned": "None\ud83d\udcc9",
-        "No. of Skill Badges Completed": 0,
-        "No. of Arcade Games Completed": 0,
-        "No. of Trivia Games Completed": 0
-    },
-    {
-        "Name": "Sangmeshwar Vaijanath Gurushete",
-        "Access Code Redemption": "No",
-        "Milestone Earned": "None\ud83d\udcc9",
-        "No. of Skill Badges Completed": 0,
-        "No. of Arcade Games Completed": 0,
-        "No. of Trivia Games Completed": 0
-    },
-    {
-        "Name": "satria pratama",
-        "Access Code Redemption": "No",
-        "Milestone Earned": "None\ud83d\udcc9",
-        "No. of Skill Badges Completed": 0,
-        "No. of Arcade Games Completed": 0,
-        "No. of Trivia Games Completed": 0
-    },
-    {
-        "Name": "Saurav Chafle",
-        "Access Code Redemption": "No",
-        "Milestone Earned": "None\ud83d\udcc9",
-        "No. of Skill Badges Completed": 0,
-        "No. of Arcade Games Completed": 0,
-        "No. of Trivia Games Completed": 0
-    },
-    {
-        "Name": "Shaikh ziya anjum shaikh chand",
-        "Access Code Redemption": "No",
-        "Milestone Earned": "None\ud83d\udcc9",
-        "No. of Skill Badges Completed": 0,
-        "No. of Arcade Games Completed": 0,
-        "No. of Trivia Games Completed": 0
-    },
-    {
-        "Name": "Shashank Shirsat",
-        "Access Code Redemption": "No",
-        "Milestone Earned": "None\ud83d\udcc9",
-        "No. of Skill Badges Completed": 0,
-        "No. of Arcade Games Completed": 0,
-        "No. of Trivia Games Completed": 0
-    },
-    {
-        "Name": "Shravani Nandkumar Patil",
-        "Access Code Redemption": "No",
-        "Milestone Earned": "None\ud83d\udcc9",
-        "No. of Skill Badges Completed": 0,
-        "No. of Arcade Games Completed": 0,
-        "No. of Trivia Games Completed": 0
-    },
-    {
-        "Name": "Shreya Patil",
-        "Access Code Redemption": "No",
-        "Milestone Earned": "None\ud83d\udcc9",
-        "No. of Skill Badges Completed": 0,
-        "No. of Arcade Games Completed": 0,
-        "No. of Trivia Games Completed": 0
-    },
-    {
-        "Name": "Shreyash Bhamle",
-        "Access Code Redemption": "No",
-        "Milestone Earned": "None\ud83d\udcc9",
-        "No. of Skill Badges Completed": 0,
-        "No. of Arcade Games Completed": 0,
-        "No. of Trivia Games Completed": 0
-    },
-    {
-        "Name": "Shuaib Musthafa M",
-        "Access Code Redemption": "No",
-        "Milestone Earned": "None\ud83d\udcc9",
+        "Name": "Shreyash Santosh Kajrolkar",
+        "Access Code Redemption Status": "\u2705",
+        "Milestone Earned": "\ud83d\udeab",
         "No. of Skill Badges Completed": 0,
         "No. of Arcade Games Completed": 0,
         "No. of Trivia Games Completed": 0
     },
     {
         "Name": "Shubham Eknath Palkar",
-        "Access Code Redemption": "No",
-        "Milestone Earned": "None\ud83d\udcc9",
+        "Access Code Redemption Status": "\u2705",
+        "Milestone Earned": "\ud83d\udeab",
+        "No. of Skill Badges Completed": 0,
+        "No. of Arcade Games Completed": 0,
+        "No. of Trivia Games Completed": 0
+    },
+    {
+        "Name": "Shubham pol",
+        "Access Code Redemption Status": "\u2705",
+        "Milestone Earned": "\ud83d\udeab",
+        "No. of Skill Badges Completed": 0,
+        "No. of Arcade Games Completed": 0,
+        "No. of Trivia Games Completed": 0
+    },
+    {
+        "Name": "Shubhankar Vinay Gokhale",
+        "Access Code Redemption Status": "\u2705",
+        "Milestone Earned": "\ud83d\udeab",
+        "No. of Skill Badges Completed": 0,
+        "No. of Arcade Games Completed": 0,
+        "No. of Trivia Games Completed": 0
+    },
+    {
+        "Name": "Siddharth Mahendra pandere.",
+        "Access Code Redemption Status": "\u2705",
+        "Milestone Earned": "\ud83d\udeab",
+        "No. of Skill Badges Completed": 0,
+        "No. of Arcade Games Completed": 0,
+        "No. of Trivia Games Completed": 0
+    },
+    {
+        "Name": "Smit Manohar Fule",
+        "Access Code Redemption Status": "\u2705",
+        "Milestone Earned": "\ud83d\udeab",
+        "No. of Skill Badges Completed": 0,
+        "No. of Arcade Games Completed": 0,
+        "No. of Trivia Games Completed": 0
+    },
+    {
+        "Name": "Sudhanshu Sunil Humaney",
+        "Access Code Redemption Status": "\u2705",
+        "Milestone Earned": "\ud83d\udeab",
+        "No. of Skill Badges Completed": 0,
+        "No. of Arcade Games Completed": 0,
+        "No. of Trivia Games Completed": 0
+    },
+    {
+        "Name": "Swati Bandeppa Koulagi",
+        "Access Code Redemption Status": "\u2705",
+        "Milestone Earned": "\ud83d\udeab",
+        "No. of Skill Badges Completed": 0,
+        "No. of Arcade Games Completed": 0,
+        "No. of Trivia Games Completed": 0
+    },
+    {
+        "Name": "Tejaswi Hanumant Shete",
+        "Access Code Redemption Status": "\u2705",
+        "Milestone Earned": "\ud83d\udeab",
+        "No. of Skill Badges Completed": 0,
+        "No. of Arcade Games Completed": 0,
+        "No. of Trivia Games Completed": 0
+    },
+    {
+        "Name": "Ujwal Kewaldas Katre",
+        "Access Code Redemption Status": "\u2705",
+        "Milestone Earned": "\ud83d\udeab",
+        "No. of Skill Badges Completed": 0,
+        "No. of Arcade Games Completed": 0,
+        "No. of Trivia Games Completed": 0
+    },
+    {
+        "Name": "Vaishnavi Gajanan Mankar",
+        "Access Code Redemption Status": "\u2705",
+        "Milestone Earned": "\ud83d\udeab",
+        "No. of Skill Badges Completed": 0,
+        "No. of Arcade Games Completed": 0,
+        "No. of Trivia Games Completed": 0
+    },
+    {
+        "Name": "Vasudha Venkat Patil",
+        "Access Code Redemption Status": "\u2705",
+        "Milestone Earned": "\ud83d\udeab",
+        "No. of Skill Badges Completed": 0,
+        "No. of Arcade Games Completed": 0,
+        "No. of Trivia Games Completed": 0
+    },
+    {
+        "Name": "Vedant Anant Khadse",
+        "Access Code Redemption Status": "\u2705",
+        "Milestone Earned": "\ud83d\udeab",
+        "No. of Skill Badges Completed": 0,
+        "No. of Arcade Games Completed": 0,
+        "No. of Trivia Games Completed": 0
+    },
+    {
+        "Name": "Vedanti Santosh Mahadik",
+        "Access Code Redemption Status": "\u2705",
+        "Milestone Earned": "\ud83d\udeab",
+        "No. of Skill Badges Completed": 0,
+        "No. of Arcade Games Completed": 0,
+        "No. of Trivia Games Completed": 0
+    },
+    {
+        "Name": "VINIT KUMAR SHRIVASTAVA",
+        "Access Code Redemption Status": "\u2705",
+        "Milestone Earned": "\ud83d\udeab",
+        "No. of Skill Badges Completed": 0,
+        "No. of Arcade Games Completed": 0,
+        "No. of Trivia Games Completed": 0
+    },
+    {
+        "Name": "Muhammad Ubaidillah",
+        "Access Code Redemption Status": "\u274c",
+        "Milestone Earned": "\ud83d\udeab",
+        "No. of Skill Badges Completed": 3,
+        "No. of Arcade Games Completed": 0,
+        "No. of Trivia Games Completed": 0
+    },
+    {
+        "Name": "Nilesh Aggarwal",
+        "Access Code Redemption Status": "\u274c",
+        "Milestone Earned": "\ud83d\udeab",
+        "No. of Skill Badges Completed": 2,
+        "No. of Arcade Games Completed": 0,
+        "No. of Trivia Games Completed": 0
+    },
+    {
+        "Name": "Ajinkya Ravindra Rodge",
+        "Access Code Redemption Status": "\u274c",
+        "Milestone Earned": "\ud83d\udeab",
+        "No. of Skill Badges Completed": 1,
+        "No. of Arcade Games Completed": 0,
+        "No. of Trivia Games Completed": 0
+    },
+    {
+        "Name": "amanpreet singh",
+        "Access Code Redemption Status": "\u274c",
+        "Milestone Earned": "\ud83d\udeab",
+        "No. of Skill Badges Completed": 0,
+        "No. of Arcade Games Completed": 1,
+        "No. of Trivia Games Completed": 1
+    },
+    {
+        "Name": "A. Furqon",
+        "Access Code Redemption Status": "\u274c",
+        "Milestone Earned": "\ud83d\udeab",
+        "No. of Skill Badges Completed": 0,
+        "No. of Arcade Games Completed": 0,
+        "No. of Trivia Games Completed": 0
+    },
+    {
+        "Name": "Abdurrahman Farras Fadhila Triandhono",
+        "Access Code Redemption Status": "\u274c",
+        "Milestone Earned": "\ud83d\udeab",
+        "No. of Skill Badges Completed": 0,
+        "No. of Arcade Games Completed": 0,
+        "No. of Trivia Games Completed": 0
+    },
+    {
+        "Name": "ADITYA CHANDRAKANT KHONDE",
+        "Access Code Redemption Status": "\u274c",
+        "Milestone Earned": "\ud83d\udeab",
+        "No. of Skill Badges Completed": 0,
+        "No. of Arcade Games Completed": 0,
+        "No. of Trivia Games Completed": 0
+    },
+    {
+        "Name": "Aditya Sundar Desai",
+        "Access Code Redemption Status": "\u274c",
+        "Milestone Earned": "\ud83d\udeab",
+        "No. of Skill Badges Completed": 0,
+        "No. of Arcade Games Completed": 0,
+        "No. of Trivia Games Completed": 0
+    },
+    {
+        "Name": "Ajay uttam more",
+        "Access Code Redemption Status": "\u274c",
+        "Milestone Earned": "\ud83d\udeab",
+        "No. of Skill Badges Completed": 0,
+        "No. of Arcade Games Completed": 0,
+        "No. of Trivia Games Completed": 0
+    },
+    {
+        "Name": "Akshay kiran chaudhari",
+        "Access Code Redemption Status": "\u274c",
+        "Milestone Earned": "\ud83d\udeab",
+        "No. of Skill Badges Completed": 0,
+        "No. of Arcade Games Completed": 0,
+        "No. of Trivia Games Completed": 0
+    },
+    {
+        "Name": "Aniket Bhikaji Parankar",
+        "Access Code Redemption Status": "\u274c",
+        "Milestone Earned": "\ud83d\udeab",
+        "No. of Skill Badges Completed": 0,
+        "No. of Arcade Games Completed": 0,
+        "No. of Trivia Games Completed": 0
+    },
+    {
+        "Name": "Anish Mankani",
+        "Access Code Redemption Status": "\u274c",
+        "Milestone Earned": "\ud83d\udeab",
+        "No. of Skill Badges Completed": 0,
+        "No. of Arcade Games Completed": 0,
+        "No. of Trivia Games Completed": 0
+    },
+    {
+        "Name": "Anuj Suryawanshi",
+        "Access Code Redemption Status": "\u274c",
+        "Milestone Earned": "\ud83d\udeab",
+        "No. of Skill Badges Completed": 0,
+        "No. of Arcade Games Completed": 0,
+        "No. of Trivia Games Completed": 0
+    },
+    {
+        "Name": "Arya Sukhadev Mhaskar",
+        "Access Code Redemption Status": "\u274c",
+        "Milestone Earned": "\ud83d\udeab",
+        "No. of Skill Badges Completed": 0,
+        "No. of Arcade Games Completed": 0,
+        "No. of Trivia Games Completed": 0
+    },
+    {
+        "Name": "Atharv Anil Kuthe",
+        "Access Code Redemption Status": "\u274c",
+        "Milestone Earned": "\ud83d\udeab",
+        "No. of Skill Badges Completed": 0,
+        "No. of Arcade Games Completed": 0,
+        "No. of Trivia Games Completed": 0
+    },
+    {
+        "Name": "Atharv Dilip Dashpute",
+        "Access Code Redemption Status": "\u274c",
+        "Milestone Earned": "\ud83d\udeab",
+        "No. of Skill Badges Completed": 0,
+        "No. of Arcade Games Completed": 0,
+        "No. of Trivia Games Completed": 0
+    },
+    {
+        "Name": "Atharva Mahesh Koli",
+        "Access Code Redemption Status": "\u274c",
+        "Milestone Earned": "\ud83d\udeab",
+        "No. of Skill Badges Completed": 0,
+        "No. of Arcade Games Completed": 0,
+        "No. of Trivia Games Completed": 0
+    },
+    {
+        "Name": "Ayush Subhash Mhatre",
+        "Access Code Redemption Status": "\u274c",
+        "Milestone Earned": "\ud83d\udeab",
+        "No. of Skill Badges Completed": 0,
+        "No. of Arcade Games Completed": 0,
+        "No. of Trivia Games Completed": 0
+    },
+    {
+        "Name": "Bhakti Govindrao Dange",
+        "Access Code Redemption Status": "\u274c",
+        "Milestone Earned": "\ud83d\udeab",
+        "No. of Skill Badges Completed": 0,
+        "No. of Arcade Games Completed": 0,
+        "No. of Trivia Games Completed": 0
+    },
+    {
+        "Name": "Bhavesh Sitaphale",
+        "Access Code Redemption Status": "\u274c",
+        "Milestone Earned": "\ud83d\udeab",
+        "No. of Skill Badges Completed": 0,
+        "No. of Arcade Games Completed": 0,
+        "No. of Trivia Games Completed": 0
+    },
+    {
+        "Name": "Dev Jagdish Doshi",
+        "Access Code Redemption Status": "\u274c",
+        "Milestone Earned": "\ud83d\udeab",
+        "No. of Skill Badges Completed": 0,
+        "No. of Arcade Games Completed": 0,
+        "No. of Trivia Games Completed": 0
+    },
+    {
+        "Name": "Dhananjay Metangale",
+        "Access Code Redemption Status": "\u274c",
+        "Milestone Earned": "\ud83d\udeab",
+        "No. of Skill Badges Completed": 0,
+        "No. of Arcade Games Completed": 0,
+        "No. of Trivia Games Completed": 0
+    },
+    {
+        "Name": "Dhruv Patel",
+        "Access Code Redemption Status": "\u274c",
+        "Milestone Earned": "\ud83d\udeab",
+        "No. of Skill Badges Completed": 0,
+        "No. of Arcade Games Completed": 0,
+        "No. of Trivia Games Completed": 0
+    },
+    {
+        "Name": "Dipak Udhav Dakle",
+        "Access Code Redemption Status": "\u274c",
+        "Milestone Earned": "\ud83d\udeab",
+        "No. of Skill Badges Completed": 0,
+        "No. of Arcade Games Completed": 0,
+        "No. of Trivia Games Completed": 0
+    },
+    {
+        "Name": "Divyani Mangesh Shirke",
+        "Access Code Redemption Status": "\u274c",
+        "Milestone Earned": "\ud83d\udeab",
+        "No. of Skill Badges Completed": 0,
+        "No. of Arcade Games Completed": 0,
+        "No. of Trivia Games Completed": 0
+    },
+    {
+        "Name": "Divyanshu Vilas Sindpure",
+        "Access Code Redemption Status": "\u274c",
+        "Milestone Earned": "\ud83d\udeab",
+        "No. of Skill Badges Completed": 0,
+        "No. of Arcade Games Completed": 0,
+        "No. of Trivia Games Completed": 0
+    },
+    {
+        "Name": "Elesh Rodge",
+        "Access Code Redemption Status": "\u274c",
+        "Milestone Earned": "\ud83d\udeab",
+        "No. of Skill Badges Completed": 0,
+        "No. of Arcade Games Completed": 0,
+        "No. of Trivia Games Completed": 0
+    },
+    {
+        "Name": "Faishal Ananta Ridha",
+        "Access Code Redemption Status": "\u274c",
+        "Milestone Earned": "\ud83d\udeab",
+        "No. of Skill Badges Completed": 0,
+        "No. of Arcade Games Completed": 0,
+        "No. of Trivia Games Completed": 0
+    },
+    {
+        "Name": "Faizal Fatih",
+        "Access Code Redemption Status": "\u274c",
+        "Milestone Earned": "\ud83d\udeab",
+        "No. of Skill Badges Completed": 0,
+        "No. of Arcade Games Completed": 0,
+        "No. of Trivia Games Completed": 0
+    },
+    {
+        "Name": "Furqon adila",
+        "Access Code Redemption Status": "\u274c",
+        "Milestone Earned": "\ud83d\udeab",
+        "No. of Skill Badges Completed": 0,
+        "No. of Arcade Games Completed": 0,
+        "No. of Trivia Games Completed": 0
+    },
+    {
+        "Name": "Ganesh Sahebrao Dhange",
+        "Access Code Redemption Status": "\u274c",
+        "Milestone Earned": "\ud83d\udeab",
+        "No. of Skill Badges Completed": 0,
+        "No. of Arcade Games Completed": 0,
+        "No. of Trivia Games Completed": 0
+    },
+    {
+        "Name": "Gaurav Chafle",
+        "Access Code Redemption Status": "\u274c",
+        "Milestone Earned": "\ud83d\udeab",
+        "No. of Skill Badges Completed": 0,
+        "No. of Arcade Games Completed": 0,
+        "No. of Trivia Games Completed": 0
+    },
+    {
+        "Name": "Gayatri Ambadas Vaddepalli",
+        "Access Code Redemption Status": "\u274c",
+        "Milestone Earned": "\ud83d\udeab",
+        "No. of Skill Badges Completed": 0,
+        "No. of Arcade Games Completed": 0,
+        "No. of Trivia Games Completed": 0
+    },
+    {
+        "Name": "Gayatri Girish Juikar",
+        "Access Code Redemption Status": "\u274c",
+        "Milestone Earned": "\ud83d\udeab",
+        "No. of Skill Badges Completed": 0,
+        "No. of Arcade Games Completed": 0,
+        "No. of Trivia Games Completed": 0
+    },
+    {
+        "Name": "Girawale Ritesh",
+        "Access Code Redemption Status": "\u274c",
+        "Milestone Earned": "\ud83d\udeab",
+        "No. of Skill Badges Completed": 0,
+        "No. of Arcade Games Completed": 0,
+        "No. of Trivia Games Completed": 0
+    },
+    {
+        "Name": "Govinda Laxman kokate",
+        "Access Code Redemption Status": "\u274c",
+        "Milestone Earned": "\ud83d\udeab",
+        "No. of Skill Badges Completed": 0,
+        "No. of Arcade Games Completed": 0,
+        "No. of Trivia Games Completed": 0
+    },
+    {
+        "Name": "Hansket Rathod",
+        "Access Code Redemption Status": "\u274c",
+        "Milestone Earned": "\ud83d\udeab",
+        "No. of Skill Badges Completed": 0,
+        "No. of Arcade Games Completed": 0,
+        "No. of Trivia Games Completed": 0
+    },
+    {
+        "Name": "Hanuman Bhagwat Jadhav",
+        "Access Code Redemption Status": "\u274c",
+        "Milestone Earned": "\ud83d\udeab",
+        "No. of Skill Badges Completed": 0,
+        "No. of Arcade Games Completed": 0,
+        "No. of Trivia Games Completed": 0
+    },
+    {
+        "Name": "Harish sanjay bhosale",
+        "Access Code Redemption Status": "\u274c",
+        "Milestone Earned": "\ud83d\udeab",
+        "No. of Skill Badges Completed": 0,
+        "No. of Arcade Games Completed": 0,
+        "No. of Trivia Games Completed": 0
+    },
+    {
+        "Name": "Hexa Sanjaya",
+        "Access Code Redemption Status": "\u274c",
+        "Milestone Earned": "\ud83d\udeab",
+        "No. of Skill Badges Completed": 0,
+        "No. of Arcade Games Completed": 0,
+        "No. of Trivia Games Completed": 0
+    },
+    {
+        "Name": "Jagathesswaran.V",
+        "Access Code Redemption Status": "\u274c",
+        "Milestone Earned": "\ud83d\udeab",
+        "No. of Skill Badges Completed": 0,
+        "No. of Arcade Games Completed": 0,
+        "No. of Trivia Games Completed": 0
+    },
+    {
+        "Name": "JAYESH AVINASH PATIL",
+        "Access Code Redemption Status": "\u274c",
+        "Milestone Earned": "\ud83d\udeab",
+        "No. of Skill Badges Completed": 0,
+        "No. of Arcade Games Completed": 0,
+        "No. of Trivia Games Completed": 0
+    },
+    {
+        "Name": "Junior Kevin Arios",
+        "Access Code Redemption Status": "\u274c",
+        "Milestone Earned": "\ud83d\udeab",
+        "No. of Skill Badges Completed": 0,
+        "No. of Arcade Games Completed": 0,
+        "No. of Trivia Games Completed": 0
+    },
+    {
+        "Name": "Kaif Atik Shaikh",
+        "Access Code Redemption Status": "\u274c",
+        "Milestone Earned": "\ud83d\udeab",
+        "No. of Skill Badges Completed": 0,
+        "No. of Arcade Games Completed": 0,
+        "No. of Trivia Games Completed": 0
+    },
+    {
+        "Name": "Karan Anil Patil",
+        "Access Code Redemption Status": "\u274c",
+        "Milestone Earned": "\ud83d\udeab",
+        "No. of Skill Badges Completed": 0,
+        "No. of Arcade Games Completed": 0,
+        "No. of Trivia Games Completed": 0
+    },
+    {
+        "Name": "KETAN SUNIL PATIL",
+        "Access Code Redemption Status": "\u274c",
+        "Milestone Earned": "\ud83d\udeab",
+        "No. of Skill Badges Completed": 0,
+        "No. of Arcade Games Completed": 0,
+        "No. of Trivia Games Completed": 0
+    },
+    {
+        "Name": "Krish kushwaha",
+        "Access Code Redemption Status": "\u274c",
+        "Milestone Earned": "\ud83d\udeab",
+        "No. of Skill Badges Completed": 0,
+        "No. of Arcade Games Completed": 0,
+        "No. of Trivia Games Completed": 0
+    },
+    {
+        "Name": "Kurniawan Nur Aditya",
+        "Access Code Redemption Status": "\u274c",
+        "Milestone Earned": "\ud83d\udeab",
+        "No. of Skill Badges Completed": 0,
+        "No. of Arcade Games Completed": 0,
+        "No. of Trivia Games Completed": 0
+    },
+    {
+        "Name": "Manasi Pramod Gharat",
+        "Access Code Redemption Status": "\u274c",
+        "Milestone Earned": "\ud83d\udeab",
+        "No. of Skill Badges Completed": 0,
+        "No. of Arcade Games Completed": 0,
+        "No. of Trivia Games Completed": 0
+    },
+    {
+        "Name": "Manvi Meshram",
+        "Access Code Redemption Status": "\u274c",
+        "Milestone Earned": "\ud83d\udeab",
+        "No. of Skill Badges Completed": 0,
+        "No. of Arcade Games Completed": 0,
+        "No. of Trivia Games Completed": 0
+    },
+    {
+        "Name": "Mayur Rajiv Bokan",
+        "Access Code Redemption Status": "\u274c",
+        "Milestone Earned": "\ud83d\udeab",
+        "No. of Skill Badges Completed": 0,
+        "No. of Arcade Games Completed": 0,
+        "No. of Trivia Games Completed": 0
+    },
+    {
+        "Name": "Mayuresh Vikas Patil",
+        "Access Code Redemption Status": "\u274c",
+        "Milestone Earned": "\ud83d\udeab",
+        "No. of Skill Badges Completed": 0,
+        "No. of Arcade Games Completed": 0,
+        "No. of Trivia Games Completed": 0
+    },
+    {
+        "Name": "Mrugendra Ashok Malghe",
+        "Access Code Redemption Status": "\u274c",
+        "Milestone Earned": "\ud83d\udeab",
+        "No. of Skill Badges Completed": 0,
+        "No. of Arcade Games Completed": 0,
+        "No. of Trivia Games Completed": 0
+    },
+    {
+        "Name": "Muhammad Sirojuddin",
+        "Access Code Redemption Status": "\u274c",
+        "Milestone Earned": "\ud83d\udeab",
+        "No. of Skill Badges Completed": 0,
+        "No. of Arcade Games Completed": 0,
+        "No. of Trivia Games Completed": 0
+    },
+    {
+        "Name": "Nikhil Chaitram Baghele",
+        "Access Code Redemption Status": "\u274c",
+        "Milestone Earned": "\ud83d\udeab",
+        "No. of Skill Badges Completed": 0,
+        "No. of Arcade Games Completed": 0,
+        "No. of Trivia Games Completed": 0
+    },
+    {
+        "Name": "Nimish Aniket Patil",
+        "Access Code Redemption Status": "\u274c",
+        "Milestone Earned": "\ud83d\udeab",
+        "No. of Skill Badges Completed": 0,
+        "No. of Arcade Games Completed": 0,
+        "No. of Trivia Games Completed": 0
+    },
+    {
+        "Name": "Nishika Bambal",
+        "Access Code Redemption Status": "\u274c",
+        "Milestone Earned": "\ud83d\udeab",
+        "No. of Skill Badges Completed": 0,
+        "No. of Arcade Games Completed": 0,
+        "No. of Trivia Games Completed": 0
+    },
+    {
+        "Name": "Nithin V",
+        "Access Code Redemption Status": "\u274c",
+        "Milestone Earned": "\ud83d\udeab",
+        "No. of Skill Badges Completed": 0,
+        "No. of Arcade Games Completed": 0,
+        "No. of Trivia Games Completed": 0
+    },
+    {
+        "Name": "Nitin Bhat",
+        "Access Code Redemption Status": "\u274c",
+        "Milestone Earned": "\ud83d\udeab",
+        "No. of Skill Badges Completed": 0,
+        "No. of Arcade Games Completed": 0,
+        "No. of Trivia Games Completed": 0
+    },
+    {
+        "Name": "Om Amol Pokale",
+        "Access Code Redemption Status": "\u274c",
+        "Milestone Earned": "\ud83d\udeab",
+        "No. of Skill Badges Completed": 0,
+        "No. of Arcade Games Completed": 0,
+        "No. of Trivia Games Completed": 0
+    },
+    {
+        "Name": "Om Gajanan Malthane",
+        "Access Code Redemption Status": "\u274c",
+        "Milestone Earned": "\ud83d\udeab",
+        "No. of Skill Badges Completed": 0,
+        "No. of Arcade Games Completed": 0,
+        "No. of Trivia Games Completed": 0
+    },
+    {
+        "Name": "Om Malode",
+        "Access Code Redemption Status": "\u274c",
+        "Milestone Earned": "\ud83d\udeab",
+        "No. of Skill Badges Completed": 0,
+        "No. of Arcade Games Completed": 0,
+        "No. of Trivia Games Completed": 0
+    },
+    {
+        "Name": "Onkar Uttam Hol",
+        "Access Code Redemption Status": "\u274c",
+        "Milestone Earned": "\ud83d\udeab",
+        "No. of Skill Badges Completed": 0,
+        "No. of Arcade Games Completed": 0,
+        "No. of Trivia Games Completed": 0
+    },
+    {
+        "Name": "Onkar Uttam Hol",
+        "Access Code Redemption Status": "\u274c",
+        "Milestone Earned": "\ud83d\udeab",
+        "No. of Skill Badges Completed": 0,
+        "No. of Arcade Games Completed": 0,
+        "No. of Trivia Games Completed": 0
+    },
+    {
+        "Name": "Paco Edward",
+        "Access Code Redemption Status": "\u274c",
+        "Milestone Earned": "\ud83d\udeab",
+        "No. of Skill Badges Completed": 0,
+        "No. of Arcade Games Completed": 0,
+        "No. of Trivia Games Completed": 0
+    },
+    {
+        "Name": "Pranay Chintaman Pinjarkar",
+        "Access Code Redemption Status": "\u274c",
+        "Milestone Earned": "\ud83d\udeab",
+        "No. of Skill Badges Completed": 0,
+        "No. of Arcade Games Completed": 0,
+        "No. of Trivia Games Completed": 0
+    },
+    {
+        "Name": "Pranjali Pratik Patil",
+        "Access Code Redemption Status": "\u274c",
+        "Milestone Earned": "\ud83d\udeab",
+        "No. of Skill Badges Completed": 0,
+        "No. of Arcade Games Completed": 0,
+        "No. of Trivia Games Completed": 0
+    },
+    {
+        "Name": "Punit Santosh Kale",
+        "Access Code Redemption Status": "\u274c",
+        "Milestone Earned": "\ud83d\udeab",
+        "No. of Skill Badges Completed": 0,
+        "No. of Arcade Games Completed": 0,
+        "No. of Trivia Games Completed": 0
+    },
+    {
+        "Name": "R.Harshitha",
+        "Access Code Redemption Status": "\u274c",
+        "Milestone Earned": "\ud83d\udeab",
+        "No. of Skill Badges Completed": 0,
+        "No. of Arcade Games Completed": 0,
+        "No. of Trivia Games Completed": 0
+    },
+    {
+        "Name": "Radhika Sharma",
+        "Access Code Redemption Status": "\u274c",
+        "Milestone Earned": "\ud83d\udeab",
+        "No. of Skill Badges Completed": 0,
+        "No. of Arcade Games Completed": 0,
+        "No. of Trivia Games Completed": 0
+    },
+    {
+        "Name": "Ricco Pandora Rizkullah",
+        "Access Code Redemption Status": "\u274c",
+        "Milestone Earned": "\ud83d\udeab",
+        "No. of Skill Badges Completed": 0,
+        "No. of Arcade Games Completed": 0,
+        "No. of Trivia Games Completed": 0
+    },
+    {
+        "Name": "rishabh srivastav",
+        "Access Code Redemption Status": "\u274c",
+        "Milestone Earned": "\ud83d\udeab",
+        "No. of Skill Badges Completed": 0,
+        "No. of Arcade Games Completed": 0,
+        "No. of Trivia Games Completed": 0
+    },
+    {
+        "Name": "Riyank Ravindra Sarade",
+        "Access Code Redemption Status": "\u274c",
+        "Milestone Earned": "\ud83d\udeab",
+        "No. of Skill Badges Completed": 0,
+        "No. of Arcade Games Completed": 0,
+        "No. of Trivia Games Completed": 0
+    },
+    {
+        "Name": "Rushikesh Nelwade",
+        "Access Code Redemption Status": "\u274c",
+        "Milestone Earned": "\ud83d\udeab",
+        "No. of Skill Badges Completed": 0,
+        "No. of Arcade Games Completed": 0,
+        "No. of Trivia Games Completed": 0
+    },
+    {
+        "Name": "Rutika parekar",
+        "Access Code Redemption Status": "\u274c",
+        "Milestone Earned": "\ud83d\udeab",
+        "No. of Skill Badges Completed": 0,
+        "No. of Arcade Games Completed": 0,
+        "No. of Trivia Games Completed": 0
+    },
+    {
+        "Name": "Sakshi Jagdish Dake",
+        "Access Code Redemption Status": "\u274c",
+        "Milestone Earned": "\ud83d\udeab",
+        "No. of Skill Badges Completed": 0,
+        "No. of Arcade Games Completed": 0,
+        "No. of Trivia Games Completed": 0
+    },
+    {
+        "Name": "Sakshi Vilas Dupare",
+        "Access Code Redemption Status": "\u274c",
+        "Milestone Earned": "\ud83d\udeab",
+        "No. of Skill Badges Completed": 0,
+        "No. of Arcade Games Completed": 0,
+        "No. of Trivia Games Completed": 0
+    },
+    {
+        "Name": "Saloni Mangesh Wadhawal",
+        "Access Code Redemption Status": "\u274c",
+        "Milestone Earned": "\ud83d\udeab",
+        "No. of Skill Badges Completed": 0,
+        "No. of Arcade Games Completed": 0,
+        "No. of Trivia Games Completed": 0
+    },
+    {
+        "Name": "Sameer Bhosale",
+        "Access Code Redemption Status": "\u274c",
+        "Milestone Earned": "\ud83d\udeab",
+        "No. of Skill Badges Completed": 0,
+        "No. of Arcade Games Completed": 0,
+        "No. of Trivia Games Completed": 0
+    },
+    {
+        "Name": "Sandipan Talukdar",
+        "Access Code Redemption Status": "\u274c",
+        "Milestone Earned": "\ud83d\udeab",
+        "No. of Skill Badges Completed": 0,
+        "No. of Arcade Games Completed": 0,
+        "No. of Trivia Games Completed": 0
+    },
+    {
+        "Name": "Sangmeshwar Vaijanath Gurushete",
+        "Access Code Redemption Status": "\u274c",
+        "Milestone Earned": "\ud83d\udeab",
+        "No. of Skill Badges Completed": 0,
+        "No. of Arcade Games Completed": 0,
+        "No. of Trivia Games Completed": 0
+    },
+    {
+        "Name": "satria pratama",
+        "Access Code Redemption Status": "\u274c",
+        "Milestone Earned": "\ud83d\udeab",
+        "No. of Skill Badges Completed": 0,
+        "No. of Arcade Games Completed": 0,
+        "No. of Trivia Games Completed": 0
+    },
+    {
+        "Name": "Saurav Chafle",
+        "Access Code Redemption Status": "\u274c",
+        "Milestone Earned": "\ud83d\udeab",
+        "No. of Skill Badges Completed": 0,
+        "No. of Arcade Games Completed": 0,
+        "No. of Trivia Games Completed": 0
+    },
+    {
+        "Name": "Shaikh ziya anjum shaikh chand",
+        "Access Code Redemption Status": "\u274c",
+        "Milestone Earned": "\ud83d\udeab",
+        "No. of Skill Badges Completed": 0,
+        "No. of Arcade Games Completed": 0,
+        "No. of Trivia Games Completed": 0
+    },
+    {
+        "Name": "Shashank Shirsat",
+        "Access Code Redemption Status": "\u274c",
+        "Milestone Earned": "\ud83d\udeab",
+        "No. of Skill Badges Completed": 0,
+        "No. of Arcade Games Completed": 0,
+        "No. of Trivia Games Completed": 0
+    },
+    {
+        "Name": "Shravani Nandkumar Patil",
+        "Access Code Redemption Status": "\u274c",
+        "Milestone Earned": "\ud83d\udeab",
+        "No. of Skill Badges Completed": 0,
+        "No. of Arcade Games Completed": 0,
+        "No. of Trivia Games Completed": 0
+    },
+    {
+        "Name": "Shreya Patil",
+        "Access Code Redemption Status": "\u274c",
+        "Milestone Earned": "\ud83d\udeab",
+        "No. of Skill Badges Completed": 0,
+        "No. of Arcade Games Completed": 0,
+        "No. of Trivia Games Completed": 0
+    },
+    {
+        "Name": "Shreyash Bhamle",
+        "Access Code Redemption Status": "\u274c",
+        "Milestone Earned": "\ud83d\udeab",
+        "No. of Skill Badges Completed": 0,
+        "No. of Arcade Games Completed": 0,
+        "No. of Trivia Games Completed": 0
+    },
+    {
+        "Name": "Shuaib Musthafa M",
+        "Access Code Redemption Status": "\u274c",
+        "Milestone Earned": "\ud83d\udeab",
         "No. of Skill Badges Completed": 0,
         "No. of Arcade Games Completed": 0,
         "No. of Trivia Games Completed": 0
     },
     {
         "Name": "Shubhangi Vilas Jeve",
-        "Access Code Redemption": "No",
-        "Milestone Earned": "None\ud83d\udcc9",
+        "Access Code Redemption Status": "\u274c",
+        "Milestone Earned": "\ud83d\udeab",
         "No. of Skill Badges Completed": 0,
         "No. of Arcade Games Completed": 0,
         "No. of Trivia Games Completed": 0
     },
     {
         "Name": "Siddhesh Mahesh Chopade",
-        "Access Code Redemption": "No",
-        "Milestone Earned": "None\ud83d\udcc9",
+        "Access Code Redemption Status": "\u274c",
+        "Milestone Earned": "\ud83d\udeab",
         "No. of Skill Badges Completed": 0,
         "No. of Arcade Games Completed": 0,
         "No. of Trivia Games Completed": 0
     },
     {
         "Name": "Siddhi Prakash Kedari",
-        "Access Code Redemption": "No",
-        "Milestone Earned": "None\ud83d\udcc9",
+        "Access Code Redemption Status": "\u274c",
+        "Milestone Earned": "\ud83d\udeab",
         "No. of Skill Badges Completed": 0,
         "No. of Arcade Games Completed": 0,
         "No. of Trivia Games Completed": 0
     },
     {
         "Name": "Smruti Ajit Patange",
-        "Access Code Redemption": "No",
-        "Milestone Earned": "None\ud83d\udcc9",
+        "Access Code Redemption Status": "\u274c",
+        "Milestone Earned": "\ud83d\udeab",
         "No. of Skill Badges Completed": 0,
         "No. of Arcade Games Completed": 0,
         "No. of Trivia Games Completed": 0
     },
     {
         "Name": "Sneha Prafulla Shah",
-        "Access Code Redemption": "No",
-        "Milestone Earned": "None\ud83d\udcc9",
+        "Access Code Redemption Status": "\u274c",
+        "Milestone Earned": "\ud83d\udeab",
         "No. of Skill Badges Completed": 0,
         "No. of Arcade Games Completed": 0,
         "No. of Trivia Games Completed": 0
     },
     {
         "Name": "Snigdha Sanjay Sawant",
-        "Access Code Redemption": "No",
-        "Milestone Earned": "None\ud83d\udcc9",
+        "Access Code Redemption Status": "\u274c",
+        "Milestone Earned": "\ud83d\udeab",
         "No. of Skill Badges Completed": 0,
         "No. of Arcade Games Completed": 0,
         "No. of Trivia Games Completed": 0
     },
     {
         "Name": "Sourabh Vijay Mane",
-        "Access Code Redemption": "No",
-        "Milestone Earned": "None\ud83d\udcc9",
+        "Access Code Redemption Status": "\u274c",
+        "Milestone Earned": "\ud83d\udeab",
         "No. of Skill Badges Completed": 0,
         "No. of Arcade Games Completed": 0,
         "No. of Trivia Games Completed": 0
     },
     {
         "Name": "Srikanth V",
-        "Access Code Redemption": "No",
-        "Milestone Earned": "None\ud83d\udcc9",
+        "Access Code Redemption Status": "\u274c",
+        "Milestone Earned": "\ud83d\udeab",
         "No. of Skill Badges Completed": 0,
         "No. of Arcade Games Completed": 0,
         "No. of Trivia Games Completed": 0
     },
     {
         "Name": "Sudhanshu Prakash Sarode",
-        "Access Code Redemption": "No",
-        "Milestone Earned": "None\ud83d\udcc9",
+        "Access Code Redemption Status": "\u274c",
+        "Milestone Earned": "\ud83d\udeab",
         "No. of Skill Badges Completed": 0,
         "No. of Arcade Games Completed": 0,
         "No. of Trivia Games Completed": 0
     },
     {
         "Name": "Sujit Jayesh Sathe",
-        "Access Code Redemption": "No",
-        "Milestone Earned": "None\ud83d\udcc9",
+        "Access Code Redemption Status": "\u274c",
+        "Milestone Earned": "\ud83d\udeab",
         "No. of Skill Badges Completed": 0,
         "No. of Arcade Games Completed": 0,
         "No. of Trivia Games Completed": 0
     },
     {
         "Name": "Sumit Sanjay Badgujar",
-        "Access Code Redemption": "No",
-        "Milestone Earned": "None\ud83d\udcc9",
+        "Access Code Redemption Status": "\u274c",
+        "Milestone Earned": "\ud83d\udeab",
         "No. of Skill Badges Completed": 0,
         "No. of Arcade Games Completed": 0,
         "No. of Trivia Games Completed": 0
     },
     {
         "Name": "Suraj Khaire",
-        "Access Code Redemption": "No",
-        "Milestone Earned": "None\ud83d\udcc9",
+        "Access Code Redemption Status": "\u274c",
+        "Milestone Earned": "\ud83d\udeab",
         "No. of Skill Badges Completed": 0,
         "No. of Arcade Games Completed": 0,
         "No. of Trivia Games Completed": 0
     },
     {
         "Name": "Surjeetsinh Nandkumar Thakur",
-        "Access Code Redemption": "No",
-        "Milestone Earned": "None\ud83d\udcc9",
+        "Access Code Redemption Status": "\u274c",
+        "Milestone Earned": "\ud83d\udeab",
         "No. of Skill Badges Completed": 0,
         "No. of Arcade Games Completed": 0,
         "No. of Trivia Games Completed": 0
     },
     {
         "Name": "Syukron",
-        "Access Code Redemption": "No",
-        "Milestone Earned": "None\ud83d\udcc9",
+        "Access Code Redemption Status": "\u274c",
+        "Milestone Earned": "\ud83d\udeab",
         "No. of Skill Badges Completed": 0,
         "No. of Arcade Games Completed": 0,
         "No. of Trivia Games Completed": 0
     },
     {
         "Name": "Trupti Shivaji Kangane",
-        "Access Code Redemption": "No",
-        "Milestone Earned": "None\ud83d\udcc9",
+        "Access Code Redemption Status": "\u274c",
+        "Milestone Earned": "\ud83d\udeab",
         "No. of Skill Badges Completed": 0,
         "No. of Arcade Games Completed": 0,
         "No. of Trivia Games Completed": 0
     },
     {
         "Name": "Vaibhav Prabhakar Mandwe",
-        "Access Code Redemption": "No",
-        "Milestone Earned": "None\ud83d\udcc9",
+        "Access Code Redemption Status": "\u274c",
+        "Milestone Earned": "\ud83d\udeab",
         "No. of Skill Badges Completed": 0,
         "No. of Arcade Games Completed": 0,
         "No. of Trivia Games Completed": 0
     },
     {
         "Name": "Vikrant Rajput",
-        "Access Code Redemption": "No",
-        "Milestone Earned": "None\ud83d\udcc9",
+        "Access Code Redemption Status": "\u274c",
+        "Milestone Earned": "\ud83d\udeab",
         "No. of Skill Badges Completed": 0,
         "No. of Arcade Games Completed": 0,
         "No. of Trivia Games Completed": 0
     },
     {
         "Name": "Vivek Santosh Pakhare",
-        "Access Code Redemption": "No",
-        "Milestone Earned": "None\ud83d\udcc9",
+        "Access Code Redemption Status": "\u274c",
+        "Milestone Earned": "\ud83d\udeab",
         "No. of Skill Badges Completed": 0,
         "No. of Arcade Games Completed": 0,
         "No. of Trivia Games Completed": 0
     },
     {
         "Name": "Vivek sarkar",
-        "Access Code Redemption": "No",
-        "Milestone Earned": "None\ud83d\udcc9",
+        "Access Code Redemption Status": "\u274c",
+        "Milestone Earned": "\ud83d\udeab",
         "No. of Skill Badges Completed": 0,
         "No. of Arcade Games Completed": 0,
         "No. of Trivia Games Completed": 0
     },
     {
         "Name": "Vivekanand Jaybhaye",
-        "Access Code Redemption": "No",
-        "Milestone Earned": "None\ud83d\udcc9",
+        "Access Code Redemption Status": "\u274c",
+        "Milestone Earned": "\ud83d\udeab",
         "No. of Skill Badges Completed": 0,
         "No. of Arcade Games Completed": 0,
         "No. of Trivia Games Completed": 0
     },
     {
         "Name": "Vrishali Sanjay Jadhav",
-        "Access Code Redemption": "No",
-        "Milestone Earned": "None\ud83d\udcc9",
+        "Access Code Redemption Status": "\u274c",
+        "Milestone Earned": "\ud83d\udeab",
         "No. of Skill Badges Completed": 0,
         "No. of Arcade Games Completed": 0,
         "No. of Trivia Games Completed": 0
     },
     {
         "Name": "Xamroner Yudha",
-        "Access Code Redemption": "No",
-        "Milestone Earned": "None\ud83d\udcc9",
+        "Access Code Redemption Status": "\u274c",
+        "Milestone Earned": "\ud83d\udeab",
         "No. of Skill Badges Completed": 0,
         "No. of Arcade Games Completed": 0,
         "No. of Trivia Games Completed": 0
     },
     {
         "Name": "Yash Arun Tondlekar",
-        "Access Code Redemption": "No",
-        "Milestone Earned": "None\ud83d\udcc9",
+        "Access Code Redemption Status": "\u274c",
+        "Milestone Earned": "\ud83d\udeab",
         "No. of Skill Badges Completed": 0,
         "No. of Arcade Games Completed": 0,
         "No. of Trivia Games Completed": 0
     },
     {
         "Name": "Yash Rajesh Sakhare",
-        "Access Code Redemption": "No",
-        "Milestone Earned": "None\ud83d\udcc9",
+        "Access Code Redemption Status": "\u274c",
+        "Milestone Earned": "\ud83d\udeab",
         "No. of Skill Badges Completed": 0,
         "No. of Arcade Games Completed": 0,
         "No. of Trivia Games Completed": 0
     },
     {
         "Name": "Yashvardhan Janardhan Mokase",
-        "Access Code Redemption": "No",
-        "Milestone Earned": "None\ud83d\udcc9",
+        "Access Code Redemption Status": "\u274c",
+        "Milestone Earned": "\ud83d\udeab",
         "No. of Skill Badges Completed": 0,
         "No. of Arcade Games Completed": 0,
         "No. of Trivia Games Completed": 0
