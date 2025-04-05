@@ -10,7 +10,7 @@
   },
   {
     "id": 2,
-    "name": "Application Development",
+    "name": "Application Development - Level 1",
     "icon": "fas fa-code",
     "difficulty": "intermediate",
     "difficultyText": "Intermediate",
@@ -19,7 +19,7 @@
   },
   {
     "id": 3,
-    "name": "API Capstone",
+    "name": "API Capstone - Level 2",
     "icon": "fas fa-layer-group",
     "difficulty": "advanced",
     "difficultyText": "Advanced",
@@ -28,7 +28,16 @@
   },
   {
     "id": 4,
-    "name": "Trivia Challenge",
+    "name": "The Arcade Quiz - Level 3",
+    "icon": "fas fa-question-circle",
+    "difficulty": "beginner",
+    "difficultyText": "Beginner",
+    "link": "https://www.cloudskillsboost.google/games/6063?utm_source=qwiklabs&utm_medium=lp&utm_campaign=level3-April-arcade25",
+    "code": "1q-equiz-40233"
+  },
+  {
+    "id": 5,
+    "name": "Trivia Challenge - Week 1",
     "icon": "fas fa-question-circle",
     "difficulty": "beginner",
     "difficultyText": "Beginner",
