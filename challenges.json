@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "name": "Basecamp Arcade",
+    "icon": "fas fa-gamepad",
+    "difficulty": "beginner",
+    "difficultyText": "Beginner",
+    "link": "https://www.cloudskillsboost.google/games/6059?utm_source=qwiklabs&utm_medium=lp&utm_campaign=basecamp-April-arcade25",
+    "code": "1q-basecamp-9932"
+  },
+  {
+    "id": 2,
+    "name": "Application Development",
+    "icon": "fas fa-code",
+    "difficulty": "intermediate",
+    "difficultyText": "Intermediate",
+    "link": "https://www.cloudskillsboost.google/games/6064?utm_source=qwiklabs&utm_medium=lp&utm_campaign=level1-April-arcade25",
+    "code": "1q-appdevscr-4912"
+  },
+  {
+    "id": 3,
+    "name": "API Capstone",
+    "icon": "fas fa-layer-group",
+    "difficulty": "advanced",
+    "difficultyText": "Advanced",
+    "link": "https://www.cloudskillsboost.google/games/6065?utm_source=qwiklabs&utm_medium=lp&utm_campaign=level2-April-arcade25",
+    "code": "1q-apicap-10000"
+  },
+  {
+    "id": 4,
+    "name": "Trivia Challenge",
+    "icon": "fas fa-question-circle",
+    "difficulty": "beginner",
+    "difficultyText": "Beginner",
+    "link": "https://www.cloudskillsboost.google/games/6058?utm_source=qwiklabs&utm_medium=lp&utm_campaign=arcade25-April-trivia",
+    "code": "1q-trivia-01202"
+  }
+] 

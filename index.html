@@ -3,84 +3,373 @@
 
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Arcade facilitator 24 - Leaderboard</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <meta name="description" content="Arcade Facilitator 24 Leaderboard - Track your progress and compete with others">
+    <title>Arcade Facilitator 24 - Leaderboard</title>
     <link rel="icon" href="logo.png" type="image/x-icon">
-
     <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
 </head>
 
-<body>
-    <h4 style="background-color: rgb(0, 3, 38); color: #ffc400; margin: auto; text-align: center; padding: 1rem;">Arcade
-        Facilitator 24 - Leaderboard</h4>
-    <nav class="w-full  shadow-md relative ">
-        <div class="navbar">
-            <div class="nav-logo">
-                <div class="img w-16 h-1w-16 rounded-full ">
-                    <img alt="me" loading="lazy" width="45" height="25" decoding="async" data-nimg="1"
-                        style="color:transparent" style="padding: 2px; margin: 2px;" srcset="" src="logo.png">
-                </div>
-                <div class="text flex flex-col justify-start items-start">
-                    <p class="text-base " style="padding-inline: 5px; font-size: 1rem;">Google Developer Group
-                    </p>
-                    <p class="text-xs" style="font-size: 0.6rem; "> <!-- -->Dr.Babasaheb Ambedkar Technological
-                        University</p>
-                </div>
+<body class="home-page">
+    <header>
+        <h4>Arcade Facilitator'25(C1) - Leaderboard</h4>
+    </header>
+
+    <nav class="navbar" role="navigation" aria-label="Main navigation">
+        <div class="nav-brand">
+            <div class="brand-logo">
+                <img src="logo.png" alt="GDSC Logo" width="45" height="25" loading="lazy">
             </div>
-            <div class="nav-logo">
-                <div class="img">
-                    <a href="https://rsvp.withgoogle.com/events/arcade-facilitator/" target="_blank"><img alt="me"
-                            loading="lazy" width="45" height="35" decoding="async" data-nimg="1"
-                            style="color:transparent" style="padding: 2px; margin: 2px;" srcset="" src="arcadean.png"></a>
-                </div>
-                <div class="img">
-                    <a href="https://www.linkedin.com/in/google-developer-students-club-dbatu-359325300/"
-                        target="_blank"><img alt="me" loading="lazy" width="35" height="35" decoding="async"
-                            data-nimg="1" style="color:transparent" style="padding: 2px; margin: 2px;" srcset=""
-                            src="link.png"></a>
-                </div>
-                <div class="img">
-                    <a href="https://www.instagram.com/gdsc_dbatu/" target="_blank"><img alt="me" loading="lazy"
-                            width="35" height="35" decoding="async" data-nimg="1" style="color:transparent"
-                            style="padding: 2px; margin: 2px;" srcset="" src="insta.png"></a>
-                </div>
+            <div class="brand-text">
+                <h2 class="brand-title">Google Developer Group</h2>
+                <p class="brand-subtitle">Dr. Babasaheb Ambedkar Technological University</p>
             </div>
+        </div>
+        <div class="hamburger-menu" aria-label="Menu toggle" role="button" tabindex="0">
+            <div></div>
+            <div></div>
+            <div></div>
+        </div>
+        <div class="nav-links">
+            <a href="index.html" class="nav-link active">Home</a>
+            <a href="process.html" class="nav-link">Process Guide</a>
+        </div>
+        <div class="nav-social">
+            <a href="https://rsvp.withgoogle.com/events/arcade-facilitator/" class="social-link" target="_blank" rel="noopener noreferrer" title="RSVP for the event">
+                <img src="arcadean.png" alt="Arcade Event" width="45" height="35" loading="lazy">
+            </a>
+            <a href="https://www.linkedin.com/in/google-developer-students-club-dbatu-359325300/" class="social-link" target="_blank" rel="noopener noreferrer" title="Follow us on LinkedIn">
+                <img src="link.png" alt="LinkedIn" width="35" height="35" loading="lazy">
+            </a>
+            <a href="https://www.instagram.com/gdsc_dbatu/" class="social-link" target="_blank" rel="noopener noreferrer" title="Follow us on Instagram">
+                <img src="insta.png" alt="Instagram" width="35" height="35" loading="lazy">
+            </a>
         </div>
     </nav>
-    <div class="container">
-        <div class="note"
-            style="text-align: center; margin-bottom: 4vh; color: rgba(5, 0, 56, 0.7); font-family:Arial, Helvetica, sans-serif ">
-        <p style="font-weight: bold;"> 🏆Cloud Superstars Assemble!</p>
-            <p> Our top skill badge earners are a force to be reckoned with. Join the ranks of the elite. ⚡</p>
-        </div>
-        <div class="search-container">
-            <input type="text" id="search-input" placeholder="Search...">
-            <button onclick="searchTable()">Search</button>
-        </div>
-        <div class="box">
 
-            <table id="data-table">
-                <thead>
-                    <tr id="table-header">
-                        <th>Sr. No.</th>
-                        <!-- Table headers will be populated by JavaScript -->
-                    </tr>
-                </thead>
-                <tbody id="table-body">
-                    <!-- Table body will be populated by JavaScript -->
-                </tbody>
-            </table>
-        </div>
-    </div>
-    <div class="cp"
-        style="background-color: rgb(0, 3, 38); color: #ffffff; margin: auto; text-align: center; padding: 1rem; bottom: 0;">
-        © 2024
-        Copyright:DBATU-GDSC</div>
+    <main class="container" role="main">
+        <!-- <section class="note" aria-label="Announcement">
+            <p><i class="fas fa-trophy" aria-hidden="true"></i> Cloud Superstars Assemble!</p>
+            <p>Our top skill badge earners are a force to be reckoned with. Join the ranks of the elite. <i class="fas fa-bolt" aria-hidden="true"></i></p>
+        </section> -->
+
+        
+
+        <!-- Pro Tips Section -->
+        <section class="tips-section" aria-label="Pro tips section">
+            <div class="tips-header">
+                <h2><i class="fas fa-lightbulb"></i> Beginner's Guide: How to Succeed</h2>
+            </div>
+            <div class="tips-content">
+                <h3>Follow these simple steps to maximize your progress:</h3>
+                <ol class="tips-list">
+                    <li>
+                        <h4><i class="fas fa-check-circle"></i> Start with Arcade Games & Trivia</h4>
+                        <p><strong>WHY:</strong> These have monthly deadlines and are easier to complete.</p>
+                        <p><strong>WHAT TO DO:</strong> Complete all 4 challenges above first before working on skill badges.</p>
+                    </li>
+                    <li>
+                        <h4><i class="fas fa-bell"></i> Check for Special Games Daily</h4>
+                        <p><strong>WHY:</strong> Special games like Certification Zone appear randomly during the month.</p>
+                        <p><strong>WHAT TO DO:</strong> Visit <a href="https://go.cloudskillsboost.google/arcade" target="_blank">Skills Boost Arcade</a> daily to catch these special games.</p>
+                    </li>
+                    <li>
+                        <h4><i class="fas fa-book"></i> Use Lab-Free Courses When Limited</h4>
+                        <p><strong>WHY:</strong> You can only do a certain number of labs before getting a cooldown period (2 hours).</p>
+                        <p><strong>WHAT TO DO:</strong> If you hit your lab limit, switch to <a href="https://rsvp.withgoogle.com/events/arcade-facilitator/syllabus" target="_blank">lab-free courses</a> to keep making progress.</p>
+                    </li>
+                </ol>
+                <div class="warning-note">
+                    <p><i class="fas fa-exclamation-triangle"></i> <strong>IMPORTANT:</strong> If you see a warning about reaching your lab limit, focus on skill badges instead of continuing with labs.</p>
+                </div>
+            </div>
+        </section>
 
 
-    <div id="tooltip" class="tooltip hidden"></div>
+        <!-- Milestone Rewards Section -->
+        <section class="milestone-section" aria-label="Milestone rewards section">
+            <div class="milestone-header">
+                <h2><i class="fas fa-medal"></i> How to Earn Arcade Points</h2>
+            </div>
+            <div class="milestone-content">
+                <p>Complete a combination of Arcade Games, Trivia Games, Skill Badges, and Lab-Free Courses to reach milestones and claim bonus points!</p>
+                
+                <div class="milestone-table">
+                    <h3>Milestone Rewards:</h3>
+                    <div class="milestone-row">
+                        <div class="milestone-details">
+                            <div class="milestone-requirements">
+                                <span class="req-item"><i class="fas fa-gamepad"></i> 4 Arcade</span>
+                                <span class="req-item"><i class="fas fa-question-circle"></i> 4 Trivia</span>
+                                <span class="req-item"><i class="fas fa-certificate"></i> 10 Skill Badges</span>
+                                <span class="req-item"><i class="fas fa-book"></i> 4 Courses</span>
+                            </div>
+                            <div class="milestone-reward">
+                                <span class="reward-points">15</span>
+                                <span class="reward-label">Arcade Points</span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="milestone-row">
+                        <div class="milestone-details">
+                            <div class="milestone-requirements">
+                                <span class="req-item"><i class="fas fa-gamepad"></i> 6 Arcade</span>
+                                <span class="req-item"><i class="fas fa-question-circle"></i> 6 Trivia</span>
+                                <span class="req-item"><i class="fas fa-certificate"></i> 20 Skill Badges</span>
+                                <span class="req-item"><i class="fas fa-book"></i> 8 Courses</span>
+                            </div>
+                            <div class="milestone-reward">
+                                <span class="reward-points">30</span>
+                                <span class="reward-label">Arcade Points</span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="milestone-row">
+                        <div class="milestone-details">
+                            <div class="milestone-requirements">
+                                <span class="req-item"><i class="fas fa-gamepad"></i> 8 Arcade</span>
+                                <span class="req-item"><i class="fas fa-question-circle"></i> 7 Trivia</span>
+                                <span class="req-item"><i class="fas fa-certificate"></i> 30 Skill Badges</span>
+                                <span class="req-item"><i class="fas fa-book"></i> 12 Courses</span>
+                            </div>
+                            <div class="milestone-reward">
+                                <span class="reward-points">45</span>
+                                <span class="reward-label">Arcade Points</span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="milestone-row ultimate">
+                        <div class="milestone-crown"><i class="fas fa-crown"></i></div>
+                        <div class="milestone-details">
+                            <div class="milestone-label">
+                                <span class="ultimate-badge">Ultimate Milestone</span>
+                            </div>
+                            <div class="milestone-requirements">
+                                <span class="req-item"><i class="fas fa-gamepad"></i> 10 Arcade</span>
+                                <span class="req-item"><i class="fas fa-question-circle"></i> 8 Trivia</span>
+                                <span class="req-item"><i class="fas fa-certificate"></i> 44 Skill Badges</span>
+                                <span class="req-item"><i class="fas fa-book"></i> 16 Courses</span>
+                            </div>
+                            <div class="milestone-reward ultimate-reward">
+                                <span class="reward-points">65</span>
+                                <span class="reward-label">Arcade Points</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="milestone-note">
+                    <p><i class="fas fa-lightbulb"></i> <strong>Note:</strong> You will only receive points for the highest milestone you achieve!</p>
+                </div>
+                
+                <div class="enrollment-warning">
+                    <p><i class="fas fa-clock"></i> <strong>Seats are limited</strong>, so enroll and complete the games ASAP!</p>
+                </div>
+            </div>
+        </section>
+
+        <!-- Weekly Challenge Section - URGENT ACTION REQUIRED -->
+        <section class="challenge-section" aria-label="Current challenge section">
+            <div class="challenge-header">
+                <h2><i class="fas fa-exclamation-circle" aria-hidden="true"></i> URGENT: Weekly Challenge</h2>
+                <p class="challenge-deadline">⏰ Deadline: End of this week</p>
+            </div>
+            <div class="challenge-description">
+                <p>Complete these <strong>four Google Cloud Skills Boost games</strong> before the end of this week. Each game helps you earn points toward your milestone!</p>
+                <div class="step-box info-box">
+                    <div class="step-number info-number">1</div>
+                    <div class="step-content">
+                        <h4>How to complete each challenge:</h4>
+                        <ol class="simple-steps">
+                            <li>Click the "Access Challenge" button</li>
+                            <li>Copy the code by clicking the copy icon <i class="fas fa-copy"></i></li>
+                            <li>Paste the code when prompted on the challenge site</li>
+                            <li>Complete all activities in the challenge</li>
+                        </ol>
+                    </div>
+                </div>
+            </div>
+            <div class="challenges-container" id="challenges-container">
+                <!-- Challenges will be populated from challenges.json -->
+            </div>
+            <div class="facilitators-note">
+                <p><i class="fas fa-user-check"></i> Need help? Contact Facilitators: Aman & Bhushan</p>
+                <p>We're here to guide you through any challenges you face!</p>
+            </div>
+        </section>
+
+        
+
+        <!-- Skill Badges Section -->
+        <section class="badges-section" aria-label="Skill badges section">
+            <div class="badges-header">
+                <h2><i class="fas fa-award"></i> Required Skill Badges</h2>
+            </div>
+            <div class="badges-content">
+                <p>After completing the weekly challenges, work on these skill badges to earn milestone points:</p>
+                <div class="step-box info-box">
+                    <div class="step-number info-number">2</div>
+                    <div class="step-content">
+                        <h4>How to complete skill badges:</h4>
+                        <ol class="simple-steps">
+                            <li>Click the button below to see all required skill badges</li>
+                            <li>Start with the badges marked as "Beginner"</li>
+                            <li>Complete at least 30 skill badges to reach Milestone 3</li>
+                            <li>Complete at least 44 skill badges to reach Ultimate Milestone</li>
+                        </ol>
+                    </div>
+                </div>
+                <div class="badges-link">
+                    <a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vTUcQ3I5f35DsVKV6EIS4XX55QMvKBM5BZyCA19bZcjS3_zRBlHRRA1cBi0iVvA9OjD9Qi4aC13oDyh/pubhtml?gid=410947376&single=true" target="_blank" class="skill-badges-button">
+                        <i class="fas fa-external-link-alt"></i> View All Required Skill Badges
+                    </a>
+                </div>
+                <p class="badges-note">The more badges you complete, the higher you'll climb on the leaderboard! <i class="fas fa-trophy"></i></p>
+            </div>
+        </section>
+        
+
+        <!-- Important Update Section -->
+        <section class="update-section" aria-label="Important update section">
+            <div class="update-header">
+                <h2><i class="fas fa-exclamation-circle"></i> Important Update!</h2>
+            </div>
+            <div class="update-content">
+                <p>Registration is now closed</p>
+                <p>All available slots have been filled. No new participants can register at this time.</p>
+                <div class="step-box info-box">
+                    <div class="step-number info-number">!</div>
+                    <div class="step-content">
+                        <h4>Already registered but no confirmation?</h4>
+                        <p>If you registered but haven't received an email within 24 hours, please contact: <a href="mailto:arcade-facilitator@google.com">arcade-facilitator@google.com</a></p>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section class="registration-section" aria-label="Registration section">
+            <div class="registration-content">
+                <h2><i class="fas fa-user-plus" aria-hidden="true"></i> Register for Arcade Facilitator Program</h2>
+                <div class="registration-closed-banner">
+                    <i class="fas fa-exclamation-circle"></i>
+                    <div class="closed-message">
+                        <h3>REGISTRATION CLOSED</h3>
+                        <p>All available slots have been filled.</p>
+                    </div>
+                </div>
+                <div class="instructions disabled">
+                    <h3>How to Register:</h3>
+                    <ol>
+                        <li>Click the "Register Now" button below</li>
+                        <li>Fill out the registration form with your details</li>
+                        <li>Enter your referral code: 
+                            <span class="referral-code">
+                                <span id="referral-code-text">GCAF25C1-IN-CM5-JP6</span>
+                                <button class="copy-button" onclick="copyReferralCode()" aria-label="Copy referral code" disabled>
+                                    <i class="fas fa-copy"></i>
+                                </button>
+                            </span>
+                        </li>
+                        <li>Submit the form and wait for confirmation</li>
+                    </ol>
+                </div>
+                <div class="registration-actions">
+                    <button class="register-button disabled" disabled>
+                        <i class="fas fa-ban" aria-hidden="true"></i> Registration Closed
+                    </button>
+                    <p class="registration-note">
+                        Already registered but didn't receive confirmation? Contact <a href="mailto:arcade-facilitator@google.com">arcade-facilitator@google.com</a>
+                        <br><br>
+                        <a href="process.html" class="process-link"><i class="fas fa-arrow-right"></i> View detailed Step-by-Step Process Guide</a>
+                    </p>
+                </div>
+            </div>
+        </section>
+
+        <section class="search-container" aria-label="Search section">
+            <input type="text" id="search-input" placeholder="Search participants..." aria-label="Search participants">
+            <button onclick="searchTable()" aria-label="Search">
+                <i class="fas fa-search" aria-hidden="true"></i> Search
+            </button>
+        </section>
+
+        <section class="box" role="region" aria-label="Leaderboard table">
+            <div class="table-wrapper">
+                <table id="data-table" role="grid">
+                    <thead>
+                        <tr id="table-header">
+                            <th scope="col">Sr. No.</th>
+                            <!-- Table headers will be populated by JavaScript -->
+                        </tr>
+                    </thead>
+                    <tbody id="table-body">
+                        <!-- Table body will be populated by JavaScript -->
+                    </tbody>
+                </table>
+            </div>
+        </section>
+    </main>
+
+    <footer class="cp" role="contentinfo">
+        <p>© 2025 Copyright: DBATU-GDG</p>
+    </footer>
+
+    <div id="tooltip" class="tooltip hidden" role="tooltip"></div>
     <script src="script.js"></script>
-
+    
+    <!-- Hamburger Menu JavaScript -->
+    <script>
+        // Hamburger menu functionality
+        const hamburgerMenu = document.querySelector('.hamburger-menu');
+        const navLinks = document.querySelector('.nav-links');
+        const navSocial = document.querySelector('.nav-social');
+        const body = document.body;
+        
+        // Toggle menu when clicking hamburger icon
+        hamburgerMenu.addEventListener('click', function() {
+            this.classList.toggle('active');
+            navLinks.classList.toggle('active');
+            navSocial.classList.toggle('active');
+            body.classList.toggle('menu-open');
+        });
+        
+        // Close menu when clicking on links
+        document.querySelectorAll('.nav-link').forEach(link => {
+            link.addEventListener('click', function() {
+                hamburgerMenu.classList.remove('active');
+                navLinks.classList.remove('active');
+                navSocial.classList.remove('active');
+                body.classList.remove('menu-open');
+            });
+        });
+        
+        // Close menu when clicking outside
+        document.addEventListener('click', function(event) {
+            if ((navLinks.classList.contains('active') || navSocial.classList.contains('active')) && 
+                !navLinks.contains(event.target) && 
+                !hamburgerMenu.contains(event.target) &&
+                !navSocial.contains(event.target)) {
+                hamburgerMenu.classList.remove('active');
+                navLinks.classList.remove('active');
+                navSocial.classList.remove('active');
+                body.classList.remove('menu-open');
+            }
+        });
+        
+        // For smooth scrolling to anchors
+        document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+            anchor.addEventListener('click', function(e) {
+                e.preventDefault();
+                const targetElement = document.querySelector(this.getAttribute('href'));
+                if (targetElement) {
+                    targetElement.scrollIntoView({
+                        behavior: 'smooth'
+                    });
+                }
+            });
+        });
+    </script>
 </body>
 
 </html>
