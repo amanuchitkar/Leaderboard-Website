@@ -1,6 +1,15 @@
 [
   {
     "id": 1,
+    "name": "TechCare - Points:2",
+    "icon": "fas fa-gamepad",
+    "difficulty": "intermediate",
+    "difficultyText": "Intermediate",
+    "link": "https://www.cloudskillsboost.google/games/6080?utm_source=qwiklabs&utm_medium=lp&utm_campaign=special-April-arcade25",
+    "code": "1q-techcare-0326"
+  },
+  {
+    "id": 2,
     "name": "Basecamp Arcade",
     "icon": "fas fa-gamepad",
     "difficulty": "beginner",
@@ -9,7 +18,7 @@
     "code": "1q-basecamp-9932"
   },
   {
-    "id": 2,
+    "id": 3,
     "name": "Application Development - Level 1",
     "icon": "fas fa-code",
     "difficulty": "intermediate",
@@ -18,7 +27,7 @@
     "code": "1q-appdevscr-4912"
   },
   {
-    "id": 3,
+    "id": 4,
     "name": "API Capstone - Level 2",
     "icon": "fas fa-layer-group",
     "difficulty": "advanced",
@@ -27,7 +36,7 @@
     "code": "1q-apicap-10000"
   },
   {
-    "id": 4,
+    "id": 5,
     "name": "The Arcade Quiz - Level 3",
     "icon": "fas fa-question-circle",
     "difficulty": "beginner",
@@ -36,12 +45,21 @@
     "code": "1q-equiz-40233"
   },
   {
-    "id": 5,
+    "id": 6,
     "name": "Trivia Challenge - Week 1",
     "icon": "fas fa-question-circle",
     "difficulty": "beginner",
     "difficultyText": "Beginner",
     "link": "https://www.cloudskillsboost.google/games/6058?utm_source=qwiklabs&utm_medium=lp&utm_campaign=arcade25-April-trivia",
     "code": "1q-trivia-01202"
+  },
+  {
+    "id": 7,
+    "name": "Trivia Challenge - Week 2",
+    "icon": "fas fa-question-circle",
+    "difficulty": "beginner",
+    "difficultyText": "Beginner",
+    "link": "https://www.cloudskillsboost.google/games/6079?utm_source=qwiklabs&utm_medium=lp&utm_campaign=arcade25-April-trivia",
+    "code": "1q-trivia-04122"
   }
 ] 
