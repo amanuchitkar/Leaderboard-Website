@@ -192,11 +192,23 @@ function searchTable() {
     const rows = tableBody.getElementsByTagName('tr');
     let visibleCount = 0;
 
+    // Remove existing no results message if it exists
+    const existingMessage = document.querySelector('.no-results-message');
+    if (existingMessage) {
+        existingMessage.remove();
+    }
+
+    // Hide all rows first
+    for (let i = 0; i < rows.length; i++) {
+        rows[i].style.display = 'none';
+    }
+
+    // Show matching rows
     for (let i = 0; i < rows.length; i++) {
         let cells = rows[i].getElementsByTagName('td');
         let rowContainsQuery = false;
         
-        // Skip the Sr. No. column in search
+        // Skip the Sr. No. column in search (index 0)
         for (let j = 1; j < cells.length; j++) {
             const cellText = cells[j].textContent.toLowerCase();
             if (cellText.includes(input)) {
@@ -208,27 +220,63 @@ function searchTable() {
         if (rowContainsQuery) {
             rows[i].style.display = '';
             visibleCount++;
-        } else {
-            rows[i].style.display = 'none';
         }
     }
 
-    // Show "No results found" message if needed
-    const noResultsMessage = document.getElementById('no-results-message');
-    if (!noResultsMessage) {
-        const message = document.createElement('div');
-        message.id = 'no-results-message';
-        message.className = 'no-results';
-        message.textContent = 'No results found';
-        tableBody.appendChild(message);
+    // Show no results message if no matches found
+    if (visibleCount === 0 && input !== '') {
+        const noResultsMessage = document.createElement('div');
+        noResultsMessage.className = 'no-results-message';
+        noResultsMessage.innerHTML = `
+            <i class="fas fa-search"></i>
+            <h3>No Results Found</h3>
+            <p>We couldn't find any matches for "${input}"</p>
+            <div class="suggestions">
+                <strong>Search Tips:</strong>
+                <ul>
+                    <li>Check for spelling errors</li>
+                    <li>Try using fewer keywords</li>
+                    <li>Try searching by first name or last name only</li>
+                    <li>Try searching by status (e.g., "Yes" or "No")</li>
+                </ul>
+            </div>
+        `;
+        
+        // Insert the message after the table
+        const tableWrapper = document.querySelector('.table-wrapper');
+        tableWrapper.parentNode.insertBefore(noResultsMessage, tableWrapper.nextSibling);
+        
+        // Animate the message
+        setTimeout(() => {
+            noResultsMessage.classList.add('visible');
+        }, 10);
     }
 
-    if (visibleCount === 0) {
-        document.getElementById('no-results-message').style.display = '';
+    // Update table header with result count
+    updateResultCount(visibleCount, rows.length);
+}
+
+// Function to update result count
+function updateResultCount(visibleCount, totalCount) {
+    const searchInput = document.getElementById('search-input');
+    if (searchInput.value.trim() !== '') {
+        searchInput.setAttribute('placeholder', `Showing ${visibleCount} of ${totalCount} entries`);
     } else {
-        document.getElementById('no-results-message').style.display = 'none';
+        searchInput.setAttribute('placeholder', 'Search participants...');
     }
 }
+
+// Add event listener for real-time search
+document.getElementById('search-input').addEventListener('input', function(e) {
+    searchTable();
+});
+
+// Clear search when input is cleared
+document.getElementById('search-input').addEventListener('search', function(e) {
+    if (this.value === '') {
+        searchTable();
+    }
+});
 
 // Function to copy referral code to clipboard
 function copyReferralCode() {
@@ -320,3 +368,4 @@ function copyToClipboard(text) {
         document.body.removeChild(textArea);
     });
 }
+
