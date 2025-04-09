@@ -3198,4 +3198,72 @@ tr.highlight td {
 .leader-card:nth-child(3) {
     animation-delay: 0.4s;
 }
+
+/* No data message in leaderboard */
+.no-data-message {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 2rem 1rem;
+    text-align: center;
+    color: #7f8c8d;
+    background: rgba(0, 0, 0, 0.02);
+    border-radius: 10px;
+}
+
+.no-data-message i {
+    font-size: 2rem;
+    margin-bottom: 1rem;
+    opacity: 0.6;
+}
+
+.no-data-message p {
+    margin: 0;
+    font-size: 0.95rem;
+}
+
+/* Loading spinner for leaderboard */
+.loading-spinner {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 2rem;
+    text-align: center;
+    color: #1a237e;
+}
+
+.loading-spinner i {
+    font-size: 2rem;
+    margin-bottom: 1rem;
+    opacity: 0.7;
+    color: #1a237e;
+}
+
+.loading-spinner p {
+    margin: 0;
+    font-size: 0.95rem;
+    opacity: 0.8;
+}
+
+/* Sample data tag */
+.sample-data-tag {
+    position: absolute;
+    top: -8px;
+    right: -8px;
+    background: rgba(255, 193, 7, 0.9);
+    color: #333;
+    font-size: 0.7rem;
+    padding: 2px 6px;
+    border-radius: 4px;
+    font-weight: 600;
+    transform: rotate(5deg);
+    box-shadow: 0 1px 3px rgba(0,0,0,0.2);
+    z-index: 1;
+}
+
+.leader-item {
+    position: relative;
+}
     

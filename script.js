@@ -4,6 +4,7 @@ document.addEventListener('DOMContentLoaded', () => {
         .then(response => response.json())
         .then(data => {
             populateTable(data);
+            populateLeaderboardHighlights(data);
             // Add event listener for real-time search
             const searchInput = document.getElementById('search-input');
             searchInput.addEventListener('input', () => searchTable());
@@ -366,6 +367,145 @@ function copyToClipboard(text) {
         }
         
         document.body.removeChild(textArea);
+    });
+}
+
+// Function to populate leaderboard highlights
+function populateLeaderboardHighlights(data) {
+    if (!data || data.length === 0) return;
+    
+    // Sort data by Skill Badges count (descending)
+    const skillBadgesLeaders = [...data]
+        .sort((a, b) => {
+            return parseInt(b["Skill Badges Completed"] || 0) - parseInt(a["Skill Badges Completed"] || 0);
+        })
+        .filter(item => parseInt(item["Skill Badges Completed"] || 0) > 0)
+        .slice(0, 3);
+
+    // Sort data by Arcade Games count (descending)
+    const arcadeGamesLeaders = [...data]
+        .sort((a, b) => {
+            return parseInt(b["Games Completed"] || 0) - parseInt(a["Games Completed"] || 0);
+        })
+        .filter(item => parseInt(item["Games Completed"] || 0) > 0)
+        .slice(0, 3);
+
+    // Sort data by Lab-free Courses count (descending)
+    const labCoursesLeaders = [...data]
+        .sort((a, b) => {
+            return parseInt(b["Lab-free Courses Completed"] || 0) - parseInt(a["Lab-free Courses Completed"] || 0);
+        })
+        .filter(item => parseInt(item["Lab-free Courses Completed"] || 0) > 0)
+        .slice(0, 3);
+
+    // Update skill badges leaderboard
+    updateLeaderCard('skill-badges', skillBadgesLeaders, "Skill Badges Completed", 'Badges');
+
+    // Update arcade games leaderboard
+    updateLeaderCard('arcade-games', arcadeGamesLeaders, "Games Completed", 'Games');
+
+    // Update lab-free courses leaderboard
+    updateLeaderCard('lab-courses', labCoursesLeaders, "Lab-free Courses Completed", 'Courses');
+    
+    // Add some sample data for testing if no real data
+    if (skillBadgesLeaders.length === 0) {
+        addSampleData();
+    }
+}
+
+// Helper function to update a leader card with data
+function updateLeaderCard(cardClass, leaders, dataKey, unitLabel) {
+    const leaderCard = document.querySelector(`.${cardClass} .leader-content`);
+    if (!leaderCard) return;
+
+    // Clear existing content
+    leaderCard.innerHTML = '';
+
+    // Add leader items
+    leaders.forEach((leader, index) => {
+        // Skip if no data
+        if (!leader[dataKey] || parseInt(leader[dataKey]) === 0) return;
+        
+        // Determine medal class
+        const medalClass = index === 0 ? 'gold' : index === 1 ? 'silver' : 'bronze';
+        
+        // Create leader item
+        const leaderItem = document.createElement('div');
+        leaderItem.className = `leader-item ${medalClass}`;
+        
+        // Get name from User Name field
+        const name = leader["User Name"] || "Unknown";
+        
+        // Create HTML content
+        leaderItem.innerHTML = `
+            <span class="rank"><i class="fas fa-medal"></i></span>
+            <span class="name">${name}</span>
+            <span class="score">${leader[dataKey]} ${unitLabel}</span>
+        `;
+        
+        // Add to leader card
+        leaderCard.appendChild(leaderItem);
+    });
+
+    // Add placeholder if no leaders found
+    if (leaderCard.children.length === 0) {
+        const noDataItem = document.createElement('div');
+        noDataItem.className = 'no-data-message';
+        noDataItem.innerHTML = `
+            <i class="fas fa-info-circle"></i>
+            <p>No data available for this category yet.</p>
+        `;
+        leaderCard.appendChild(noDataItem);
+    }
+}
+
+// Add sample data for testing when no real data is available
+function addSampleData() {
+    const sampleData = {
+        'skill-badges': [
+            { name: 'Gopinath Panjiyara', score: 8 },
+            { name: 'Goregaonkar Nitish', score: 7 },
+            { name: 'Vinit Kumar', score: 6 }
+        ],
+        'arcade-games': [
+            { name: 'Gauri Ikhar', score: 4 },
+            { name: 'Pratiksha Dhole', score: 3 },
+            { name: 'Gopinath Panjiyara', score: 3 }
+        ],
+        'lab-courses': [
+            { name: 'Darla Renusri', score: 6 },
+            { name: 'Jay Zore', score: 4 },
+            { name: 'Shaswat Chourasia', score: 4 }
+        ]
+    };
+
+    // Add sample data for each category
+    Object.keys(sampleData).forEach(category => {
+        const leaderCard = document.querySelector(`.${category} .leader-content`);
+        if (!leaderCard) return;
+
+        // Clear existing content
+        leaderCard.innerHTML = '';
+
+        // Add sample leader items
+        sampleData[category].forEach((leader, index) => {
+            const medalClass = index === 0 ? 'gold' : index === 1 ? 'silver' : 'bronze';
+            
+            const leaderItem = document.createElement('div');
+            leaderItem.className = `leader-item ${medalClass}`;
+            
+            const unitLabel = category === 'skill-badges' ? 'Badges' : 
+                              category === 'arcade-games' ? 'Games' : 'Courses';
+            
+            leaderItem.innerHTML = `
+                <span class="rank"><i class="fas fa-medal"></i></span>
+                <span class="name">${leader.name}</span>
+                <span class="score">${leader.score} ${unitLabel}</span>
+                <span class="sample-data-tag">Sample Data</span>
+            `;
+            
+            leaderCard.appendChild(leaderItem);
+        });
     });
 }
 
