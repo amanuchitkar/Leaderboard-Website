@@ -1,81 +1,72 @@
 [
     {
-        "User Name": "Gopinath Panjiyara 🔥",
+        "User Name": "VINIT KUMAR SHRIVASTAVA 🔥",
         "Profile URL Status": "All Good",
         "Redemption Status": "Yes",
-        "Skill Badges Completed": 9,
+        "Skill Badges Completed": 21,
         "Games Completed": 5,
         "Trivia Completed": 2,
-        "Lab-free Courses Completed": 0
+        "Lab-free Courses Completed": 12
     },
     {
         "User Name": "Goregaonkar Nitish Naresh 🔥",
         "Profile URL Status": "All Good",
         "Redemption Status": "Yes",
-        "Skill Badges Completed": 8,
+        "Skill Badges Completed": 20,
         "Games Completed": 5,
-        "Trivia Completed": 1,
+        "Trivia Completed": 2,
         "Lab-free Courses Completed": 0
+    },
+    {
+        "User Name": "Gopinath Panjiyar 🔥",
+        "Profile URL Status": "All Good",
+        "Redemption Status": "Yes",
+        "Skill Badges Completed": 14,
+        "Games Completed": 5,
+        "Trivia Completed": 2,
+        "Lab-free Courses Completed": 16
     },
     {
         "User Name": "Gauri Ikhar 🔥",
         "Profile URL Status": "All Good",
         "Redemption Status": "Yes",
-        "Skill Badges Completed": 4,
+        "Skill Badges Completed": 13,
         "Games Completed": 5,
         "Trivia Completed": 2,
         "Lab-free Courses Completed": 18
     },
     {
-        "User Name": "Vaishnavi Parasharam Helwadkar",
+        "User Name": "Jay Sharad Zore",
         "Profile URL Status": "All Good",
         "Redemption Status": "Yes",
-        "Skill Badges Completed": 2,
-        "Games Completed": 5,
-        "Trivia Completed": 1,
-        "Lab-free Courses Completed": 4
+        "Skill Badges Completed": 10,
+        "Games Completed": 2,
+        "Trivia Completed": 2,
+        "Lab-free Courses Completed": 0
     },
     {
-        "User Name": "Shardula Sujan Thakur",
-        "Profile URL Status": "All Good",
-        "Redemption Status": "Yes",
-        "Skill Badges Completed": 0,
-        "Games Completed": 5,
-        "Trivia Completed": 1,
-        "Lab-free Courses Completed": 1
-    },
-    {
-        "User Name": "VINIT KUMAR SHRIVASTAVA 🔥",
+        "User Name": "Minal Mangesh Kusam",
         "Profile URL Status": "All Good",
         "Redemption Status": "Yes",
         "Skill Badges Completed": 9,
-        "Games Completed": 4,
+        "Games Completed": 5,
         "Trivia Completed": 2,
-        "Lab-free Courses Completed": 6
+        "Lab-free Courses Completed": 16
     },
     {
-        "User Name": "Manali Mahendra Jadhav",
+        "User Name": "Punit Santosh Kale",
         "Profile URL Status": "All Good",
         "Redemption Status": "Yes",
         "Skill Badges Completed": 7,
         "Games Completed": 4,
         "Trivia Completed": 2,
-        "Lab-free Courses Completed": 1
+        "Lab-free Courses Completed": 11
     },
     {
-        "User Name": "Punit Santosh Kale",
-        "Profile URL Status": "All Good",
-        "Redemption Status": "No",
-        "Skill Badges Completed": 4,
-        "Games Completed": 4,
-        "Trivia Completed": 2,
-        "Lab-free Courses Completed": 0
-    },
-    {
-        "User Name": "Aman Show",
+        "User Name": "Vaishnavi Parasharam Helwadkar",
         "Profile URL Status": "All Good",
         "Redemption Status": "Yes",
-        "Skill Badges Completed": 2,
+        "Skill Badges Completed": 7,
         "Games Completed": 4,
         "Trivia Completed": 2,
         "Lab-free Courses Completed": 0
@@ -84,55 +75,37 @@
         "User Name": "Darla.Renusri",
         "Profile URL Status": "All Good",
         "Redemption Status": "Yes",
-        "Skill Badges Completed": 1,
-        "Games Completed": 4,
+        "Skill Badges Completed": 5,
+        "Games Completed": 5,
         "Trivia Completed": 2,
         "Lab-free Courses Completed": 6
     },
     {
-        "User Name": "Pratiksha Ishwar Dhole",
-        "Profile URL Status": "All Good",
-        "Redemption Status": "Yes",
-        "Skill Badges Completed": 0,
-        "Games Completed": 4,
-        "Trivia Completed": 2,
-        "Lab-free Courses Completed": 0
-    },
-    {
-        "User Name": "Pranav Arun Nikam",
-        "Profile URL Status": "All Good",
-        "Redemption Status": "Yes",
-        "Skill Badges Completed": 0,
-        "Games Completed": 4,
-        "Trivia Completed": 1,
-        "Lab-free Courses Completed": 0
-    },
-    {
-        "User Name": "Ujwal Kewaldas Katre",
-        "Profile URL Status": "All Good",
-        "Redemption Status": "Yes",
-        "Skill Badges Completed": 0,
-        "Games Completed": 4,
-        "Trivia Completed": 1,
-        "Lab-free Courses Completed": 0
-    },
-    {
-        "User Name": "Adarsh Prakash",
+        "User Name": "Aman Show",
         "Profile URL Status": "All Good",
         "Redemption Status": "Yes",
         "Skill Badges Completed": 5,
-        "Games Completed": 3,
-        "Trivia Completed": 0,
+        "Games Completed": 4,
+        "Trivia Completed": 1,
         "Lab-free Courses Completed": 0
     },
     {
-        "User Name": "Minal Mangesh Kusam",
+        "User Name": "Shardula Sujan Thakur",
+        "Profile URL Status": "All Good",
+        "Redemption Status": "Yes",
+        "Skill Badges Completed": 5,
+        "Games Completed": 2,
+        "Trivia Completed": 1,
+        "Lab-free Courses Completed": 0
+    },
+    {
+        "User Name": "Manali Mahendra Jadhav",
         "Profile URL Status": "All Good",
         "Redemption Status": "Yes",
         "Skill Badges Completed": 4,
-        "Games Completed": 3,
+        "Games Completed": 5,
         "Trivia Completed": 2,
-        "Lab-free Courses Completed": 6
+        "Lab-free Courses Completed": 0
     },
     {
         "User Name": "Saksham Sanjay Choudhari",
@@ -141,19 +114,73 @@
         "Skill Badges Completed": 4,
         "Games Completed": 3,
         "Trivia Completed": 1,
-        "Lab-free Courses Completed": 0
+        "Lab-free Courses Completed": 6
     },
     {
-        "User Name": "Pratham Vashisht",
+        "User Name": "Adarsh Prakash",
         "Profile URL Status": "All Good",
         "Redemption Status": "Yes",
-        "Skill Badges Completed": 2,
-        "Games Completed": 3,
+        "Skill Badges Completed": 3,
+        "Games Completed": 5,
+        "Trivia Completed": 2,
+        "Lab-free Courses Completed": 6
+    },
+    {
+        "User Name": "Prathamesh Krishna Bhoir",
+        "Profile URL Status": "All Good",
+        "Redemption Status": "Yes",
+        "Skill Badges Completed": 3,
+        "Games Completed": 4,
         "Trivia Completed": 1,
         "Lab-free Courses Completed": 0
     },
     {
-        "User Name": "Jeet Yash Jawale",
+        "User Name": "Soniya Pravin Datarkar",
+        "Profile URL Status": "All Good",
+        "Redemption Status": "Yes",
+        "Skill Badges Completed": 3,
+        "Games Completed": 1,
+        "Trivia Completed": 1,
+        "Lab-free Courses Completed": 1
+    },
+    {
+        "User Name": "Vinayak Manohar Amrutkar",
+        "Profile URL Status": "All Good",
+        "Redemption Status": "Yes",
+        "Skill Badges Completed": 2,
+        "Games Completed": 5,
+        "Trivia Completed": 2,
+        "Lab-free Courses Completed": 8
+    },
+    {
+        "User Name": "Rohan Chandrashekhar Dhanvij",
+        "Profile URL Status": "All Good",
+        "Redemption Status": "Yes",
+        "Skill Badges Completed": 2,
+        "Games Completed": 5,
+        "Trivia Completed": 2,
+        "Lab-free Courses Completed": 0
+    },
+    {
+        "User Name": "Pratiksha Ishwar Dhole",
+        "Profile URL Status": "All Good",
+        "Redemption Status": "Yes",
+        "Skill Badges Completed": 2,
+        "Games Completed": 3,
+        "Trivia Completed": 2,
+        "Lab-free Courses Completed": 0
+    },
+    {
+        "User Name": "Ujwal Kewaldas Katre",
+        "Profile URL Status": "All Good",
+        "Redemption Status": "Yes",
+        "Skill Badges Completed": 2,
+        "Games Completed": 3,
+        "Trivia Completed": 2,
+        "Lab-free Courses Completed": 0
+    },
+    {
+        "User Name": "Pranav Arun Nikam",
         "Profile URL Status": "All Good",
         "Redemption Status": "Yes",
         "Skill Badges Completed": 2,
@@ -165,76 +192,13 @@
         "User Name": "Shravani Borade",
         "Profile URL Status": "All Good",
         "Redemption Status": "Yes",
-        "Skill Badges Completed": 1,
-        "Games Completed": 3,
-        "Trivia Completed": 1,
-        "Lab-free Courses Completed": 3
-    },
-    {
-        "User Name": "Vinayak Manohar Amrutkar",
-        "Profile URL Status": "All Good",
-        "Redemption Status": "Yes",
-        "Skill Badges Completed": 1,
-        "Games Completed": 3,
-        "Trivia Completed": 2,
-        "Lab-free Courses Completed": 1
-    },
-    {
-        "User Name": "Prathamesh Krishna Bhoir",
-        "Profile URL Status": "All Good",
-        "Redemption Status": "Yes",
-        "Skill Badges Completed": 1,
-        "Games Completed": 3,
-        "Trivia Completed": 1,
-        "Lab-free Courses Completed": 0
-    },
-    {
-        "User Name": "Soniya Pravin Datarkar",
-        "Profile URL Status": "All Good",
-        "Redemption Status": "Yes",
-        "Skill Badges Completed": 1,
-        "Games Completed": 3,
-        "Trivia Completed": 1,
-        "Lab-free Courses Completed": 0
-    },
-    {
-        "User Name": "Swapnaja Sunil Mhatre",
-        "Profile URL Status": "All Good",
-        "Redemption Status": "Yes",
-        "Skill Badges Completed": 0,
-        "Games Completed": 3,
-        "Trivia Completed": 1,
-        "Lab-free Courses Completed": 1
-    },
-    {
-        "User Name": "Snigdha Sanjay Sawant",
-        "Profile URL Status": "All Good",
-        "Redemption Status": "Yes",
-        "Skill Badges Completed": 0,
-        "Games Completed": 3,
-        "Trivia Completed": 2,
-        "Lab-free Courses Completed": 0
-    },
-    {
-        "User Name": "Sajal Ekka",
-        "Profile URL Status": "All Good",
-        "Redemption Status": "Yes",
-        "Skill Badges Completed": 5,
+        "Skill Badges Completed": 2,
         "Games Completed": 2,
         "Trivia Completed": 1,
         "Lab-free Courses Completed": 0
     },
     {
-        "User Name": "Jay Sharad Zore 🔥",
-        "Profile URL Status": "All Good",
-        "Redemption Status": "Yes",
-        "Skill Badges Completed": 4,
-        "Games Completed": 2,
-        "Trivia Completed": 2,
-        "Lab-free Courses Completed": 16
-    },
-    {
-        "User Name": "Siddhesh Dangade",
+        "User Name": "Pratham Vashisht",
         "Profile URL Status": "All Good",
         "Redemption Status": "Yes",
         "Skill Badges Completed": 2,
@@ -243,37 +207,46 @@
         "Lab-free Courses Completed": 0
     },
     {
-        "User Name": "Onkar Uttam Hol",
+        "User Name": "Snigdha Sanjay Sawant",
         "Profile URL Status": "All Good",
         "Redemption Status": "Yes",
-        "Skill Badges Completed": 1,
+        "Skill Badges Completed": 2,
         "Games Completed": 2,
-        "Trivia Completed": 1,
+        "Trivia Completed": 0,
+        "Lab-free Courses Completed": 0
+    },
+    {
+        "User Name": "Jeet Yash Jawale",
+        "Profile URL Status": "All Good",
+        "Redemption Status": "Yes",
+        "Skill Badges Completed": 2,
+        "Games Completed": 0,
+        "Trivia Completed": 0,
         "Lab-free Courses Completed": 0
     },
     {
         "User Name": "Shaswat chourasia",
         "Profile URL Status": "All Good",
         "Redemption Status": "Yes",
-        "Skill Badges Completed": 0,
-        "Games Completed": 2,
-        "Trivia Completed": 1,
-        "Lab-free Courses Completed": 4
-    },
-    {
-        "User Name": "Om Subhash Mhatre",
-        "Profile URL Status": "All Good",
-        "Redemption Status": "Yes",
-        "Skill Badges Completed": 0,
-        "Games Completed": 2,
+        "Skill Badges Completed": 1,
+        "Games Completed": 4,
         "Trivia Completed": 2,
-        "Lab-free Courses Completed": 0
+        "Lab-free Courses Completed": 2
     },
     {
-        "User Name": "Yash Arun Tondlekar",
+        "User Name": "Shruti Haresh Palkar",
         "Profile URL Status": "All Good",
         "Redemption Status": "Yes",
-        "Skill Badges Completed": 0,
+        "Skill Badges Completed": 1,
+        "Games Completed": 4,
+        "Trivia Completed": 2,
+        "Lab-free Courses Completed": 2
+    },
+    {
+        "User Name": "Swapnaja Sunil Mhatre",
+        "Profile URL Status": "All Good",
+        "Redemption Status": "Yes",
+        "Skill Badges Completed": 1,
         "Games Completed": 2,
         "Trivia Completed": 2,
         "Lab-free Courses Completed": 0
@@ -282,125 +255,98 @@
         "User Name": "Grecy pardhi",
         "Profile URL Status": "All Good",
         "Redemption Status": "Yes",
-        "Skill Badges Completed": 0,
+        "Skill Badges Completed": 1,
         "Games Completed": 2,
         "Trivia Completed": 1,
         "Lab-free Courses Completed": 0
     },
     {
-        "User Name": "Palak Madewar",
+        "User Name": "Om Subhash Mhatre",
         "Profile URL Status": "All Good",
         "Redemption Status": "Yes",
-        "Skill Badges Completed": 0,
-        "Games Completed": 2,
+        "Skill Badges Completed": 1,
+        "Games Completed": 1,
+        "Trivia Completed": 2,
+        "Lab-free Courses Completed": 0
+    },
+    {
+        "User Name": "Sakshi Vinod Kumbhare",
+        "Profile URL Status": "All Good",
+        "Redemption Status": "Yes",
+        "Skill Badges Completed": 1,
+        "Games Completed": 1,
         "Trivia Completed": 1,
         "Lab-free Courses Completed": 0
     },
     {
-        "User Name": "Prem Ubhad",
+        "User Name": "Yash Arun Tondlekar",
         "Profile URL Status": "All Good",
         "Redemption Status": "Yes",
-        "Skill Badges Completed": 0,
-        "Games Completed": 2,
-        "Trivia Completed": 1,
-        "Lab-free Courses Completed": 0
-    },
-    {
-        "User Name": "Rishabh Anilkumar Sharma",
-        "Profile URL Status": "All Good",
-        "Redemption Status": "Yes",
-        "Skill Badges Completed": 0,
-        "Games Completed": 2,
-        "Trivia Completed": 1,
-        "Lab-free Courses Completed": 0
-    },
-    {
-        "User Name": "Abhay Arun Nikam",
-        "Profile URL Status": "All Good",
-        "Redemption Status": "Yes",
-        "Skill Badges Completed": 0,
-        "Games Completed": 2,
+        "Skill Badges Completed": 1,
+        "Games Completed": 1,
         "Trivia Completed": 0,
         "Lab-free Courses Completed": 0
     },
     {
-        "User Name": "Isha Sanjay Patil",
+        "User Name": "Soham Manish Sawalakhe",
         "Profile URL Status": "All Good",
         "Redemption Status": "Yes",
-        "Skill Badges Completed": 3,
-        "Games Completed": 1,
+        "Skill Badges Completed": 1,
+        "Games Completed": 0,
+        "Trivia Completed": 0,
+        "Lab-free Courses Completed": 0
+    },
+    {
+        "User Name": "Sajal Ekka",
+        "Profile URL Status": "All Good",
+        "Redemption Status": "Yes",
+        "Skill Badges Completed": 1,
+        "Games Completed": 0,
+        "Trivia Completed": 0,
+        "Lab-free Courses Completed": 0
+    },
+    {
+        "User Name": "Anushka Mahendra Patil",
+        "Profile URL Status": "All Good",
+        "Redemption Status": "Yes",
+        "Skill Badges Completed": 0,
+        "Games Completed": 5,
         "Trivia Completed": 1,
         "Lab-free Courses Completed": 1
+    },
+    {
+        "User Name": "Siddhesh Dangade",
+        "Profile URL Status": "All Good",
+        "Redemption Status": "Yes",
+        "Skill Badges Completed": 0,
+        "Games Completed": 4,
+        "Trivia Completed": 2,
+        "Lab-free Courses Completed": 0
     },
     {
         "User Name": "Vincentius Dewanto",
         "Profile URL Status": "All Good",
         "Redemption Status": "Yes",
-        "Skill Badges Completed": 2,
-        "Games Completed": 1,
-        "Trivia Completed": 0,
+        "Skill Badges Completed": 0,
+        "Games Completed": 4,
+        "Trivia Completed": 2,
         "Lab-free Courses Completed": 0
     },
     {
-        "User Name": "Shivani Sunil Sonawane",
+        "User Name": "Onkar Uttam Hol 🔥",
         "Profile URL Status": "All Good",
         "Redemption Status": "Yes",
-        "Skill Badges Completed": 1,
-        "Games Completed": 1,
+        "Skill Badges Completed": 0,
+        "Games Completed": 4,
         "Trivia Completed": 1,
-        "Lab-free Courses Completed": 0
+        "Lab-free Courses Completed": 18
     },
     {
         "User Name": "Rishi Vijay Kumar Khandagle",
         "Profile URL Status": "All Good",
         "Redemption Status": "Yes",
-        "Skill Badges Completed": 1,
-        "Games Completed": 1,
-        "Trivia Completed": 0,
-        "Lab-free Courses Completed": 0
-    },
-    {
-        "User Name": "gayatri girish juikar",
-        "Profile URL Status": "All Good",
-        "Redemption Status": "Yes",
         "Skill Badges Completed": 0,
-        "Games Completed": 1,
-        "Trivia Completed": 2,
-        "Lab-free Courses Completed": 0
-    },
-    {
-        "User Name": "Omkar Gautam Rokade",
-        "Profile URL Status": "All Good",
-        "Redemption Status": "Yes",
-        "Skill Badges Completed": 0,
-        "Games Completed": 1,
-        "Trivia Completed": 2,
-        "Lab-free Courses Completed": 0
-    },
-    {
-        "User Name": "Nimish Aniket patil",
-        "Profile URL Status": "All Good",
-        "Redemption Status": "Yes",
-        "Skill Badges Completed": 0,
-        "Games Completed": 1,
-        "Trivia Completed": 1,
-        "Lab-free Courses Completed": 0
-    },
-    {
-        "User Name": "Rani Patil",
-        "Profile URL Status": "All Good",
-        "Redemption Status": "Yes",
-        "Skill Badges Completed": 0,
-        "Games Completed": 1,
-        "Trivia Completed": 1,
-        "Lab-free Courses Completed": 0
-    },
-    {
-        "User Name": "Rohan Chandrashekhar Dhanvij",
-        "Profile URL Status": "All Good",
-        "Redemption Status": "Yes",
-        "Skill Badges Completed": 0,
-        "Games Completed": 1,
+        "Games Completed": 4,
         "Trivia Completed": 1,
         "Lab-free Courses Completed": 0
     },
@@ -409,21 +355,183 @@
         "Profile URL Status": "All Good",
         "Redemption Status": "Yes",
         "Skill Badges Completed": 0,
-        "Games Completed": 1,
-        "Trivia Completed": 1,
-        "Lab-free Courses Completed": 0
+        "Games Completed": 3,
+        "Trivia Completed": 2,
+        "Lab-free Courses Completed": 2
     },
     {
-        "User Name": "Sakshi Vinod Kumbhare",
+        "User Name": "Abhishek Hanumant Patil",
         "Profile URL Status": "All Good",
         "Redemption Status": "Yes",
         "Skill Badges Completed": 0,
-        "Games Completed": 1,
+        "Games Completed": 3,
+        "Trivia Completed": 2,
+        "Lab-free Courses Completed": 0
+    },
+    {
+        "User Name": "Omkar Gautam Rokade",
+        "Profile URL Status": "All Good",
+        "Redemption Status": "Yes",
+        "Skill Badges Completed": 0,
+        "Games Completed": 3,
+        "Trivia Completed": 2,
+        "Lab-free Courses Completed": 0
+    },
+    {
+        "User Name": "Pranjali Pratik Patil",
+        "Profile URL Status": "All Good",
+        "Redemption Status": "Yes",
+        "Skill Badges Completed": 0,
+        "Games Completed": 3,
+        "Trivia Completed": 2,
+        "Lab-free Courses Completed": 0
+    },
+    {
+        "User Name": "Khan zaweriya riyazuddin",
+        "Profile URL Status": "All Good",
+        "Redemption Status": "Yes",
+        "Skill Badges Completed": 0,
+        "Games Completed": 3,
+        "Trivia Completed": 2,
+        "Lab-free Courses Completed": 0
+    },
+    {
+        "User Name": "Palak Madewar",
+        "Profile URL Status": "All Good",
+        "Redemption Status": "Yes",
+        "Skill Badges Completed": 0,
+        "Games Completed": 3,
         "Trivia Completed": 1,
+        "Lab-free Courses Completed": 4
+    },
+    {
+        "User Name": "Prem Ubhad",
+        "Profile URL Status": "All Good",
+        "Redemption Status": "Yes",
+        "Skill Badges Completed": 0,
+        "Games Completed": 3,
+        "Trivia Completed": 0,
+        "Lab-free Courses Completed": 4
+    },
+    {
+        "User Name": "Rishabh Anilkumar Sharma",
+        "Profile URL Status": "All Good",
+        "Redemption Status": "Yes",
+        "Skill Badges Completed": 0,
+        "Games Completed": 2,
+        "Trivia Completed": 2,
         "Lab-free Courses Completed": 0
     },
     {
         "User Name": "Shravani Satishrao Patil",
+        "Profile URL Status": "All Good",
+        "Redemption Status": "Yes",
+        "Skill Badges Completed": 0,
+        "Games Completed": 2,
+        "Trivia Completed": 2,
+        "Lab-free Courses Completed": 0
+    },
+    {
+        "User Name": "Smruti Ajit Patange",
+        "Profile URL Status": "All Good",
+        "Redemption Status": "Yes",
+        "Skill Badges Completed": 0,
+        "Games Completed": 2,
+        "Trivia Completed": 2,
+        "Lab-free Courses Completed": 0
+    },
+    {
+        "User Name": "Abhay Arun Nikam",
+        "Profile URL Status": "All Good",
+        "Redemption Status": "Yes",
+        "Skill Badges Completed": 0,
+        "Games Completed": 2,
+        "Trivia Completed": 1,
+        "Lab-free Courses Completed": 4
+    },
+    {
+        "User Name": "Siddhi Harishchandra Pawar",
+        "Profile URL Status": "All Good",
+        "Redemption Status": "Yes",
+        "Skill Badges Completed": 0,
+        "Games Completed": 2,
+        "Trivia Completed": 1,
+        "Lab-free Courses Completed": 0
+    },
+    {
+        "User Name": "Isha Sanjay Patil",
+        "Profile URL Status": "All Good",
+        "Redemption Status": "Yes",
+        "Skill Badges Completed": 0,
+        "Games Completed": 2,
+        "Trivia Completed": 1,
+        "Lab-free Courses Completed": 0
+    },
+    {
+        "User Name": "Shivani Sunil Sonawane",
+        "Profile URL Status": "All Good",
+        "Redemption Status": "Yes",
+        "Skill Badges Completed": 0,
+        "Games Completed": 2,
+        "Trivia Completed": 1,
+        "Lab-free Courses Completed": 0
+    },
+    {
+        "User Name": "Vishal Pravin Gore",
+        "Profile URL Status": "All Good",
+        "Redemption Status": "Yes",
+        "Skill Badges Completed": 0,
+        "Games Completed": 2,
+        "Trivia Completed": 1,
+        "Lab-free Courses Completed": 0
+    },
+    {
+        "User Name": "Abhishek Nejkar",
+        "Profile URL Status": "All Good",
+        "Redemption Status": "Yes",
+        "Skill Badges Completed": 0,
+        "Games Completed": 2,
+        "Trivia Completed": 1,
+        "Lab-free Courses Completed": 0
+    },
+    {
+        "User Name": "gayatri girish juikar",
+        "Profile URL Status": "All Good",
+        "Redemption Status": "Yes",
+        "Skill Badges Completed": 0,
+        "Games Completed": 2,
+        "Trivia Completed": 1,
+        "Lab-free Courses Completed": 0
+    },
+    {
+        "User Name": "Ishwari Santosh Bagade",
+        "Profile URL Status": "All Good",
+        "Redemption Status": "Yes",
+        "Skill Badges Completed": 0,
+        "Games Completed": 2,
+        "Trivia Completed": 0,
+        "Lab-free Courses Completed": 0
+    },
+    {
+        "User Name": "Nimish Aniket patil",
+        "Profile URL Status": "All Good",
+        "Redemption Status": "Yes",
+        "Skill Badges Completed": 0,
+        "Games Completed": 2,
+        "Trivia Completed": 0,
+        "Lab-free Courses Completed": 0
+    },
+    {
+        "User Name": "Rani Patil",
+        "Profile URL Status": "All Good",
+        "Redemption Status": "Yes",
+        "Skill Badges Completed": 0,
+        "Games Completed": 1,
+        "Trivia Completed": 2,
+        "Lab-free Courses Completed": 0
+    },
+    {
+        "User Name": "Siddhi Prakash Kedari",
         "Profile URL Status": "All Good",
         "Redemption Status": "Yes",
         "Skill Badges Completed": 0,
@@ -468,21 +576,21 @@
         "Lab-free Courses Completed": 0
     },
     {
+        "User Name": "Akkina Bhuvana Sreeya",
+        "Profile URL Status": "All Good",
+        "Redemption Status": "No",
+        "Skill Badges Completed": 0,
+        "Games Completed": 1,
+        "Trivia Completed": 1,
+        "Lab-free Courses Completed": 0
+    },
+    {
         "User Name": "Aayushi Pande",
         "Profile URL Status": "All Good",
         "Redemption Status": "Yes",
         "Skill Badges Completed": 0,
         "Games Completed": 1,
-        "Trivia Completed": 0,
-        "Lab-free Courses Completed": 0
-    },
-    {
-        "User Name": "Khan zaweriya riyazuddin",
-        "Profile URL Status": "All Good",
-        "Redemption Status": "Yes",
-        "Skill Badges Completed": 0,
-        "Games Completed": 1,
-        "Trivia Completed": 0,
+        "Trivia Completed": 1,
         "Lab-free Courses Completed": 0
     },
     {
@@ -491,7 +599,7 @@
         "Redemption Status": "Yes",
         "Skill Badges Completed": 0,
         "Games Completed": 1,
-        "Trivia Completed": 0,
+        "Trivia Completed": 1,
         "Lab-free Courses Completed": 0
     },
     {
@@ -500,11 +608,11 @@
         "Redemption Status": "Yes",
         "Skill Badges Completed": 0,
         "Games Completed": 1,
-        "Trivia Completed": 0,
+        "Trivia Completed": 1,
         "Lab-free Courses Completed": 0
     },
     {
-        "User Name": "Siddhi Harishchandra Pawar",
+        "User Name": "RAHUL RAJU KARDILE",
         "Profile URL Status": "All Good",
         "Redemption Status": "Yes",
         "Skill Badges Completed": 0,
@@ -513,7 +621,7 @@
         "Lab-free Courses Completed": 0
     },
     {
-        "User Name": "Siddhi Prakash Kedari",
+        "User Name": "Nishika Bambal",
         "Profile URL Status": "All Good",
         "Redemption Status": "Yes",
         "Skill Badges Completed": 0,
@@ -525,8 +633,8 @@
         "User Name": "Lokesh Bhatu Chaudhari",
         "Profile URL Status": "All Good",
         "Redemption Status": "Yes",
-        "Skill Badges Completed": 1,
-        "Games Completed": 0,
+        "Skill Badges Completed": 0,
+        "Games Completed": 1,
         "Trivia Completed": 0,
         "Lab-free Courses Completed": 0
     },
@@ -534,22 +642,13 @@
         "User Name": "Vedant Anant Khadse",
         "Profile URL Status": "All Good",
         "Redemption Status": "Yes",
-        "Skill Badges Completed": 1,
-        "Games Completed": 0,
+        "Skill Badges Completed": 0,
+        "Games Completed": 1,
         "Trivia Completed": 0,
         "Lab-free Courses Completed": 0
     },
     {
         "User Name": "Devang Haresh Mhatre",
-        "Profile URL Status": "All Good",
-        "Redemption Status": "Yes",
-        "Skill Badges Completed": 0,
-        "Games Completed": 0,
-        "Trivia Completed": 0,
-        "Lab-free Courses Completed": 1
-    },
-    {
-        "User Name": "Abhishek Hanumant Patil",
         "Profile URL Status": "All Good",
         "Redemption Status": "Yes",
         "Skill Badges Completed": 0,
@@ -567,7 +666,7 @@
         "Lab-free Courses Completed": 0
     },
     {
-        "User Name": "Ishwari Santosh Bagade",
+        "User Name": "Jayesh Sudam Savant",
         "Profile URL Status": "All Good",
         "Redemption Status": "Yes",
         "Skill Badges Completed": 0,
@@ -621,43 +720,16 @@
         "Lab-free Courses Completed": 0
     },
     {
-        "User Name": "Smruti Ajit Patange",
-        "Profile URL Status": "All Good",
-        "Redemption Status": "Yes",
-        "Skill Badges Completed": 0,
-        "Games Completed": 0,
-        "Trivia Completed": 1,
-        "Lab-free Courses Completed": 0
-    },
-    {
-        "User Name": "Vishal Pravin Gore",
-        "Profile URL Status": "All Good",
-        "Redemption Status": "Yes",
-        "Skill Badges Completed": 0,
-        "Games Completed": 0,
-        "Trivia Completed": 1,
-        "Lab-free Courses Completed": 0
-    },
-    {
         "User Name": "Rizki Adha",
         "Profile URL Status": "All Good",
         "Redemption Status": "No",
         "Skill Badges Completed": 0,
         "Games Completed": 0,
-        "Trivia Completed": 1,
-        "Lab-free Courses Completed": 0
+        "Trivia Completed": 0,
+        "Lab-free Courses Completed": 1
     },
     {
         "User Name": "Abhishek Kumar",
-        "Profile URL Status": "All Good",
-        "Redemption Status": "Yes",
-        "Skill Badges Completed": 0,
-        "Games Completed": 0,
-        "Trivia Completed": 0,
-        "Lab-free Courses Completed": 0
-    },
-    {
-        "User Name": "Abhishek Nejkar",
         "Profile URL Status": "All Good",
         "Redemption Status": "Yes",
         "Skill Badges Completed": 0,
@@ -748,15 +820,6 @@
     },
     {
         "User Name": "Ankush Mehtar Pagarwar",
-        "Profile URL Status": "All Good",
-        "Redemption Status": "Yes",
-        "Skill Badges Completed": 0,
-        "Games Completed": 0,
-        "Trivia Completed": 0,
-        "Lab-free Courses Completed": 0
-    },
-    {
-        "User Name": "Anushka Mahendra Patil",
         "Profile URL Status": "All Good",
         "Redemption Status": "Yes",
         "Skill Badges Completed": 0,
@@ -1089,15 +1152,6 @@
         "Lab-free Courses Completed": 0
     },
     {
-        "User Name": "Nishika Bambal",
-        "Profile URL Status": "All Good",
-        "Redemption Status": "Yes",
-        "Skill Badges Completed": 0,
-        "Games Completed": 0,
-        "Trivia Completed": 0,
-        "Lab-free Courses Completed": 0
-    },
-    {
         "User Name": "Om Gajanan Malthane",
         "Profile URL Status": "All Good",
         "Redemption Status": "Yes",
@@ -1108,6 +1162,15 @@
     },
     {
         "User Name": "Om Jagdish Doshi",
+        "Profile URL Status": "All Good",
+        "Redemption Status": "Yes",
+        "Skill Badges Completed": 0,
+        "Games Completed": 0,
+        "Trivia Completed": 0,
+        "Lab-free Courses Completed": 0
+    },
+    {
+        "User Name": "Om Rameshwar Nagare",
         "Profile URL Status": "All Good",
         "Redemption Status": "Yes",
         "Skill Badges Completed": 0,
@@ -1188,15 +1251,6 @@
         "Lab-free Courses Completed": 0
     },
     {
-        "User Name": "Pranjali Pratik Patil",
-        "Profile URL Status": "All Good",
-        "Redemption Status": "Yes",
-        "Skill Badges Completed": 0,
-        "Games Completed": 0,
-        "Trivia Completed": 0,
-        "Lab-free Courses Completed": 0
-    },
-    {
         "User Name": "PRASHIK GAUTAM GAIKWAD",
         "Profile URL Status": "All Good",
         "Redemption Status": "Yes",
@@ -1243,15 +1297,6 @@
     },
     {
         "User Name": "Purva Sonawane",
-        "Profile URL Status": "All Good",
-        "Redemption Status": "Yes",
-        "Skill Badges Completed": 0,
-        "Games Completed": 0,
-        "Trivia Completed": 0,
-        "Lab-free Courses Completed": 0
-    },
-    {
-        "User Name": "RAHUL RAJU KARDILE",
         "Profile URL Status": "All Good",
         "Redemption Status": "Yes",
         "Skill Badges Completed": 0,
@@ -1377,7 +1422,7 @@
         "Lab-free Courses Completed": 0
     },
     {
-        "User Name": "Shreya Suryakant Patil",
+        "User Name": "Shreya Prashant Surve",
         "Profile URL Status": "All Good",
         "Redemption Status": "Yes",
         "Skill Badges Completed": 0,
@@ -1386,7 +1431,7 @@
         "Lab-free Courses Completed": 0
     },
     {
-        "User Name": "Shruti Haresh Palkar",
+        "User Name": "Shreya Suryakant Patil",
         "Profile URL Status": "All Good",
         "Redemption Status": "Yes",
         "Skill Badges Completed": 0,
@@ -1441,15 +1486,6 @@
     },
     {
         "User Name": "siddhi umesh parab",
-        "Profile URL Status": "All Good",
-        "Redemption Status": "Yes",
-        "Skill Badges Completed": 0,
-        "Games Completed": 0,
-        "Trivia Completed": 0,
-        "Lab-free Courses Completed": 0
-    },
-    {
-        "User Name": "Soham Manish Sawalakhe",
         "Profile URL Status": "All Good",
         "Redemption Status": "Yes",
         "Skill Badges Completed": 0,
@@ -1648,15 +1684,6 @@
     },
     {
         "User Name": "Akansha Surendra Shirke",
-        "Profile URL Status": "All Good",
-        "Redemption Status": "No",
-        "Skill Badges Completed": 0,
-        "Games Completed": 0,
-        "Trivia Completed": 0,
-        "Lab-free Courses Completed": 0
-    },
-    {
-        "User Name": "Akkina Bhuvana Sreeya",
         "Profile URL Status": "All Good",
         "Redemption Status": "No",
         "Skill Badges Completed": 0,
@@ -2016,15 +2043,6 @@
         "Lab-free Courses Completed": 0
     },
     {
-        "User Name": "Jayesh Sudam Savant",
-        "Profile URL Status": "All Good",
-        "Redemption Status": "No",
-        "Skill Badges Completed": 0,
-        "Games Completed": 0,
-        "Trivia Completed": 0,
-        "Lab-free Courses Completed": 0
-    },
-    {
         "User Name": "Jugesh Kisan Pawase",
         "Profile URL Status": "All Good",
         "Redemption Status": "No",
@@ -2233,15 +2251,6 @@
     },
     {
         "User Name": "Niranjan Santosh Bamane",
-        "Profile URL Status": "All Good",
-        "Redemption Status": "No",
-        "Skill Badges Completed": 0,
-        "Games Completed": 0,
-        "Trivia Completed": 0,
-        "Lab-free Courses Completed": 0
-    },
-    {
-        "User Name": "Om Rameshwar Nagare",
         "Profile URL Status": "All Good",
         "Redemption Status": "No",
         "Skill Badges Completed": 0,
@@ -2620,15 +2629,6 @@
     },
     {
         "User Name": "Shirsath Prachi Rajendra",
-        "Profile URL Status": "All Good",
-        "Redemption Status": "No",
-        "Skill Badges Completed": 0,
-        "Games Completed": 0,
-        "Trivia Completed": 0,
-        "Lab-free Courses Completed": 0
-    },
-    {
-        "User Name": "Shreya Prashant Surve",
         "Profile URL Status": "All Good",
         "Redemption Status": "No",
         "Skill Badges Completed": 0,
