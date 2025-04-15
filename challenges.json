@@ -61,5 +61,14 @@
     "difficultyText": "Beginner",
     "link": "https://www.cloudskillsboost.google/games/6079?utm_source=qwiklabs&utm_medium=lp&utm_campaign=arcade25-April-trivia",
     "code": "1q-trivia-04122"
+  },
+  {
+    "id": 8,
+    "name": "Trivia Challenge - Week 3",
+    "icon": "fas fa-question-circle",
+    "difficulty": "beginner",
+    "difficultyText": "Beginner",
+    "link": "https://www.cloudskillsboost.google/games/6092?utm_source=gcaf-site&utm_medium=website&utm_campaign=arcade-facilitator25",
+    "code": "1q-trivia-04066"
   }
 ] 
