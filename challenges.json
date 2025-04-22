@@ -71,4 +71,14 @@
     "link": "https://www.cloudskillsboost.google/games/6092?utm_source=gcaf-site&utm_medium=website&utm_campaign=arcade-facilitator25",
     "code": "1q-trivia-04066"
   }
+  ,
+  {
+    "id": 9,
+    "name": "Trivia Challenge - Week 4",
+    "icon": "fas fa-question-circle",
+    "difficulty": "beginner",
+    "difficultyText": "Beginner",
+    "link": "https://www.cloudskillsboost.google/games/6105",
+    "code": "1q-trivia-04553"
+  }
 ] 
