@@ -1,12 +1,12 @@
 [
   {
     "id": 1,
-    "name": "TechCare - Points:2",
+    "name": "Future Ready Skills - Points:2",
     "icon": "fas fa-gamepad",
     "difficulty": "intermediate",
     "difficultyText": "Intermediate",
-    "link": "https://www.cloudskillsboost.google/games/6080?utm_source=qwiklabs&utm_medium=lp&utm_campaign=special-April-arcade25",
-    "code": "1q-techcare-0326"
+    "link": "https://www.cloudskillsboost.google/games/6415",
+    "code": "1q-futureready-0229"
   },
   {
     "id": 2,
@@ -14,35 +14,35 @@
     "icon": "fas fa-gamepad",
     "difficulty": "beginner",
     "difficultyText": "Beginner",
-    "link": "https://www.cloudskillsboost.google/games/6059?utm_source=qwiklabs&utm_medium=lp&utm_campaign=basecamp-April-arcade25",
-    "code": "1q-basecamp-9932"
+    "link": "https://www.cloudskillsboost.google/games/6393?utm_source=qwiklabs&utm_medium=lp&utm_campaign=basecamp-Aug-arcade25",
+    "code": "1q-basecamp-2930"
   },
   {
     "id": 3,
-    "name": "Application Development - Level 1",
+    "name": "Application Design and Delivery - Level 1",
     "icon": "fas fa-code",
     "difficulty": "intermediate",
     "difficultyText": "Intermediate",
-    "link": "https://www.cloudskillsboost.google/games/6064?utm_source=qwiklabs&utm_medium=lp&utm_campaign=level1-April-arcade25",
-    "code": "1q-appdevscr-4912"
+    "link": "https://www.cloudskillsboost.google/games/6394?utm_source=qwiklabs&utm_medium=lp&utm_campaign=level1-Aug-arcade25",
+    "code": "1q-appdesign-0245"
   },
   {
     "id": 4,
-    "name": "API Capstone - Level 2",
+    "name": "Building with Cloud Tools - Level 2",
     "icon": "fas fa-layer-group",
     "difficulty": "advanced",
     "difficultyText": "Advanced",
-    "link": "https://www.cloudskillsboost.google/games/6065?utm_source=qwiklabs&utm_medium=lp&utm_campaign=level2-April-arcade25",
-    "code": "1q-apicap-10000"
+    "link": "https://www.cloudskillsboost.google/games/6395?utm_source=qwiklabs&utm_medium=lp&utm_campaign=level2-Aug-arcade25",
+    "code": "1q-cloudtool-3109"
   },
   {
     "id": 5,
-    "name": "The Arcade Quiz - Level 3",
+    "name": "Terraform Essentials - Level 3",
     "icon": "fas fa-question-circle",
     "difficulty": "beginner",
     "difficultyText": "Beginner",
-    "link": "https://www.cloudskillsboost.google/games/6063?utm_source=qwiklabs&utm_medium=lp&utm_campaign=level3-April-arcade25",
-    "code": "1q-equiz-40233"
+    "link": "https://www.cloudskillsboost.google/games/6396?utm_source=qwiklabs&utm_medium=lp&utm_campaign=level3-Aug-arcade25",
+    "code": "1q-terraform-0480"
   },
   {
     "id": 6,
@@ -50,8 +50,8 @@
     "icon": "fas fa-question-circle",
     "difficulty": "beginner",
     "difficultyText": "Beginner",
-    "link": "https://www.cloudskillsboost.google/games/6058?utm_source=qwiklabs&utm_medium=lp&utm_campaign=arcade25-April-trivia",
-    "code": "1q-trivia-01202"
+    "link": "https://www.cloudskillsboost.google/games/6397?utm_source=qwiklabs&utm_medium=lp&utm_campaign=arcade25-Aug-trivia",
+    "code": "1q-trivia-2050"
   },
   {
     "id": 7,
@@ -59,8 +59,8 @@
     "icon": "fas fa-question-circle",
     "difficulty": "beginner",
     "difficultyText": "Beginner",
-    "link": "https://www.cloudskillsboost.google/games/6079?utm_source=qwiklabs&utm_medium=lp&utm_campaign=arcade25-April-trivia",
-    "code": "1q-trivia-04122"
+    "link": "https://www.cloudskillsboost.google/games/6398?utm_source=qwiklabs&utm_medium=lp&utm_campaign=arcade25-Aug-trivia",
+    "code": "1q-trivia-7310"
   },
   {
     "id": 8,
@@ -68,8 +68,8 @@
     "icon": "fas fa-question-circle",
     "difficulty": "beginner",
     "difficultyText": "Beginner",
-    "link": "https://www.cloudskillsboost.google/games/6092?utm_source=gcaf-site&utm_medium=website&utm_campaign=arcade-facilitator25",
-    "code": "1q-trivia-04066"
+    "link": "https://www.cloudskillsboost.google/games/6399?utm_source=qwiklabs&utm_medium=lp&utm_campaign=arcade25-Aug-trivia",
+    "code": "1q-trivia-2290"
   }
   ,
   {
@@ -78,7 +78,7 @@
     "icon": "fas fa-question-circle",
     "difficulty": "beginner",
     "difficultyText": "Beginner",
-    "link": "https://www.cloudskillsboost.google/games/6105",
-    "code": "1q-trivia-04553"
+    "link": "https://www.cloudskillsboost.google/games/6400?utm_source=qwiklabs&utm_medium=lp&utm_campaign=arcade25-Aug-trivia",
+    "code": "1q-trivia-5131"
   }
 ] 
