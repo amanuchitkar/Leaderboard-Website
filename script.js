@@ -377,35 +377,35 @@ function populateLeaderboardHighlights(data) {
     // Sort data by Skill Badges count (descending)
     const skillBadgesLeaders = [...data]
         .sort((a, b) => {
-            return parseInt(b["Skill Badges Completed"] || 0) - parseInt(a["Skill Badges Completed"] || 0);
+            return parseInt(b["Skill Badges"] || 0) - parseInt(a["Skill Badges"] || 0);
         })
-        .filter(item => parseInt(item["Skill Badges Completed"] || 0) > 0)
+        .filter(item => parseInt(item["Skill Badges"] || 0) > 0)
         .slice(0, 3);
 
     // Sort data by Arcade Games count (descending)
     const arcadeGamesLeaders = [...data]
         .sort((a, b) => {
-            return parseInt(b["Games Completed"] || 0) - parseInt(a["Games Completed"] || 0);
+            return parseInt(b["Arcade Games"] || 0) - parseInt(a["Arcade Games"] || 0);
         })
-        .filter(item => parseInt(item["Games Completed"] || 0) > 0)
+        .filter(item => parseInt(item["Arcade Games"] || 0) > 0)
         .slice(0, 3);
 
     // Sort data by Lab-free Courses count (descending)
     const labCoursesLeaders = [...data]
         .sort((a, b) => {
-            return parseInt(b["Lab-free Courses Completed"] || 0) - parseInt(a["Lab-free Courses Completed"] || 0);
+            return parseInt(b["Lab-free Courses"] || 0) - parseInt(a["Lab-free Courses"] || 0);
         })
-        .filter(item => parseInt(item["Lab-free Courses Completed"] || 0) > 0)
+        .filter(item => parseInt(item["Lab-free Courses"] || 0) > 0)
         .slice(0, 3);
 
     // Update skill badges leaderboard
-    updateLeaderCard('skill-badges', skillBadgesLeaders, "Skill Badges Completed", 'Badges');
+    updateLeaderCard('skill-badges', skillBadgesLeaders, "Skill Badges", 'Badges');
 
     // Update arcade games leaderboard
-    updateLeaderCard('arcade-games', arcadeGamesLeaders, "Games Completed", 'Games');
+    updateLeaderCard('arcade-games', arcadeGamesLeaders, "Arcade Games", 'Games');
 
     // Update lab-free courses leaderboard
-    updateLeaderCard('lab-courses', labCoursesLeaders, "Lab-free Courses Completed", 'Courses');
+    updateLeaderCard('lab-courses', labCoursesLeaders, "Lab-free Courses", 'Courses');
     
     // Add some sample data for testing if no real data
     if (skillBadgesLeaders.length === 0) {
